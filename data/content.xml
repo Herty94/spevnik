@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content xmlns:android="http://schemas.android.com/apk/res/android">
+    <section name="Žalmy" begin="1" end="150">
+    </section>
+    <section name="Všeobecné vzdychy" begin="151" end="172"/>
+    <section name="Sviatočné vzdychy" begin="173" end="209">
+                <section name="Advent" begin="173" end="181"/>
+                <section name="Vianoce" begin="182" end="185"/>
+                <section name="Pôstne obdobie" begin="186" end="194"/>
+                <section name="Kvetná nedeľa" begin="195" end="196" />
+                <section name="Veľký piatok" begin="197" end="198" />
+                <section name="Veľká noc" begin="199" end="203" />
+                <section name="Nanebovstúpenie Pána" begin="204" end="205" />
+                <section name="Svätodušné sviatky" begin="206" end="208" />
+                <section name="Nový rok" begin="209" end="209" />
+            </section>
+    <section name="Začiatočné piesne - Deň Pánov a kresťanské zhromaždenie" begin="210" end="227" />
+    <section name="Vzdychy a piesne pred kázňou Božieho slova" begin="228" end="237" />
+    <section name="Zaverečné piesne, vzdychy a prosby o požehnanie" begin="238" end="253" />
+    <section name="Chválospevy a duchovné piesne" begin="254" end="627" >
+        <section name="Jediné potešenie kresťana" begin="254" end="258"/>
+        <section name="Bieda človeka - Kajúce piesne" begin="259" end="281" />
+        <section name="Vykúpenie človeka" begin="282" end="288" />
+        <section name="Vyznanie viery" begin="289" end="293" />
+        <section name="Svätá Trojica" begin="294" end="300" />
+        <section name="Boh Otec - Stvoriteľ" begin="301" end="310"/>
+        <section name="Božia starostlivosť" begin="311" end="317" />
+        <section name="Dôvera a dúfanie v Boha" begin="318" end="335" />
+        <section name="Ježiš Kristus - Vykupiteľ" begin="336" end="354" />
+        <section name="Zasľúbenie a očakávanie Krista - Advent" begin="355" end="366" />
+        <section name="Príchod a narodenie Ježiša Krista - Vianoce" begin="367" end="388" />
+        <section name="Utrpenie Ježiša Krista" begin="389" end="412" />
+        <section name="Vzkriesenie Ježiša Krista - Veľká noc" begin="413" end="426" />
+        <section name="Vstúpenie Pána Krista na nebesia" begin="427" end="432" />
+        <section name="Príchod Krista Pána k súdu" begin="433" end="435" />
+            <section name="Zoslanie Svätého Ducha - Svätodušné sviatky" begin="436" end="441" />
+            <section name="Prosby o Svätého Ducha" begin="442" end="448" />
+        <section name="Cirkev" begin="449" end="459" />
+            <section name="Konfirmácia" begin="460" end="462" />
+            <section name="Prosby o požehnanie kostola a zvona" begin="463" end="465" />
+            <section name="Misia cirkvi" begin="466" end="468" />
+            <section name="Vyslanie do služby a inštalácia" begin="469" end="470" />
+            <section name="Pamiatka reformácie" begin="471" end="474" />
+            <section name="Kresťanská nádej" begin="475" end="486" />
+            <section name="Pohrebné piesne" begin="487" end="502" />
+            <section name="Ospravedlnenie z milosti skrze vieru" begin="503" end="509" />
+        <section name="Sviatosti" begin="510" end="511" />
+        <section name="Krst" begin="512" end="515" />
+        <section name="Večera Pánova" begin="516" end="530" />
+            <section name="Pokánie a nový život" begin="531" end="540" />
+            <section name="Umŕtvovanie starého človeka a zápas proti hriechu" begin="541" end="544" />
+            <section name="Oživovanie nového človeka" begin="545" end="555" />
+            <section name="Nasledovanie Ježiša Krista" begin="556" end="570" />
+        <section name="Boží zákon" begin="571" end="573" />
+        <section name="Modlidba" begin="574" end="579" />
+            <section name="Osobné modlidby a prosby" begin="580" end="586" />
+            <section name="Modlidba za rodinu" begin="587" end="588" />
+            <section name="Sobášne piesne" begin="589" end="590" />
+            <section name="Modlidby a príhovory za spoločnosť a svet" begin="591" end="593" />
+            <section name="Rozhranie rokov" begin="594" end="600" />
+            <section name="Ranné piesne" begin="601" end="609" />
+            <section name="Večerné piesne" begin="610" end="627" />
+    </section>
+
+</content>
