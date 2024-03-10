@@ -4,8 +4,13 @@ export type VerseProps = {
 }
 
 export type SongProps = {
-  verses: VerseProps[]
+  verses: Array<VerseProps>
   number: number
   text: string
   music: string
+}
+
+export type AppContextProps = {
+  songNumber: number
+  setSongNumber: React.Dispatch<React.SetStateAction<number>>
 }

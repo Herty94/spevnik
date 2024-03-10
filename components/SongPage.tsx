@@ -1,19 +1,30 @@
-import React from 'react'
+import React, { useContext, useMemo } from 'react'
 import { SongProps } from '../types/types'
 import { ScrollView, StyleSheet, Text } from 'react-native'
 import Verse from './Verse'
 import { imageSources } from '../assets/songs/imageSources'
 import { Dimensions, Image } from 'react-native';
+import Swiper from 'react-native-swiper'
+import { AppContext } from '../App'
 
 
-const SongPage = (props: SongProps) => {
+const SongPage = ({ songs }: { songs: SongProps[] }) => {
 
+  const context = useContext(AppContext);
 
-  return (
+  const { songNumber: number } = context
 
+  const song = useMemo((
+  ) => {
+    let s = songs.find(s => s.number === number)
+    return s
+  }, [number])
+
+  return song && (
     <ScrollView contentContainerStyle={styles.container} style={styles.scroll}>
-      <Text style={styles.number}>{props.number}</Text>
-      {imageSources[props.number].map((source, i) => {
+
+      <Text style={styles.number}>{song.number}</Text>
+      {imageSources[song.number].map((source, i) => {
         return <Image style={{ resizeMode: 'contain' }} key={i} source={source} onLoad={(event) => {
           let { height, width } = event.nativeEvent.source
           let ratio = Dimensions.get('window').width * 0.8 / width
@@ -22,11 +33,12 @@ const SongPage = (props: SongProps) => {
       }
       )
       }
-      {props.verses && props.verses.filter(v => v.number !== 1).map((v, i) => <Verse key={i} {...v} />)}
-      <Text>{props.music}</Text>
-      <Text>{props.text}</Text>
+      {song.verses && song.verses.length > 1 ? song.verses.map((v, i) => <Verse key={i} {...v} />) : <></>}
+      <Text style={styles.music}>{song.music}</Text>
+      <Text>{song.text}</Text>
     </ScrollView>
   )
+
 }
 
 const styles = StyleSheet.create({
@@ -38,9 +50,13 @@ const styles = StyleSheet.create({
     width: Dimensions.get("window").width,
   },
   number: {
-    fontSize: 20,
-    fontWeight: '700',
-
+    fontSize: 30,
+    fontWeight: '800',
+    padding: 10,
+  },
+  music: {
+    paddingTop: 10,
+    fontStyle: 'italic',
   }
 }
 );
