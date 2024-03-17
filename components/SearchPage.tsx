@@ -31,23 +31,7 @@ const SearchPage = (props: Props) => {
 
   return (
     <>
-      <Text style={styles.label}>Hľadaj</Text>
-      <TextInput
-        ref={inputRef}
-        style={styles.input}
-        onChangeText={onChangeNumber}
-        value={number}
-        onFocus={() => { onChangeNumber('') }}
-        placeholder="000"
-        keyboardType="numeric"
-        maxLength={3}
-        onSubmitEditing={
-          () => {
-            if (Number(number) <= LAST_SONG && context.setSongNumber) context.setSongNumber(Number(number))
-            navigation.navigate("Piesen");
-          }
-        }
-      />
+
       <Text style={styles.label}>Číslo piesne</Text>
       <TextInput
         ref={inputRef}

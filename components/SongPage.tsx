@@ -64,8 +64,8 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
             if (current - 1 > -10) return current - 1
             else return current
           })
-        }} icon={<Icon size={16} name='font' color="white" type='font-awesome-5' />}></Button>
-        <Button buttonStyle={styles.arrowButton} onPress={() => { setFontFactor(current => current + 1) }} icon={<Icon size={28} name='font' color="white" type='font-awesome-5' />}></Button>
+        }} icon={<Icon size={28} name='minus' color="white" type='font-awesome-5' />}></Button>
+        <Button buttonStyle={styles.arrowButton} onPress={() => { setFontFactor(current => current + 1) }} icon={<Icon size={28} name='plus' color="white" type='font-awesome-5' />}></Button>
       </View>
     </View >
   )
