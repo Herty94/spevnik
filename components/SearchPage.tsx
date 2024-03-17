@@ -1,16 +1,16 @@
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, ParamListBase, NavigationProp } from '@react-navigation/native';
 import React, { useContext, useEffect, useLayoutEffect, useRef } from 'react'
 import { StyleSheet, Text, TextInput } from 'react-native';
-import { AppContext } from '../App';
+import AppContext from '../utils/AppContext';
+import { LAST_SONG } from './SongPage';
 
-const LAST_SONG = 627
 
 type Props = {}
 
 const SearchPage = (props: Props) => {
-  const navigation = useNavigation()
+  const navigation = useNavigation<NavigationProp<ParamListBase>>()
   const [number, onChangeNumber] = React.useState('');
-  const inputRef = useRef(null)
+  const inputRef = useRef<TextInput>(null)
   const context = useContext(AppContext)
 
 
@@ -18,7 +18,7 @@ const SearchPage = (props: Props) => {
     let timer: NodeJS.Timeout
     const unsubscribe = navigation.addListener('focus', () => {
       if (inputRef.current) {
-        timer = setTimeout(() => inputRef.current.focus(), 100);
+        timer = setTimeout(() => inputRef.current!.focus(), 100);
       }
     });
 
@@ -31,6 +31,23 @@ const SearchPage = (props: Props) => {
 
   return (
     <>
+      <Text style={styles.label}>Hľadaj</Text>
+      <TextInput
+        ref={inputRef}
+        style={styles.input}
+        onChangeText={onChangeNumber}
+        value={number}
+        onFocus={() => { onChangeNumber('') }}
+        placeholder="000"
+        keyboardType="numeric"
+        maxLength={3}
+        onSubmitEditing={
+          () => {
+            if (Number(number) <= LAST_SONG && context.setSongNumber) context.setSongNumber(Number(number))
+            navigation.navigate("Piesen");
+          }
+        }
+      />
       <Text style={styles.label}>Číslo piesne</Text>
       <TextInput
         ref={inputRef}
@@ -43,7 +60,7 @@ const SearchPage = (props: Props) => {
         maxLength={3}
         onSubmitEditing={
           () => {
-            if (Number(number) <= LAST_SONG) context.setSongNumber(Number(number))
+            if (Number(number) <= LAST_SONG && context.setSongNumber) context.setSongNumber(Number(number))
             navigation.navigate("Piesen");
           }
         }
@@ -60,7 +77,6 @@ const styles = StyleSheet.create({
     margin: 12,
     fontSize: 32,
     borderRadius: 8,
-    borderWidth: 1,
     textAlign: 'center',
     padding: 10,
     borderWidth: 4,

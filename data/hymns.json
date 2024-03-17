@@ -9629,17 +9629,19 @@
         "music": "Ženeva 1562"
       },
       {
-        "verses": {
-          "lines": [
-            "Všetci ľudia, Pána chváľte,",
-            "velebte Ho, česť Mu vzdajte!",
-            "Preveľká je milosť Jeho,",
-            "Hospodi na všemocného;",
-            "vernosť Božia stále trvá,",
-            "až naveky, haleluja!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Všetci ľudia, Pána chváľte,",
+              "velebte Ho, česť Mu vzdajte!",
+              "Preveľká je milosť Jeho,",
+              "Hospodi na všemocného;",
+              "vernosť Božia stále trvá,",
+              "až naveky, haleluja!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 117,
         "text": "J. Strejc",
         "music": "L. Bourgeois"
@@ -12673,950 +12675,1068 @@
         "music": "Ženeva 1562"
       },
       {
-        "verses": {
-          "lines": [
-            "Pane Bože, žehnaj a nám",
-            "svoju pomoc daj v našich nedostatkoch",
-            "pre Krista, nášho Spasiteľa, Vykupiteľa!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pane Bože, žehnaj a nám",
+              "svoju pomoc daj v našich nedostatkoch",
+              "pre Krista, nášho Spasiteľa, Vykupiteľa!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 151,
         "text": "G. Huszár",
         "music": "Starý graduál 1636"
       },
       {
-        "verses": {
-          "lines": [
-            "Svätý Bože, hoc Teba húfy jasného",
-            "neba spevom večne vzývajú,",
-            "keď však tu v Tvojom dome verné národy",
-            "zeme pred Tebou sa skláňajú, spolu si",
-            "s nimi v Duchu svojom s poníženými.",
-            "Preto i my pred Tvojou jasnosťou v duchu sa",
-            "Ti koríme s vrúcnosťou. Nuž, prijmi",
-            "prosby a vzdychania nášho zhromaždenia!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Svätý Bože, hoc Teba húfy jasného",
+              "neba spevom večne vzývajú,",
+              "keď však tu v Tvojom dome verné národy",
+              "zeme pred Tebou sa skláňajú, spolu si",
+              "s nimi v Duchu svojom s poníženými.",
+              "Preto i my pred Tvojou jasnosťou v duchu sa",
+              "Ti koríme s vrúcnosťou. Nuž, prijmi",
+              "prosby a vzdychania nášho zhromaždenia!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 152,
         "text": "J. Földvári",
         "music": "Kódex Batthyányho, Debrecín 1774"
       },
       {
-        "verses": {
-          "lines": [
-            "Naša pomoc je od Boha,",
-            "lebo v Ňom je milosť mnohá.",
-            "On je sveta Stvoriteľom",
-            "a naším Vykupiteľom."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Naša pomoc je od Boha,",
+              "lebo v Ňom je milosť mnohá.",
+              "On je sveta Stvoriteľom",
+              "a naším Vykupiteľom."
+            ],
+            "number": 1
+          }
+        ],
         "number": 153,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "V mene Boha najvyššieho,",
-            "Stvoriteľa láskavého",
-            "svätú službu začíname,",
-            "piesne vrúcne zaspievame.",
-            "Pane, z nebeskej jasnosti",
-            "osvieť nás svetlom múdrosti,",
-            "aby sme Ťa v pravde ctili",
-            "a od hriechov sa odvrátili!",
-            "Haleluja! Haleluja!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "V mene Boha najvyššieho,",
+              "Stvoriteľa láskavého",
+              "svätú službu začíname,",
+              "piesne vrúcne zaspievame.",
+              "Pane, z nebeskej jasnosti",
+              "osvieť nás svetlom múdrosti,",
+              "aby sme Ťa v pravde ctili",
+              "a od hriechov sa odvrátili!",
+              "Haleluja! Haleluja!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 154,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "V mene Otca Stvoriteľa, Syna Vykupiteľa,",
-            "v mene i Ducha Svätého, nášho Posvätiteľa.",
-            "Zišli sme sa v svätom mene Boha Trojjediného.",
-            "Jemu verní zostaneme až do dňa posledného!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "V mene Otca Stvoriteľa, Syna Vykupiteľa,",
+              "v mene i Ducha Svätého, nášho Posvätiteľa.",
+              "Zišli sme sa v svätom mene Boha Trojjediného.",
+              "Jemu verní zostaneme až do dňa posledného!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 155,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Poďme pred Pána najvyššieho,",
-            "z čistého srdca uctime Ho",
-            "v chráme Jeho velebnosti!",
-            "Nech pred Ním vždy v pokornosti",
-            "stoja ľudia sveta celého!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Poďme pred Pána najvyššieho,",
+              "z čistého srdca uctime Ho",
+              "v chráme Jeho velebnosti!",
+              "Nech pred Ním vždy v pokornosti",
+              "stoja ľudia sveta celého!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 156,
         "text": "Császárov spevník 1864",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Haleluja! Chváľme Boha v zhromaždení",
-            "cirkvi znova vzdajme Bohu slávu, česť!",
-            "Nuž, poďme k Nemu s dôverou, o milosť prosme",
-            "s pokorou, čujme Jeho slova zvesť!",
-            "Pane Bože, požehnaj nás, keď sme tu zas",
-            "zhromaždení! Buď naveky oslávený!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Haleluja! Chváľme Boha v zhromaždení",
+              "cirkvi znova vzdajme Bohu slávu, česť!",
+              "Nuž, poďme k Nemu s dôverou, o milosť prosme",
+              "s pokorou, čujme Jeho slova zvesť!",
+              "Pane Bože, požehnaj nás, keď sme tu zas",
+              "zhromaždení! Buď naveky oslávený!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 157,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Otvoril sa nám svätý chrám",
-            "a v ňom pred jasnosťou Tvojou",
-            "koríme sa dušou svojou.",
-            "Zošli Svätého Ducha nám,",
-            "nech spravuje, riadi nás sám!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Otvoril sa nám svätý chrám",
+              "a v ňom pred jasnosťou Tvojou",
+              "koríme sa dušou svojou.",
+              "Zošli Svätého Ducha nám,",
+              "nech spravuje, riadi nás sám!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 158,
         "text": "Császárov spevník 1864",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Svätý, svätý, svätý je Pán Boh,",
-            "všemocný Vládca,",
-            "ktorý bol, ktorý je a príde",
-            "zas ako Sudca. Ty si hoden",
-            "prijať od nás zo srdca,",
-            "slávu, česť, moc, Ty náš Tvorca."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Svätý, svätý, svätý je Pán Boh,",
+              "všemocný Vládca,",
+              "ktorý bol, ktorý je a príde",
+              "zas ako Sudca. Ty si hoden",
+              "prijať od nás zo srdca,",
+              "slávu, česť, moc, Ty náš Tvorca."
+            ],
+            "number": 1
+          }
+        ],
         "number": 159,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, Bože večný, buď vždy oslávený!",
-            "Pozri sa na nás Tvoj ľud zhromaždený.",
-            "Lebo Ti chceme vrúcnu vďaku vzdávať",
-            "a Tvoje slovo v srdciach zachovávať.",
-            "Na naše modlitby odpoveď daj",
-            "a naše zhromaždenie požehnaj!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, Bože večný, buď vždy oslávený!",
+              "Pozri sa na nás Tvoj ľud zhromaždený.",
+              "Lebo Ti chceme vrúcnu vďaku vzdávať",
+              "a Tvoje slovo v srdciach zachovávať.",
+              "Na naše modlitby odpoveď daj",
+              "a naše zhromaždenie požehnaj!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 160,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Bože, Ty vieš, čo nám treba,",
-            "v čom nedostatok máme,",
-            "preto hľadáme u Teba",
-            "pomoc aj v tomto chráme.",
-            "Bože, Ty sám nadchni nás,",
-            "dušu, srdce i jazyk náš,",
-            "nech Ťa velebíme zas",
-            "a svedčíme, že nás žehnáš."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Bože, Ty vieš, čo nám treba,",
+              "v čom nedostatok máme,",
+              "preto hľadáme u Teba",
+              "pomoc aj v tomto chráme.",
+              "Bože, Ty sám nadchni nás,",
+              "dušu, srdce i jazyk náš,",
+              "nech Ťa velebíme zas",
+              "a svedčíme, že nás žehnáš."
+            ],
+            "number": 1
+          }
+        ],
         "number": 161,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Pane Bože náš, k Tebe sa modlíme,",
-            "ráč posvätiť nás, keď tu srdečne",
-            "všetci spoločne Tebe sa koríme."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pane Bože náš, k Tebe sa modlíme,",
+              "ráč posvätiť nás, keď tu srdečne",
+              "všetci spoločne Tebe sa koríme."
+            ],
+            "number": 1
+          }
+        ],
         "number": 162,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Príď, Duchu Svätý, z výsosti,",
-            "všetkých nás tu požehnaj,",
-            "pri našej svätej činnosti",
-            "milosť nám vždy udieľaj,",
-            "nech naše srdcia, mysle",
-            "sa nesú k Tebe bližšie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Príď, Duchu Svätý, z výsosti,",
+              "všetkých nás tu požehnaj,",
+              "pri našej svätej činnosti",
+              "milosť nám vždy udieľaj,",
+              "nech naše srdcia, mysle",
+              "sa nesú k Tebe bližšie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 163,
         "text": "J. Földvári",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Zošli, Bože, Ducha svojho",
-            "do zhromaždenia tohto,",
-            "nech Ťa tu, Boha živého,",
-            "ctí zo srdca verného!",
-            "Myseľ našu pozdvihni,",
-            "slovom svojím posilni!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Zošli, Bože, Ducha svojho",
+              "do zhromaždenia tohto,",
+              "nech Ťa tu, Boha živého,",
+              "ctí zo srdca verného!",
+              "Myseľ našu pozdvihni,",
+              "slovom svojím posilni!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 164,
         "text": "J. Földvári",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Pane Bože náš velebný,",
-            "Otče, Synu, Duchu Svätý!",
-            "Daj sa nám teraz oslavovať",
-            "v tomto svätom zhromaždení,",
-            "keď u Teba v ponížení",
-            "chceme svoje spasenie hľadať."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pane Bože náš velebný,",
+              "Otče, Synu, Duchu Svätý!",
+              "Daj sa nám teraz oslavovať",
+              "v tomto svätom zhromaždení,",
+              "keď u Teba v ponížení",
+              "chceme svoje spasenie hľadať."
+            ],
+            "number": 1
+          }
+        ],
         "number": 165,
         "text": "Császárov spevník 1864",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "S úprimnosťou srdca svojho",
-            "prišli sme do chrámu Tvojho",
-            "Tvoje meno oslavovať,",
-            "Tvoju slávu zvelebovať.",
-            "Bože, veď nás milostivo",
-            "a daj, aby sme horlivo",
-            "chválili sväté meno Tvoje",
-            "a hľadali spasenie svoje!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "S úprimnosťou srdca svojho",
+              "prišli sme do chrámu Tvojho",
+              "Tvoje meno oslavovať,",
+              "Tvoju slávu zvelebovať.",
+              "Bože, veď nás milostivo",
+              "a daj, aby sme horlivo",
+              "chválili sväté meno Tvoje",
+              "a hľadali spasenie svoje!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 166,
         "text": "Császárov spevník 1864",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Svätý si, Pane náš, k Tebe sa modlíme,",
-            "v Tvojom svätom chráme Tebe sa koríme,",
-            "srdcia, ktoré pokorné máme,",
-            "Tebe dávame, Tebe dávame."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Svätý si, Pane náš, k Tebe sa modlíme,",
+              "v Tvojom svätom chráme Tebe sa koríme,",
+              "srdcia, ktoré pokorné máme,",
+              "Tebe dávame, Tebe dávame."
+            ],
+            "number": 1
+          }
+        ],
         "number": 167,
         "text": "Debrecín 1590",
         "music": "Cithara sanctorum 1696"
       },
       {
-        "verses": {
-          "lines": [
-            "Žiť s Bohom a s Ním putovať, životom Ho",
-            "oslavovať, vo viere pravej pevne stáť,",
-            "Kriste Pane, uč nás, uč nás sa modlievať!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Žiť s Bohom a s Ním putovať, životom Ho",
+              "oslavovať, vo viere pravej pevne stáť,",
+              "Kriste Pane, uč nás, uč nás sa modlievať!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 168,
         "text": "Kluž 1837",
         "music": "Kluž 1837"
       },
       {
-        "verses": {
-          "lines": [
-            "Ten človek je šťastlivý, ktorý Ťa,",
-            "spravodlivý, živý Bože, poznáva.",
-            "A v svätom zhromaždení v úprimnom ponížení",
-            "chváli Ťa a vyznáva.",
-            "Vieme, Bože náš, že i nás tu teraz požehnáš,",
-            "aby sme Ťa poznali vždy lepšie a denne",
-            "Ťa vzývali vrúcnejšie. Aj dnes darmi",
-            "Ducha Svätého obdar z nás každého!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ten človek je šťastlivý, ktorý Ťa,",
+              "spravodlivý, živý Bože, poznáva.",
+              "A v svätom zhromaždení v úprimnom ponížení",
+              "chváli Ťa a vyznáva.",
+              "Vieme, Bože náš, že i nás tu teraz požehnáš,",
+              "aby sme Ťa poznali vždy lepšie a denne",
+              "Ťa vzývali vrúcnejšie. Aj dnes darmi",
+              "Ducha Svätého obdar z nás každého!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 169,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Nové ráno sa nám hlási,",
-            "nuž, poďte, bohabojní,",
-            "spievajte: Svätý si, svätý,",
-            "svätý, Bože náš dobrý!",
-            "Kým v tomto svätom chráme",
-            "chválospevy spievame,",
-            "Svoju pomoc, požehnanie,",
-            "daj na naše zhromaždenie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Nové ráno sa nám hlási,",
+              "nuž, poďte, bohabojní,",
+              "spievajte: Svätý si, svätý,",
+              "svätý, Bože náš dobrý!",
+              "Kým v tomto svätom chráme",
+              "chválospevy spievame,",
+              "Svoju pomoc, požehnanie,",
+              "daj na naše zhromaždenie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 170,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Boha stvorenia pozemské chvália",
-            "neprestajne. Spievajú chóry anjelské:",
-            "\"Svätý si, náš Pane!\""
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Boha stvorenia pozemské chvália",
+              "neprestajne. Spievajú chóry anjelské:",
+              "\"Svätý si, náš Pane!\""
+            ],
+            "number": 1
+          }
+        ],
         "number": 171,
         "text": "Debrecín 1774",
         "music": "J. Crüger"
       },
       {
-        "verses": {
-          "lines": [
-            "Slávte Otca Stvoriteľa",
-            "i Syna Vykupiteľa,",
-            "slávte i Ducha Svätého,",
-            "v Trojici Boha jedného!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Slávte Otca Stvoriteľa",
+              "i Syna Vykupiteľa,",
+              "slávte i Ducha Svätého,",
+              "v Trojici Boha jedného!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 172,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Príď, Hosť náš vzácny, už Ťa čakáme,",
-            "cesty Ti urovnávame,",
-            "chodníky k Tebe upravujeme,",
-            "navštív nás, len to žiadame,",
-            "živou vierou Ťa do sŕdc prijmeme",
-            "a len s Tebou vždy žiť chceme."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Príď, Hosť náš vzácny, už Ťa čakáme,",
+              "cesty Ti urovnávame,",
+              "chodníky k Tebe upravujeme,",
+              "navštív nás, len to žiadame,",
+              "živou vierou Ťa do sŕdc prijmeme",
+              "a len s Tebou vždy žiť chceme."
+            ],
+            "number": 1
+          }
+        ],
         "number": 173,
         "text": "Š. Lukáč",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Príď, ó, Kráľu večnosti, plný",
-            "lásky, milosti, Kriste predpovedaný,",
-            "v pravý čas svetu daný!",
-            "V srdciach našich stan svoj maj",
-            "a nám požehnanie daj!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Príď, ó, Kráľu večnosti, plný",
+              "lásky, milosti, Kriste predpovedaný,",
+              "v pravý čas svetu daný!",
+              "V srdciach našich stan svoj maj",
+              "a nám požehnanie daj!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 174,
         "text": "A. Maťašík",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Spásu nesieš iste, ktorú očakávame.",
-            "Príď, všetkých nás osvieť láskou",
-            "a múdrosťou kceste spásy priveď,",
-            "nás Božou milosťou!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Spásu nesieš iste, ktorú očakávame.",
+              "Príď, všetkých nás osvieť láskou",
+              "a múdrosťou kceste spásy priveď,",
+              "nás Božou milosťou!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 175,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Spasiteľu, Kriste náš, radostne",
-            "Ťa vítame, záchranu Ty",
-            "pre nás máš, preto česť Ti vzdávame.",
-            "Požehnaj nás, prosíme,",
-            "keď sa Ti tu modlíme."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Spasiteľu, Kriste náš, radostne",
+              "Ťa vítame, záchranu Ty",
+              "pre nás máš, preto česť Ti vzdávame.",
+              "Požehnaj nás, prosíme,",
+              "keď sa Ti tu modlíme."
+            ],
+            "number": 1
+          }
+        ],
         "number": 176,
         "text": "A. Maťašík",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Adventný čas, haleluja, nesie",
-            "prorockú zvesť: Syna svojho nám",
-            "posiela Hospodin, Pán nebies,",
-            "Hospodin, Pán nebies."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Adventný čas, haleluja, nesie",
+              "prorockú zvesť: Syna svojho nám",
+              "posiela Hospodin, Pán nebies,",
+              "Hospodin, Pán nebies."
+            ],
+            "number": 1
+          }
+        ],
         "number": 177,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Prijmi, Bože náš, našej vďaky hlas,",
-            "za to, že nám zas spásu zosielaš",
-            "a že v Kristovi si život nový",
-            "nám hriešnym daroval, do služby povolal."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Prijmi, Bože náš, našej vďaky hlas,",
+              "za to, že nám zas spásu zosielaš",
+              "a že v Kristovi si život nový",
+              "nám hriešnym daroval, do služby povolal."
+            ],
+            "number": 1
+          }
+        ],
         "number": 178,
         "text": "A. Maťašík",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Rýchlo cestu pripravujte",
-            "Kristus ide ako Kráľ.",
-            "Nový šat si prihotujte",
-            "radosť nech nahradí žiaľ,",
-            "Kristus spasiť prichádza",
-            "hriešnych, ktorých nachádza."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Rýchlo cestu pripravujte",
+              "Kristus ide ako Kráľ.",
+              "Nový šat si prihotujte",
+              "radosť nech nahradí žiaľ,",
+              "Kristus spasiť prichádza",
+              "hriešnych, ktorých nachádza."
+            ],
+            "number": 1
+          }
+        ],
         "number": 179,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Kriste, Teba vítame,",
-            "svoje srdcia chystáme,",
-            "prosíme, ráč do nich vojsť",
-            "ako náš prevzácny hosť",
-            "v tichom čase adventu zas.",
-            "Tvoju cestu rovnáme",
-            "a na Teba voláme,",
-            "zmiluj sa, buď stále pri nás!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Kriste, Teba vítame,",
+              "svoje srdcia chystáme,",
+              "prosíme, ráč do nich vojsť",
+              "ako náš prevzácny hosť",
+              "v tichom čase adventu zas.",
+              "Tvoju cestu rovnáme",
+              "a na Teba voláme,",
+              "zmiluj sa, buď stále pri nás!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 180,
         "text": "A. Maťašík",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, príď, ó, príď, Spasiteľ milý,",
-            "na Teba svet zrak upiera. Ó, príď, ó,",
-            "príď, nech z Tvojej sily žije, čo",
-            "v hriechu umiera! A daj nám",
-            "nádej v lepšie časy, keď my sme",
-            "Tvoji a Ty náš si."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, príď, ó, príď, Spasiteľ milý,",
+              "na Teba svet zrak upiera. Ó, príď, ó,",
+              "príď, nech z Tvojej sily žije, čo",
+              "v hriechu umiera! A daj nám",
+              "nádej v lepšie časy, keď my sme",
+              "Tvoji a Ty náš si."
+            ],
+            "number": 1
+          }
+        ],
         "number": 181,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ježiš sa nám narodil! Ježiš sa nám",
-            "narodil! Kresťania, sa radujme!",
-            "A hriešnych vyslobodil a hriešnych vyslobodil,",
-            "veselo vyspevujme! Poďme s vernými",
-            "pastiermi, hľa, betlehemskými,",
-            "Pána nášho snaživo hľadajme, česť Mu zo",
-            "sŕdc oddaných vzdávajme! Veď nám priniesol",
-            "vykúpenie i večné spasenie."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ježiš sa nám narodil! Ježiš sa nám",
+              "narodil! Kresťania, sa radujme!",
+              "A hriešnych vyslobodil a hriešnych vyslobodil,",
+              "veselo vyspevujme! Poďme s vernými",
+              "pastiermi, hľa, betlehemskými,",
+              "Pána nášho snaživo hľadajme, česť Mu zo",
+              "sŕdc oddaných vzdávajme! Veď nám priniesol",
+              "vykúpenie i večné spasenie."
+            ],
+            "number": 1
+          }
+        ],
         "number": 182,
         "text": "Kódex Batthyányho 1550",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Spievajme s anjelmi: \"Buď Bohu",
-            "na nebi sláva,",
-            "na zemi pokoj buď, ktorý On",
-            "vždy ľuďom dáva!\" Veď Kristus Pán",
-            "narodil sa všetkým nám,",
-            "Spasiteľ náš, naša Hlava."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Spievajme s anjelmi: \"Buď Bohu",
+              "na nebi sláva,",
+              "na zemi pokoj buď, ktorý On",
+              "vždy ľuďom dáva!\" Veď Kristus Pán",
+              "narodil sa všetkým nám,",
+              "Spasiteľ náš, naša Hlava."
+            ],
+            "number": 1
+          }
+        ],
         "number": 183,
         "text": "A. Maťašík",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Večná sláva buď Bohu, večná sláva buď",
-            "Bohu na nebeskej výsosti!",
-            "Pokoj na celej zemi, pokoj na celej",
-            "zemi i v každom ľudskom srdci. Chválu spievajme,",
-            "Kráľa neba na zemi máme.",
-            "Spravodlivosť a pokoj ide s Ním, slobody,",
-            "lásky je zdroj zomdleným. Nuž, srdcia",
-            "pred Ním otvárajme a Naňho čakajme!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Večná sláva buď Bohu, večná sláva buď",
+              "Bohu na nebeskej výsosti!",
+              "Pokoj na celej zemi, pokoj na celej",
+              "zemi i v každom ľudskom srdci. Chválu spievajme,",
+              "Kráľa neba na zemi máme.",
+              "Spravodlivosť a pokoj ide s Ním, slobody,",
+              "lásky je zdroj zomdleným. Nuž, srdcia",
+              "pred Ním otvárajme a Naňho čakajme!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 184,
         "text": "Spevník 1923",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Anjeli spievajú: Sláva!",
-            "Boh nám svojho Syna dáva.",
-            "V Betleheme sa narodil,",
-            "aby hriešnych vyslobodil.",
-            "Vzdajme úctu Bohu svojmu,",
-            "že nám dáva spásu svoju!",
-            "Preto teraz Krista slávme,",
-            "že v Ňom Božiu spásu už máme:",
-            "haleluja, haleluja!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Anjeli spievajú: Sláva!",
+              "Boh nám svojho Syna dáva.",
+              "V Betleheme sa narodil,",
+              "aby hriešnych vyslobodil.",
+              "Vzdajme úctu Bohu svojmu,",
+              "že nám dáva spásu svoju!",
+              "Preto teraz Krista slávme,",
+              "že v Ňom Božiu spásu už máme:",
+              "haleluja, haleluja!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 185,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Vzdycháme a srdcia máme",
-            "smutné pred Tebou, náš Pane,",
-            "a pokiaľ sa Ti tu koríme,",
-            "nech Tvoj pohľad na nás spočinie!",
-            "Viď rany, slzy roniacich",
-            "a pre hriechy sa trápiacich,",
-            "zmiluj sa nad kajúcimi,",
-            "v láske svojej vždy buď s nimi!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vzdycháme a srdcia máme",
+              "smutné pred Tebou, náš Pane,",
+              "a pokiaľ sa Ti tu koríme,",
+              "nech Tvoj pohľad na nás spočinie!",
+              "Viď rany, slzy roniacich",
+              "a pre hriechy sa trápiacich,",
+              "zmiluj sa nad kajúcimi,",
+              "v láske svojej vždy buď s nimi!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 186,
         "text": "Prídavok 1937",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Kriste, Baránku Boží, ktorý",
-            "si zomrel za nás tam na golgotskom kríži,",
-            "poslušnosťou spasil nás! Naše viny si",
-            "niesol, spasenie nám priniesol.",
-            "Zmiluj sa, zmiluj, Ježišu!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Kriste, Baránku Boží, ktorý",
+              "si zomrel za nás tam na golgotskom kríži,",
+              "poslušnosťou spasil nás! Naše viny si",
+              "niesol, spasenie nám priniesol.",
+              "Zmiluj sa, zmiluj, Ježišu!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 187,
         "text": "Rostock 1531",
         "music": "Erfurt 1542"
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, Ježišu, Ty snímaš hriech",
-            "sveta celého, veď ľudskú biedu",
-            "poznáš pozbavuj nás zlého. Ó,",
-            "baránku, krv Tvoja naše hriechy zmýva,",
-            "hoc sa nás skaziť stroja",
-            "Tvoja milosť trvá."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, Ježišu, Ty snímaš hriech",
+              "sveta celého, veď ľudskú biedu",
+              "poznáš pozbavuj nás zlého. Ó,",
+              "baránku, krv Tvoja naše hriechy zmýva,",
+              "hoc sa nás skaziť stroja",
+              "Tvoja milosť trvá."
+            ],
+            "number": 1
+          }
+        ],
         "number": 188,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Buď aj k nám milostivý, obdaruj",
-            "nás vierou, že v Kristovi z milosti",
-            "dávaš spásu v hojnosti: odpustenie hriechov."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Buď aj k nám milostivý, obdaruj",
+              "nás vierou, že v Kristovi z milosti",
+              "dávaš spásu v hojnosti: odpustenie hriechov."
+            ],
+            "number": 1
+          }
+        ],
         "number": 189,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Zmiluj sa, ó, dobrý Bože,",
-            "zmiluj sa nad hriešnymi.",
-            "Nech z nás každý poznať môže",
-            "že nimi sme všetci my.",
-            "Kriste, Ty jsi Baránok",
-            "ktorý sníma hriechy sveta,",
-            "daj vo viere závdavok,",
-            "že v Tebe je spása svätá!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Zmiluj sa, ó, dobrý Bože,",
+              "zmiluj sa nad hriešnymi.",
+              "Nech z nás každý poznať môže",
+              "že nimi sme všetci my.",
+              "Kriste, Ty jsi Baránok",
+              "ktorý sníma hriechy sveta,",
+              "daj vo viere závdavok,",
+              "že v Tebe je spása svätá!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 190,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, veľkosť Tvojho utrpenia",
-            "keď si zas uvedomíme,",
-            "hneď vyznať svoje poblúdenia",
-            "pred Tebou, teraz, túžime.",
-            "Ó, zmiluj sa, tak prosíme",
-            "na slovo spásy čakáme."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, veľkosť Tvojho utrpenia",
+              "keď si zas uvedomíme,",
+              "hneď vyznať svoje poblúdenia",
+              "pred Tebou, teraz, túžime.",
+              "Ó, zmiluj sa, tak prosíme",
+              "na slovo spásy čakáme."
+            ],
+            "number": 1
+          }
+        ],
         "number": 191,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Jedine Kristus Pán je náš kňaz,",
-            "pred Neho vchádzame.",
-            "Len On ťarchu hriechu sníma z nás,",
-            "Jemu sa klaniame. Bol pokúšaný,",
-            "trpel, zomrel pre nás a hriešny svet,",
-            "tým moc hriechu a smrti",
-            "potrel. Bez Neho spásy niet."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Jedine Kristus Pán je náš kňaz,",
+              "pred Neho vchádzame.",
+              "Len On ťarchu hriechu sníma z nás,",
+              "Jemu sa klaniame. Bol pokúšaný,",
+              "trpel, zomrel pre nás a hriešny svet,",
+              "tým moc hriechu a smrti",
+              "potrel. Bez Neho spásy niet."
+            ],
+            "number": 1
+          }
+        ],
         "number": 192,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Kriste, Ty si trpel za nás, aby sme s Tebou žili,",
-            "pozri sa na nás aj teraz, keď sme sa zhromaždili,",
-            "zmiluj sa, daj odpustenie",
-            "požehnaj nám zhromaždenie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Kriste, Ty si trpel za nás, aby sme s Tebou žili,",
+              "pozri sa na nás aj teraz, keď sme sa zhromaždili,",
+              "zmiluj sa, daj odpustenie",
+              "požehnaj nám zhromaždenie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 193,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Pred Krista poďme, On je Sudca,",
-            "v Ňom nás Boh ospravedlnil.",
-            "A obnovujme svoje srdcia",
-            "vo viere, čo nám umožnil.",
-            "Veď Kristus pre nás život dal",
-            "a Božou spásou požehnal."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pred Krista poďme, On je Sudca,",
+              "v Ňom nás Boh ospravedlnil.",
+              "A obnovujme svoje srdcia",
+              "vo viere, čo nám umožnil.",
+              "Veď Kristus pre nás život dal",
+              "a Božou spásou požehnal."
+            ],
+            "number": 1
+          }
+        ],
         "number": 194,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Nech zvučí dnes Hosanna! Nech zvučí dnes",
-            "Hosanna na triumf Krista Pána!",
-            "Poďme v rukách s palmami! Poďme v srdciach s",
-            "chválami a sprevádzajme Pána! Česť Mu vzdávajme,",
-            "Vládcu neba, zeme vítajme!",
-            "Bože, pomôž Kráľovi Kristovi! Daj Mu plné",
-            "víťazstvo, kráľovstvo! Vyslyš naše vrúcne volanie",
-            "a prijmi plesanie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Nech zvučí dnes Hosanna! Nech zvučí dnes",
+              "Hosanna na triumf Krista Pána!",
+              "Poďme v rukách s palmami! Poďme v srdciach s",
+              "chválami a sprevádzajme Pána! Česť Mu vzdávajme,",
+              "Vládcu neba, zeme vítajme!",
+              "Bože, pomôž Kráľovi Kristovi! Daj Mu plné",
+              "víťazstvo, kráľovstvo! Vyslyš naše vrúcne volanie",
+              "a prijmi plesanie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 195,
         "text": "Piesne pobožné 1929",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, radosť zvesti prorockej:",
-            "Povedzte dcére sionskej,",
-            "ajhľa, tvoj Kráľ k tebe prichádza,",
-            "krotký, sediac na oslovi.",
-            "Aj nás to slovo osloví:",
-            "Spása, večný život prichádza!",
-            "Spievaj: Hosanna v radosti",
-            "Ježišovi na výsosti!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, radosť zvesti prorockej:",
+              "Povedzte dcére sionskej,",
+              "ajhľa, tvoj Kráľ k tebe prichádza,",
+              "krotký, sediac na oslovi.",
+              "Aj nás to slovo osloví:",
+              "Spása, večný život prichádza!",
+              "Spievaj: Hosanna v radosti",
+              "Ježišovi na výsosti!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 196,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "V trúchlivý Veľký piatok, v trúchlivý Veľký",
-            "piatok zármutok premáhajme!",
-            "A v tento veľký sviatok, a v tento veľký",
-            "sviatok hrobu sa neľakajme, lebo Kristus Pán",
-            "premohol smrť a moc hrobu sám.",
-            "Hoci pre naše zlosti, krehkosti smrť na kríži",
-            "podstúpil, kalich pil, predsa nám",
-            "Jeho utrpenie prinislo spasenie."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "V trúchlivý Veľký piatok, v trúchlivý Veľký",
+              "piatok zármutok premáhajme!",
+              "A v tento veľký sviatok, a v tento veľký",
+              "sviatok hrobu sa neľakajme, lebo Kristus Pán",
+              "premohol smrť a moc hrobu sám.",
+              "Hoci pre naše zlosti, krehkosti smrť na kríži",
+              "podstúpil, kalich pil, predsa nám",
+              "Jeho utrpenie prinislo spasenie."
+            ],
+            "number": 1
+          }
+        ],
         "number": 197,
         "text": "Prídavok 1937",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Zarmútení hľadíme na Teba",
-            "dnes, Kriste, miluješ nás, cítime, hoc umieraš",
-            "iste. Pred Tebou sa koríme, vypočuj",
-            "nás, Pane, odpusť hriechy, prosíme,",
-            "a prijmi pokánie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Zarmútení hľadíme na Teba",
+              "dnes, Kriste, miluješ nás, cítime, hoc umieraš",
+              "iste. Pred Tebou sa koríme, vypočuj",
+              "nás, Pane, odpusť hriechy, prosíme,",
+              "a prijmi pokánie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 198,
         "text": "Prídavok 1937",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Vo sviatky veľkonočné, vo sviatky",
-            "veľkonočné chváľme Boha verného,",
-            "veď Syna svojho za nás, veď Syna svojho",
-            "za nás vzkriesil v tele slávneho. Jemu sa",
-            "vzdáva v cirkvi dnes česť i večná sláva.",
-            "Vy národy kresťanské, hlásajte, i vy zbory",
-            "anjelské, spievajte: Boh vykúpil",
-            "svoj ľud z milosti, slávte Ho v radosti!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vo sviatky veľkonočné, vo sviatky",
+              "veľkonočné chváľme Boha verného,",
+              "veď Syna svojho za nás, veď Syna svojho",
+              "za nás vzkriesil v tele slávneho. Jemu sa",
+              "vzdáva v cirkvi dnes česť i večná sláva.",
+              "Vy národy kresťanské, hlásajte, i vy zbory",
+              "anjelské, spievajte: Boh vykúpil",
+              "svoj ľud z milosti, slávte Ho v radosti!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 199,
         "text": "Kódex Batthyányho 1550",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Kristus Pán z mŕtvych vstal, hoci v smrti účasť mal",
-            "Z toho sa my radujme, veselo vyspevujme: Haleluja!",
-            "Bez Jeho vzkriesenia niet hriechov odpustenia.",
-            "Vstal však! Česť Mu vzdávajme, na slávu Mu spievajme: Haleluja!",
-            "Haleluja, haleluja, haleluja! Z toho",
-            "sa my radujme, veselo vyspevujme: Haleluja!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Kristus Pán z mŕtvych vstal, hoci v smrti účasť mal",
+              "Z toho sa my radujme, veselo vyspevujme: Haleluja!",
+              "Bez Jeho vzkriesenia niet hriechov odpustenia.",
+              "Vstal však! Česť Mu vzdávajme, na slávu Mu spievajme: Haleluja!",
+              "Haleluja, haleluja, haleluja! Z toho",
+              "sa my radujme, veselo vyspevujme: Haleluja!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 200,
         "text": "Text x 13. st.",
         "music": "Nemecká ľudová melódia z 13. st."
       },
       {
-        "verses": {
-          "lines": [
-            "Vo veľkonočné sviatky, vo veľkonočné",
-            "sviatky, kresťania, sa radujme!",
-            "Zo srdca úprimného, zo srdca úprimného",
-            "veselo vyspevujme! Ježiš z mŕtvych",
-            "vstal a nám všetkým uistenie dal,",
-            "že hoc do prachu zeme padneme, predsa v radosti",
-            "znovu vstaneme. Nuž, Kriste",
-            "náš, požehnaj nás sám, veď si náš večný Pán!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vo veľkonočné sviatky, vo veľkonočné",
+              "sviatky, kresťania, sa radujme!",
+              "Zo srdca úprimného, zo srdca úprimného",
+              "veselo vyspevujme! Ježiš z mŕtvych",
+              "vstal a nám všetkým uistenie dal,",
+              "že hoc do prachu zeme padneme, predsa v radosti",
+              "znovu vstaneme. Nuž, Kriste",
+              "náš, požehnaj nás sám, veď si náš večný Pán!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 201,
         "text": "É. Budai",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Haleluja! Haleluja! Vstal z mŕtvych náš",
-            "Vykupiteľ, v nebesiach žije večne.",
-            "Bohu nech je za to chvála, že smrť zlomil",
-            "náš Spasiteľ, slávme Ho vždy srdečne!",
-            "Kristus nad smrťou zvíťazil, satana, hrob,",
-            "smrť porazil, chváľme Ho za to vďačne!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Haleluja! Haleluja! Vstal z mŕtvych náš",
+              "Vykupiteľ, v nebesiach žije večne.",
+              "Bohu nech je za to chvála, že smrť zlomil",
+              "náš Spasiteľ, slávme Ho vždy srdečne!",
+              "Kristus nad smrťou zvíťazil, satana, hrob,",
+              "smrť porazil, chváľme Ho za to vďačne!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 202,
         "text": "Prídavok 1937",
         "music": "Prídavok 1937"
       },
       {
-        "verses": {
-          "lines": [
-            "Haleluja! Krista slávme,",
-            "novým životom Ho chváľme,",
-            "lebo smrť, vzkriesenie Jeho",
-            "sú základ spasenia nášho.",
-            "Preto dnes sa radujeme,",
-            "v Kristovi že spásu máme.",
-            "Vzkriesený Kristus je s nami,",
-            "preto spievajme teraz aj my:",
-            "haleluja, haleluja!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Haleluja! Krista slávme,",
+              "novým životom Ho chváľme,",
+              "lebo smrť, vzkriesenie Jeho",
+              "sú základ spasenia nášho.",
+              "Preto dnes sa radujeme,",
+              "v Kristovi že spásu máme.",
+              "Vzkriesený Kristus je s nami,",
+              "preto spievajme teraz aj my:",
+              "haleluja, haleluja!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 203,
         "text": "M. Hamari",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Oslávený Kriste náš, ktorý",
-            "v nebesiach bývaš, prijmi naše",
-            "pokánie, srdcia Tebe oddané,",
-            "aby sme k Tebe, Kriste,",
-            "prišli do neba iste!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Oslávený Kriste náš, ktorý",
+              "v nebesiach bývaš, prijmi naše",
+              "pokánie, srdcia Tebe oddané,",
+              "aby sme k Tebe, Kriste,",
+              "prišli do neba iste!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 204,
         "text": "Prídavok 1937",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Pane, si nás milosťou vykúpil,",
-            "na pravicu Otca sám si vstúpil,",
-            "za to Ťa my stále vzývať chceme",
-            "a raz k Tebe do neba prídeme."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pane, si nás milosťou vykúpil,",
+              "na pravicu Otca sám si vstúpil,",
+              "za to Ťa my stále vzývať chceme",
+              "a raz k Tebe do neba prídeme."
+            ],
+            "number": 1
+          }
+        ],
         "number": 205,
         "text": "Prídavok 1937",
         "music": "Debrecín 1774"
       },
       {
-        "verses": {
-          "lines": [
-            "Vo sviatky svätodušné, vo sviatky",
-            "svätodušné chváľme Boha večného,",
-            "ktorý nám z neba zoslal, ktorý nám z neba",
-            "zoslal Ducha svojho Svätého! Bože nad",
-            "nami, všetci prichádzame s chválami",
-            "a zo srdca čistého spievame, Ducha Tvojho",
-            "Svätého vzývame, aby nám",
-            "láska, radosť, pokoj dali úžitok svoj."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vo sviatky svätodušné, vo sviatky",
+              "svätodušné chváľme Boha večného,",
+              "ktorý nám z neba zoslal, ktorý nám z neba",
+              "zoslal Ducha svojho Svätého! Bože nad",
+              "nami, všetci prichádzame s chválami",
+              "a zo srdca čistého spievame, Ducha Tvojho",
+              "Svätého vzývame, aby nám",
+              "láska, radosť, pokoj dali úžitok svoj."
+            ],
+            "number": 1
+          }
+        ],
         "number": 206,
         "text": "Kódex Batthyányho 1550",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ó, Duchu Svätý, Ty nadchýnaj,",
-            "nám proti zlobe viac sily daj!",
-            "Veď satan zvádza, napadá hneď,",
-            "Boh svojou mocou chráni náš svet.",
-            "Príď, Duchu Svätý, príď, Duchu Svätý!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ó, Duchu Svätý, Ty nadchýnaj,",
+              "nám proti zlobe viac sily daj!",
+              "Veď satan zvádza, napadá hneď,",
+              "Boh svojou mocou chráni náš svet.",
+              "Príď, Duchu Svätý, príď, Duchu Svätý!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 207,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Vo svätodušné sviatky, vo svätodušné",
-            "sviatky spevom radostným znie chrám,",
-            "lebo Kristus Pán z lásky, lebo Kristus Pán",
-            "z lásky Ducha Svätého dal nám. Jeho sila",
-            "je zdrojom každej múdrosti našej.",
-            "On svetlo zapaľuje nám v srdciach, odvahu",
-            "nám daruje v ťažkostiach. Svätý Duchu,",
-            "ostávaj pri nás a sám znovuzroď nás!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vo svätodušné sviatky, vo svätodušné",
+              "sviatky spevom radostným znie chrám,",
+              "lebo Kristus Pán z lásky, lebo Kristus Pán",
+              "z lásky Ducha Svätého dal nám. Jeho sila",
+              "je zdrojom každej múdrosti našej.",
+              "On svetlo zapaľuje nám v srdciach, odvahu",
+              "nám daruje v ťažkostiach. Svätý Duchu,",
+              "ostávaj pri nás a sám znovuzroď nás!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 208,
         "text": "J. Lengyel",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Nový rok nám požehnaj, nový rok nám",
-            "požehnaj z lásky svojej, Bože náš!",
-            "Hojnosťou ho korunuj, hojnosťou ho korunuj,",
-            "Hospodine, Bože náš! Nech to uznajú,",
-            "ktorí na zei prebývajú,",
-            "že Ty ich tu zdržuješ s radosťou, zem pre nich",
-            "naplňuješ hojnosťou, preto Tvoje",
-            "meno slávime, vďačne Ťa chválime."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Nový rok nám požehnaj, nový rok nám",
+              "požehnaj z lásky svojej, Bože náš!",
+              "Hojnosťou ho korunuj, hojnosťou ho korunuj,",
+              "Hospodine, Bože náš! Nech to uznajú,",
+              "ktorí na zei prebývajú,",
+              "že Ty ich tu zdržuješ s radosťou, zem pre nich",
+              "naplňuješ hojnosťou, preto Tvoje",
+              "meno slávime, vďačne Ťa chválime."
+            ],
+            "number": 1
+          }
+        ],
         "number": 209,
         "text": "É. Budai",
         "music": ""
@@ -14511,122 +14631,138 @@
         "music": "Kancionál českých bratov 1576"
       },
       {
-        "verses": {
-          "lines": [
-            "Nedostatok trpíme my bez",
-            "pomoci z neba,",
-            "ale nádej, Bože večný, vkladáme",
-            "vždy v Teba. Pomôž, Pane,",
-            "slúžiť Ti vždy, aby sme si",
-            "Krista ctili a len Preňho žili!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Nedostatok trpíme my bez",
+              "pomoci z neba,",
+              "ale nádej, Bože večný, vkladáme",
+              "vždy v Teba. Pomôž, Pane,",
+              "slúžiť Ti vždy, aby sme si",
+              "Krista ctili a len Preňho žili!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 228,
         "text": "",
         "music": "Kluž 1837"
       },
       {
-        "verses": {
-          "lines": [
-            "Otče, Synu a Duchu, skloňže",
-            "sa k nám znova a dopraj nášmu",
-            "sluchu večnej pravdy slová!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Otče, Synu a Duchu, skloňže",
+              "sa k nám znova a dopraj nášmu",
+              "sluchu večnej pravdy slová!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 229,
         "text": "Debrecín 1736",
         "music": "Debrecín 1778"
       },
       {
-        "verses": {
-          "lines": [
-            "Vyuč ma, Hospodine, ceste svojej,",
-            "nech chodím len v pravde Tvojej! Sústreď srdce",
-            "moje, sústreď srdce moje, sústreď",
-            "na bázeň z Tvojho mena! Amen."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vyuč ma, Hospodine, ceste svojej,",
+              "nech chodím len v pravde Tvojej! Sústreď srdce",
+              "moje, sústreď srdce moje, sústreď",
+              "na bázeň z Tvojho mena! Amen."
+            ],
+            "number": 1
+          }
+        ],
         "number": 230,
         "text": "M. Royová",
         "music": "Piesne sionské 1930"
       },
       {
-        "verses": {
-          "lines": [
-            "Bože, udeľ Ducha svojho,",
-            "kým pred Tebou stojíme,",
-            "nech pravdami slova Tvojho",
-            "všetci sa posilníme!",
-            "Dokiaľ sa tu modlíme,",
-            "kým Ťa úprimne ctíme",
-            "a hľadáme Ťa, ó, Pane,",
-            "daj nám svoje požehnanie!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Bože, udeľ Ducha svojho,",
+              "kým pred Tebou stojíme,",
+              "nech pravdami slova Tvojho",
+              "všetci sa posilníme!",
+              "Dokiaľ sa tu modlíme,",
+              "kým Ťa úprimne ctíme",
+              "a hľadáme Ťa, ó, Pane,",
+              "daj nám svoje požehnanie!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 231,
         "text": "Kluž 1837",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Prebuď naše zmysly, Bože, ktože to urobiť",
-            "môže? Nech to slovo nám kázané",
-            "v dobrej vôli prijímame! Slúži nám na",
-            "posilnenie a na Tvoje oslávenie."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Prebuď naše zmysly, Bože, ktože to urobiť",
+              "môže? Nech to slovo nám kázané",
+              "v dobrej vôli prijímame! Slúži nám na",
+              "posilnenie a na Tvoje oslávenie."
+            ],
+            "number": 1
+          }
+        ],
         "number": 232,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Daj zvestovať slovo pravé,",
-            "večný Bože náš! Ním pripútaj nás",
-            "k sebe ako k Hlave, daj pokoj a zdravie,",
-            "večný Bože, Otče náš!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Daj zvestovať slovo pravé,",
+              "večný Bože náš! Ním pripútaj nás",
+              "k sebe ako k Hlave, daj pokoj a zdravie,",
+              "večný Bože, Otče náš!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 233,
         "text": "Debrecín 1590",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Pri svojom ľude, ó Bože, v chráme",
-            "zhromaždenom,",
-            "milosť svoju dokáž znovu v slove",
-            "mu určenom! Svojho slova zvesť",
-            "sám požehnaj, zarmúteným potešenie",
-            "daj,svoju milosť všetkým rozdá-vaj!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Pri svojom ľude, ó Bože, v chráme",
+              "zhromaždenom,",
+              "milosť svoju dokáž znovu v slove",
+              "mu určenom! Svojho slova zvesť",
+              "sám požehnaj, zarmúteným potešenie",
+              "daj,svoju milosť všetkým rozdá-vaj!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 234,
         "text": "Piesne pobožné 1929",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Zostane navždy slovo Božie,",
-            "a zrušiť ho nikto nemôže.",
-            "Veľký Tvorca zeme s nami je,",
-            "Jeho Svätý Duch v nás nezhynie.",
-            "Veľký Tvorca zeme s nami je,",
-            "Jeho Svätý Duch v nás nezhynie."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Zostane navždy slovo Božie,",
+              "a zrušiť ho nikto nemôže.",
+              "Veľký Tvorca zeme s nami je,",
+              "Jeho Svätý Duch v nás nezhynie.",
+              "Veľký Tvorca zeme s nami je,",
+              "Jeho Svätý Duch v nás nezhynie."
+            ],
+            "number": 1
+          }
+        ],
         "number": 235,
         "text": "M. Luther",
         "music": "M. Luther"
@@ -14957,128 +15093,144 @@
         "music": "J. Crüger"
       },
       {
-        "verses": {
-          "lines": [
-            "Vďaka Ti buď, Pane, veleba, česť,",
-            "večná sláva!",
-            "Prijmi chválu vďačnú, ktorú Ti dnes",
-            "ľud Tvoj vzdáva za to, že sa nikdy",
-            "nemeníš, že vždy svoje sľuby naplníš",
-            "a požehnanie nám udelíš."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Vďaka Ti buď, Pane, veleba, česť,",
+              "večná sláva!",
+              "Prijmi chválu vďačnú, ktorú Ti dnes",
+              "ľud Tvoj vzdáva za to, že sa nikdy",
+              "nemeníš, že vždy svoje sľuby naplníš",
+              "a požehnanie nám udelíš."
+            ],
+            "number": 1
+          }
+        ],
         "number": 244,
         "text": "S. Diószegi",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Posilnení odchádzame, o Slovo zas",
-            "bohatší sme. Kriste Pane, Ty len veď nás,",
-            "nech je s nami vždy Tvoj odkaz,",
-            "aj doma, nielen v chráme!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Posilnení odchádzame, o Slovo zas",
+              "bohatší sme. Kriste Pane, Ty len veď nás,",
+              "nech je s nami vždy Tvoj odkaz,",
+              "aj doma, nielen v chráme!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 245,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Nech je milosť nášho Pána Krista,",
-            "Boha Otca nášho láska čistá",
-            "a dar Ducha, posvätenia prameň,",
-            "s nami teraz i naveky! Amen."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Nech je milosť nášho Pána Krista,",
+              "Boha Otca nášho láska čistá",
+              "a dar Ducha, posvätenia prameň,",
+              "s nami teraz i naveky! Amen."
+            ],
+            "number": 1
+          }
+        ],
         "number": 246,
         "text": "2Kor 13, 13",
         "music": "Debrec9n 1774"
       },
       {
-        "verses": {
-          "lines": [
-            "Bože, vylej požehnanie",
-            "na všetkých nás z výsosti,",
-            "daj, nech Tvoje prikázanie",
-            "máme vždy v úctivosti!",
-            "Apoštolské učenie",
-            "dávaš nám na spasenie,",
-            "aby sme Krista poznali,",
-            "Jeho hlas vždy počúvali."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Bože, vylej požehnanie",
+              "na všetkých nás z výsosti,",
+              "daj, nech Tvoje prikázanie",
+              "máme vždy v úctivosti!",
+              "Apoštolské učenie",
+              "dávaš nám na spasenie,",
+              "aby sme Krista poznali,",
+              "Jeho hlas vždy počúvali."
+            ],
+            "number": 1
+          }
+        ],
         "number": 247,
         "text": "J. Opočenský",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Ježiš Kristus cirkev založil,",
-            "povolal tých, ktorých si vyvolil.",
-            "Nariadil im, aby tak žili:",
-            "Jeho sväté meno verne ctili.",
-            "Daj, náš Pastieru, už v tejto chvíli,",
-            "aby sme s Tebou večne chodili."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Ježiš Kristus cirkev založil,",
+              "povolal tých, ktorých si vyvolil.",
+              "Nariadil im, aby tak žili:",
+              "Jeho sväté meno verne ctili.",
+              "Daj, náš Pastieru, už v tejto chvíli,",
+              "aby sme s Tebou večne chodili."
+            ],
+            "number": 1
+          }
+        ],
         "number": 248,
         "text": "T. Sabovik",
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Tvoje požehnanie, dobrý Otče,",
-            "nás cestou žitia sprevádzaj,",
-            "ráč v Kristovi nás posväcovať",
-            "a v srdciach našich chrám svoj maj! Nech slova",
-            "Tvojho pravda mocná nás v sluhov Tvojich",
-            "premení! Ó, splň tú prosbu, večný",
-            "Bože, a uchovaj nás v spasení!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Tvoje požehnanie, dobrý Otče,",
+              "nás cestou žitia sprevádzaj,",
+              "ráč v Kristovi nás posväcovať",
+              "a v srdciach našich chrám svoj maj! Nech slova",
+              "Tvojho pravda mocná nás v sluhov Tvojich",
+              "premení! Ó, splň tú prosbu, večný",
+              "Bože, a uchovaj nás v spasení!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 249,
         "text": "Th. Kalenda",
         "music": "P. A. Bost"
       },
       {
-        "verses": {
-          "lines": [
-            "Milosť Pána nášho Ježiša Krista",
-            "a láska Božia a účastenstvo",
-            "Ducha Svätého so všetkými nami,",
-            "so všetkými nami! Amen."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Milosť Pána nášho Ježiša Krista",
+              "a láska Božia a účastenstvo",
+              "Ducha Svätého so všetkými nami,",
+              "so všetkými nami! Amen."
+            ],
+            "number": 1
+          }
+        ],
         "number": 250,
         "text": "2Kor 13, 13; 1890",
         "music": "Ch. Gregor"
       },
       {
-        "verses": {
-          "lines": [
-            "Otče, ráč nás požehnávať,",
-            "dôverne Ťa vzývame.",
-            "Kriste, ráč sa prihovárať",
-            "za nás hriešnych, žiadame.",
-            "Duchu Svätý, spravuj nás",
-            "svetlom pravdy každý čas,",
-            "aby sme Ti vždy a celí",
-            "dušou, telom patriť smeli."
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Otče, ráč nás požehnávať,",
+              "dôverne Ťa vzývame.",
+              "Kriste, ráč sa prihovárať",
+              "za nás hriešnych, žiadame.",
+              "Duchu Svätý, spravuj nás",
+              "svetlom pravdy každý čas,",
+              "aby sme Ti vždy a celí",
+              "dušou, telom patriť smeli."
+            ],
+            "number": 1
+          }
+        ],
         "number": 251,
         "text": "Bratské piesne 1971",
         "music": ""
@@ -27955,19 +28107,21 @@
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "Milý Otče náš z výsosti,",
-            "skloň sa zo svojej jasnosti,",
-            "veď nás vždy svojím Duchom Svätým,",
-            "zapáľ v dušiach lásky plameň,",
-            "buď vždy našej viery prameň,",
-            "nádeje žriedlom prebohatým,",
-            "aby našich úst vyznanie",
-            "láskou bolo dokázané!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "Milý Otče náš z výsosti,",
+              "skloň sa zo svojej jasnosti,",
+              "veď nás vždy svojím Duchom Svätým,",
+              "zapáľ v dušiach lásky plameň,",
+              "buď vždy našej viery prameň,",
+              "nádeje žriedlom prebohatým,",
+              "aby našich úst vyznanie",
+              "láskou bolo dokázané!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 460,
         "text": "",
         "music": ""
@@ -28066,17 +28220,19 @@
         "music": ""
       },
       {
-        "verses": {
-          "lines": [
-            "V Božom mene chrám stavať začíname,",
-            "základy kladieme, múry dvíhame.",
-            "Daj, Pane Bože, aby čím skôr stáli,",
-            "s pomocou Tvojou aj prikryť sa dali!",
-            "Keď bude šťastne ukončené dielo,",
-            "nech v ňom znie pravda Tvojho slova smelo!"
-          ],
-          "number": 1
-        },
+        "verses": [
+          {
+            "lines": [
+              "V Božom mene chrám stavať začíname,",
+              "základy kladieme, múry dvíhame.",
+              "Daj, Pane Bože, aby čím skôr stáli,",
+              "s pomocou Tvojou aj prikryť sa dali!",
+              "Keď bude šťastne ukončené dielo,",
+              "nech v ňom znie pravda Tvojho slova smelo!"
+            ],
+            "number": 1
+          }
+        ],
         "number": 463,
         "text": "",
         "music": ""

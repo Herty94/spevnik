@@ -1,22 +1,18 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import songs from './data/hymns.json'
+import { StyleSheet, View } from 'react-native';
+import songs from './data/hymns.json';
 import SongPage from './components/SongPage';
-import { AppContextProps, SongProps } from './types/types';
+import { SongProps } from './types/types';
 import { NavigationContainer, DefaultTheme, ParamListBase } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome5 } from '@expo/vector-icons';
 import SearchPage from './components/SearchPage';
-import { createContext, useEffect, useState } from 'react';
+import { useState } from 'react';
+import AppContext from './utils/AppContext';
 
-export const AppContext = createContext<AppContextProps>({ songNumber: 1 })
 
 export const songArray = songs.hymnary.song as SongProps[]
 const SongPageScreen = ({ navigation, route }: ParamListBase) => {
-  const number = Number(route?.params?.number) || 1
-  useEffect(() => {
-    navigation.setOptions({ headerTitle: 'Pieseň: ' + number })
-  }, [number])
   //const song = songArray.find(s => s.number == number) || songArray[0]
   return <View style={styles.songContainer}>
     <SongPage songs={songArray} /></View>
@@ -50,6 +46,7 @@ export default function App() {
     }}>
       <NavigationContainer theme={MyTheme} >
         <Tab.Navigator screenOptions={({ route }) => ({
+          headerShown: false,
           tabBarIcon: ({ focused, color, size }) => {
             let iconName;
 
