@@ -9,8 +9,19 @@ export type SongProps = {
   text: string
   music: string
 }
+export type SearchSong = SongProps & {
+  tVerse?: VerseProps
+  searchText?: string
+}
 
 export type AppContextProps = {
   songNumber: number
   setSongNumber: React.Dispatch<React.SetStateAction<number>>
+}
+
+export type ContentType = {
+  name: string
+  begin: number
+  end: number
+  section?: ContentType[]
 }

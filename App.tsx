@@ -1,17 +1,21 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
-import songs from './data/hymns.json';
-import SongPage from './components/SongPage';
-import { SongProps } from './types/types';
+import SongPage from './pages/SongPage';
 import { NavigationContainer, DefaultTheme, ParamListBase } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome5 } from '@expo/vector-icons';
-import SearchPage from './components/SearchPage';
+import { Octicons } from '@expo/vector-icons';
+import SearchPage from './pages/SearchPage';
 import { useState } from 'react';
-import AppContext from './utils/AppContext';
+import { AppContext, songArray } from './utils/Globals';
+import GoToPage from './pages/GoToPage';
+import ContentPage from './pages/ContentPage';
 
 
-export const songArray = songs.hymnary.song as SongProps[]
+const ContentPageScreen = () => {
+  return < View style={styles.searchContainer} ><ContentPage /></View >
+}
+
 const SongPageScreen = ({ navigation, route }: ParamListBase) => {
   //const song = songArray.find(s => s.number == number) || songArray[0]
   return <View style={styles.songContainer}>
@@ -20,6 +24,10 @@ const SongPageScreen = ({ navigation, route }: ParamListBase) => {
 
 const SearchPageScreen = () => {
   return < View style={styles.searchContainer} ><SearchPage /></View >
+}
+
+const GotoPageScreen = () => {
+  return < View style={styles.searchContainer} ><GoToPage /></View >
 }
 
 const Tab = createBottomTabNavigator();
@@ -50,22 +58,29 @@ export default function App() {
           tabBarIcon: ({ focused, color, size }) => {
             let iconName;
 
-            if (route.name === 'Piesen') {
+            if (route.name === 'Song') {
               iconName = 'itunes-note'
-
-            } else if (route.name === 'Hladaj') {
+            } else if (route.name === 'Search') {
               iconName = 'search'
+            }
+            else if (route.name === 'Content') {
+              iconName = 'list'
+            }
+            else {
+              return <Octicons name='number' size={size} color={color} />
             }
 
             // You can return any component that you like here!
             return <FontAwesome5 name={iconName} size={size} color={color} />
           },
           tabBarActiveTintColor: '#f6f6f6',
-          tabBarShowLabel: false,
+          tabBarShowLabel: true,
           tabBarInactiveTintColor: 'rgb(173, 181, 220)',
         })}>
-          <Tab.Screen name="Piesen" component={SongPageScreen} />
-          <Tab.Screen name="Hladaj" options={{ title: "Hľadaj" }} component={SearchPageScreen} />
+          <Tab.Screen name="Content" options={{ title: "Obsah" }} component={ContentPageScreen} />
+          <Tab.Screen name="Song" options={{ title: "Pieseň" }} component={SongPageScreen} />
+          <Tab.Screen name="Search" options={{ title: "Hľadaj" }} component={SearchPageScreen} />
+          <Tab.Screen name="Goto" options={{ title: "Číslo" }} component={GotoPageScreen} />
         </Tab.Navigator>
         <StatusBar style="auto" />
       </NavigationContainer >

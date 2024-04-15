@@ -1,10 +1,20 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { VerseProps } from '../types/types';
-export const VERSE_F_SIZE = 16
-export const VERSE_NUM_F_SIZE = 16
+
+import { VERSE_NUM_F_SIZE, VERSE_F_SIZE } from '../utils/Globals';
+import {
+  useFonts,
+  LibreCaslonText_400Regular,
+} from '@expo-google-fonts/libre-caslon-text';
+
 
 const Verse = (props: VerseProps & { fontSize: number }) => {
+
+  let [fontsLoaded] = useFonts({
+    LibreCaslonText_400Regular,
+  });
+
   return (
     <View style={{ flex: 1, flexDirection: "row", paddingTop: 26, flexWrap: 'wrap' }}>
       <Text style={{ ...styles.number, fontSize: VERSE_NUM_F_SIZE + props.fontSize }}>{props.number}.</Text>
@@ -20,12 +30,13 @@ const styles = StyleSheet.create({
 
   number: {
     fontWeight: "600",
-    paddingRight: 8
+    paddingRight: 8,
+    fontFamily: 'LibreCaslonText_400Regular',
   },
   verse: {
     textAlign: 'left',
-    flexWrap: 'wrap',
     paddingBottom: 8,
+    fontFamily: 'LibreCaslonText_400Regular',
   }
 });
 
