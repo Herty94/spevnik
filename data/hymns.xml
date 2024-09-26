@@ -129,7 +129,7 @@
             <line>Hospodinovi obeť dajte,</line>
             <line>dar Jeho spravodlivosti,</line>
             <line>hriechov a vín sa navždy zbavte</line>
-            <line>a z temnôt tieňov vychádzajte \'96</line>
+            <line>a z temnôt tieňov vychádzajte -</line>
             <line>tak skloní sa k vám z milosti.</line>
             <line>Hľa, nieto v iných túžby inej,</line>
             <line>než obklopiť sa mamonou.</line>
@@ -171,16 +171,16 @@
             <line>môj Bože silný!</line>
         </verse>
         <verse number="4">
-            <line>Ja však chcem prejsť, \'f3, milostivý,</line>
+            <line>Ja však chcem prejsť, ó, milostivý,</line>
             <line>ta, do príbytku svätého</line>
             <line>a Teba, Pána mocného,</line>
             <line>sláviť za Tvoje veľké divy,</line>
-            <line>\'f3, milostivý!</line>
+            <line>ó, milostivý!</line>
         </verse>
         <verse number="5">
             <line>Už zjav mi, Pane, cestu cnosti,</line>
-            <line>aby som po nej verne šiel \'96</line>
-            <line>nech zahanbí sa nepriateľ \'96</line>
+            <line>aby som po nej verne šiel -</line>
+            <line>nech zahanbí sa nepriateľ -</line>
             <line>šiel úprimne a v poslušnosti</line>
             <line>len cestou cnosti.</line>
         </verse>
@@ -437,7 +437,7 @@
         <verse number="3">
             <line>"Na večné časy budem pevne stáť,"</line>
             <line>tak nepriateľ sa pyšne predvádza.</line>
-            <line>"Ničoho zlého nemusím sa báť" \'96</line>
+            <line>"Ničoho zlého nemusím sa báť" -</line>
             <line>bláznovstvo sa mu v srdci nachádza.</line>
             <line>Z úst jeho iba podvod vychádza,</line>
             <line>má v nich len klam a lži a preklínanie</line>
@@ -610,7 +610,7 @@
             <line>Kto bude v stánku prebývať</line>
             <line>na Tvojom vrchu, Hospodine?</line>
             <line>O pravdu v srdci bude dbať</line>
-            <line>a všetkých ľudí v láske mať \'96</line>
+            <line>a všetkých ľudí v láske mať -</line>
             <line>ten v dome Božom odpočinie.</line>
         </verse>
         <verse number="2">
@@ -6820,7 +6820,7 @@
         </verse>
     </song>
     <song number="117" text="J. Strejc" music="L. Bourgeois">
-        <verse number="">
+        <verse number="1">
             <line>Všetci ľudia, Pána chváľte,</line>
             <line>velebte Ho, česť Mu vzdajte!</line>
             <line>Preveľká je milosť Jeho,</line>
@@ -8553,70 +8553,72 @@
             <line>milosť ma Tvoja vykúpi</line>
             <line>a ma rad verných obstúpi.</line>
         </verse>
-        <verse number="8">
+    </song>
+    <song number="143" text="F. Šebesta" music="L. Bourgeois">
+        <verse number="1">
             <line>Pane, čo dávaš zmilovanie,</line>
             <line>počúvaj moje vrúcne lkanie</line>
             <line>pre pravdu svoju svätú sám!</line>
             <line>Vypočuj moje zavolanie</line>
             <line>a spravodlivosť prejav nám!</line>
         </verse>
-        <verse number="9">
+        <verse number="2">
             <line>Do súdu prísneho vojsť nechci</line>
             <line>so služobníkom, veď je hriešny;</line>
             <line>ak nebudeš milostivý,</line>
             <line>nebude pre hriech dávny, dnešný</line>
             <line>pred Tebou nik spravodlivý.</line>
         </verse>
-        <verse number="10">
+        <verse number="3">
             <line>Stíha môj nepriateľ ma v zlobe,</line>
             <line>až na zem klesám v ťažkej mdlobe,</line>
             <line>on vidieť ma chce v mrákotách</line>
             <line>jak tých, tma ktorých kryje v hrobe -</line>
             <line>aby som bol bez života.</line>
         </verse>
-        <verse number="11">
+        <verse number="4">
             <line>Duch môj tak úzkosťou sa zviera,</line>
             <line>že do očí mi tma už ziera</line>
             <line>a srdce hynie pomaly;</line>
             <line>keď smútok moje srdce zžiera,</line>
             <line>deň čo deň sa mi rozžiali.</line>
         </verse>
-        <verse number="12">
+        <verse number="5">
             <line>Ja Tvoju veľkosť vidím, Pane,</line>
             <line>keď pripomínam si dni dávne,</line>
             <line>mám v mysli dielo Tvojich rúk,</line>
             <line>ku Tvojim skutkom oči dvíham.</line>
             <line>Vždy potešíš ma v dobách múk.</line>
         </verse>
-        <verse number="13">
+        <verse number="6">
             <line>Ja ruky, Pane, k Tebe obe</line>
             <line>vždy pozdvihujem v svojej mdlobe.</line>
             <line>A ako zem, čo vyprahla,</line>
             <line>Ťa hľadá duša v každej dobe,</line>
             <line>len aby milosť dosiahla.</line>
         </verse>
-        <verse number="14">
+        <verse number="7">
             <line>Ach, vyslyš ma už, Hospodine,</line>
             <line>veď, ajhľa, duch môj v žiali hynie,</line>
             <line>a neskrývaj tvár predo mnou!</line>
             <line>Kiež Tvoja láska nepominie,</line>
             <line>pred nocou ochráň ma a tmou!</line>
         </verse>
-        <verse number="15">
+        <verse number="8">
             <line>Ja Tvoju milosť ráno hľadám,</line>
             <line>do Teba nádej svoju vkladám;</line>
             <line>Ty zjav mi cestu života,</line>
             <line>nech v pokušenie neupadám,</line>
             <line>veď ma vždy Tvoja dobrota!</line>
         </verse>
-        <verse number="16">
+        <verse number="9">
             <line>Dušu zas pozdvihujem k Tebe,</line>
             <line>ó, nevydaj ma hriešnych zlobe,</line>
             <line>do môjho vstupuj myslenia!</line>
             <line>Si Boh môj, veď ma v každej dobe</line>
             <line>po rovnej ceste spasenia!</line>
         </verse>
-        <verse number="17">
+        <verse number="10">
             <line>Pre meno svoje, Strážca bdelý,</line>
             <line>vysloboď ma, môj život celý,</line>
             <line>poteš mi dušu, pri mne stoj!</line>
@@ -8927,14 +8929,14 @@
         </verse>
     </song>
     <song number="151" text="G. Huszár" music="Starý graduál 1636">
-        <verse number="">
+        <verse number="1">
             <line>Pane Bože, žehnaj a nám</line>
             <line>svoju pomoc daj v našich nedostatkoch</line>
             <line>pre Krista, nášho Spasiteľa, Vykupiteľa!</line>
         </verse>
     </song>
     <song number="152" text="J. Földvári" music="Kódex Batthyányho, Debrecín 1774">
-        <verse number="">
+        <verse number="1">
             <line>Svätý Bože, hoc Teba húfy jasného</line>
             <line>neba spevom večne vzývajú,</line>
             <line>keď však tu v Tvojom dome verné národy</line>
@@ -8946,7 +8948,7 @@
         </verse>
     </song>
     <song number="153" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Naša pomoc je od Boha,</line>
             <line>lebo v Ňom je milosť mnohá.</line>
             <line>On je sveta Stvoriteľom</line>
@@ -8954,7 +8956,7 @@
         </verse>
     </song>
     <song number="154" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>V mene Boha najvyššieho,</line>
             <line>Stvoriteľa láskavého</line>
             <line>svätú službu začíname,</line>
@@ -8967,7 +8969,7 @@
         </verse>
     </song>
     <song number="155" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>V mene Otca Stvoriteľa, Syna Vykupiteľa,</line>
             <line>v mene i Ducha Svätého, nášho Posvätiteľa.</line>
             <line>Zišli sme sa v svätom mene Boha Trojjediného.</line>
@@ -8975,7 +8977,7 @@
         </verse>
     </song>
     <song number="156" text="Császárov spevník 1864" music="">
-        <verse number="">
+        <verse number="1">
             <line>Poďme pred Pána najvyššieho,</line>
             <line>z čistého srdca uctime Ho</line>
             <line>v chráme Jeho velebnosti!</line>
@@ -8984,7 +8986,7 @@
         </verse>
     </song>
     <song number="157" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Haleluja! Chváľme Boha v zhromaždení</line>
             <line>cirkvi znova vzdajme Bohu slávu, česť!</line>
             <line>Nuž, poďme k Nemu s dôverou, o milosť prosme</line>
@@ -8994,7 +8996,7 @@
         </verse>
     </song>
     <song number="158" text="Császárov spevník 1864" music="">
-        <verse number="">
+        <verse number="1">
             <line>Otvoril sa nám svätý chrám</line>
             <line>a v ňom pred jasnosťou Tvojou</line>
             <line>koríme sa dušou svojou.</line>
@@ -9003,7 +9005,7 @@
         </verse>
     </song>
     <song number="159" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Svätý, svätý, svätý je Pán Boh,</line>
             <line>všemocný Vládca,</line>
             <line>ktorý bol, ktorý je a príde</line>
@@ -9013,7 +9015,7 @@
         </verse>
     </song>
     <song number="160" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, Bože večný, buď vždy oslávený!</line>
             <line>Pozri sa na nás Tvoj ľud zhromaždený.</line>
             <line>Lebo Ti chceme vrúcnu vďaku vzdávať</line>
@@ -9023,7 +9025,7 @@
         </verse>
     </song>
     <song number="161" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>Bože, Ty vieš, čo nám treba,</line>
             <line>v čom nedostatok máme,</line>
             <line>preto hľadáme u Teba</line>
@@ -9035,14 +9037,14 @@
         </verse>
     </song>
     <song number="162" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>Pane Bože náš, k Tebe sa modlíme,</line>
             <line>ráč posvätiť nás, keď tu srdečne</line>
             <line>všetci spoločne Tebe sa koríme.</line>
         </verse>
     </song>
     <song number="163" text="J. Földvári" music="">
-        <verse number="">
+        <verse number="1">
             <line>Príď, Duchu Svätý, z výsosti,</line>
             <line>všetkých nás tu požehnaj,</line>
             <line>pri našej svätej činnosti</line>
@@ -9052,7 +9054,7 @@
         </verse>
     </song>
     <song number="164" text="J. Földvári" music="">
-        <verse number="">
+        <verse number="1">
             <line>Zošli, Bože, Ducha svojho</line>
             <line>do zhromaždenia tohto,</line>
             <line>nech Ťa tu, Boha živého,</line>
@@ -9062,7 +9064,7 @@
         </verse>
     </song>
     <song number="165" text="Császárov spevník 1864" music="">
-        <verse number="">
+        <verse number="1">
             <line>Pane Bože náš velebný,</line>
             <line>Otče, Synu, Duchu Svätý!</line>
             <line>Daj sa nám teraz oslavovať</line>
@@ -9072,7 +9074,7 @@
         </verse>
     </song>
     <song number="166" text="Császárov spevník 1864" music="">
-        <verse number="">
+        <verse number="1">
             <line>S úprimnosťou srdca svojho</line>
             <line>prišli sme do chrámu Tvojho</line>
             <line>Tvoje meno oslavovať,</line>
@@ -9084,7 +9086,7 @@
         </verse>
     </song>
     <song number="167" text="Debrecín 1590" music="Cithara sanctorum 1696">
-        <verse number="">
+        <verse number="1">
             <line>Svätý si, Pane náš, k Tebe sa modlíme,</line>
             <line>v Tvojom svätom chráme Tebe sa koríme,</line>
             <line>srdcia, ktoré pokorné máme,</line>
@@ -9092,14 +9094,14 @@
         </verse>
     </song>
     <song number="168" text="Kluž 1837" music="Kluž 1837">
-        <verse number="">
+        <verse number="1">
             <line>Žiť s Bohom a s Ním putovať, životom Ho</line>
             <line>oslavovať, vo viere pravej pevne stáť,</line>
             <line>Kriste Pane, uč nás, uč nás sa modlievať!</line>
         </verse>
     </song>
     <song number="169" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ten človek je šťastlivý, ktorý Ťa,</line>
             <line>spravodlivý, živý Bože, poznáva.</line>
             <line>A v svätom zhromaždení v úprimnom ponížení</line>
@@ -9111,7 +9113,7 @@
         </verse>
     </song>
     <song number="170" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>Nové ráno sa nám hlási,</line>
             <line>nuž, poďte, bohabojní,</line>
             <line>spievajte: Svätý si, svätý,</line>
@@ -9123,14 +9125,14 @@
         </verse>
     </song>
     <song number="171" text="Debrecín 1774" music="J. Crüger">
-        <verse number="">
+        <verse number="1">
             <line>Boha stvorenia pozemské chvália</line>
             <line>neprestajne. Spievajú chóry anjelské:</line>
             <line>"Svätý si, náš Pane!"</line>
         </verse>
     </song>
     <song number="172" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Slávte Otca Stvoriteľa</line>
             <line>i Syna Vykupiteľa,</line>
             <line>slávte i Ducha Svätého,</line>
@@ -9138,7 +9140,7 @@
         </verse>
     </song>
     <song number="173" text="Š. Lukáč" music="">
-        <verse number="">
+        <verse number="1">
             <line>Príď, Hosť náš vzácny, už Ťa čakáme,</line>
             <line>cesty Ti urovnávame,</line>
             <line>chodníky k Tebe upravujeme,</line>
@@ -9148,7 +9150,7 @@
         </verse>
     </song>
     <song number="174" text="A. Maťašík" music="">
-        <verse number="">
+        <verse number="1">
             <line>Príď, ó, Kráľu večnosti, plný</line>
             <line>lásky, milosti, Kriste predpovedaný,</line>
             <line>v pravý čas svetu daný!</line>
@@ -9157,7 +9159,7 @@
         </verse>
     </song>
     <song number="175" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Spásu nesieš iste, ktorú očakávame.</line>
             <line>Príď, všetkých nás osvieť láskou</line>
             <line>a múdrosťou kceste spásy priveď,</line>
@@ -9165,7 +9167,7 @@
         </verse>
     </song>
     <song number="176" text="A. Maťašík" music="">
-        <verse number="">
+        <verse number="1">
             <line>Spasiteľu, Kriste náš, radostne</line>
             <line>Ťa vítame, záchranu Ty</line>
             <line>pre nás máš, preto česť Ti vzdávame.</line>
@@ -9174,7 +9176,7 @@
         </verse>
     </song>
     <song number="177" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Adventný čas, haleluja, nesie</line>
             <line>prorockú zvesť: Syna svojho nám</line>
             <line>posiela Hospodin, Pán nebies,</line>
@@ -9182,7 +9184,7 @@
         </verse>
     </song>
     <song number="178" text="A. Maťašík" music="">
-        <verse number="">
+        <verse number="1">
             <line>Prijmi, Bože náš, našej vďaky hlas,</line>
             <line>za to, že nám zas spásu zosielaš</line>
             <line>a že v Kristovi si život nový</line>
@@ -9190,7 +9192,7 @@
         </verse>
     </song>
     <song number="179" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Rýchlo cestu pripravujte</line>
             <line>Kristus ide ako Kráľ.</line>
             <line>Nový šat si prihotujte</line>
@@ -9200,7 +9202,7 @@
         </verse>
     </song>
     <song number="180" text="A. Maťašík" music="">
-        <verse number="">
+        <verse number="1">
             <line>Kriste, Teba vítame,</line>
             <line>svoje srdcia chystáme,</line>
             <line>prosíme, ráč do nich vojsť</line>
@@ -9212,7 +9214,7 @@
         </verse>
     </song>
     <song number="181" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, príď, ó, príď, Spasiteľ milý,</line>
             <line>na Teba svet zrak upiera. Ó, príď, ó,</line>
             <line>príď, nech z Tvojej sily žije, čo</line>
@@ -9222,7 +9224,7 @@
         </verse>
     </song>
     <song number="182" text="Kódex Batthyányho 1550" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ježiš sa nám narodil! Ježiš sa nám</line>
             <line>narodil! Kresťania, sa radujme!</line>
             <line>A hriešnych vyslobodil a hriešnych vyslobodil,</line>
@@ -9234,7 +9236,7 @@
         </verse>
     </song>
     <song number="183" text="A. Maťašík" music="">
-        <verse number="">
+        <verse number="1">
             <line>Spievajme s anjelmi: "Buď Bohu</line>
             <line>na nebi sláva,</line>
             <line>na zemi pokoj buď, ktorý On</line>
@@ -9244,7 +9246,7 @@
         </verse>
     </song>
     <song number="184" text="Spevník 1923" music="">
-        <verse number="">
+        <verse number="1">
             <line>Večná sláva buď Bohu, večná sláva buď</line>
             <line>Bohu na nebeskej výsosti!</line>
             <line>Pokoj na celej zemi, pokoj na celej</line>
@@ -9256,7 +9258,7 @@
         </verse>
     </song>
     <song number="185" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Anjeli spievajú: Sláva!</line>
             <line>Boh nám svojho Syna dáva.</line>
             <line>V Betleheme sa narodil,</line>
@@ -9269,7 +9271,7 @@
         </verse>
     </song>
     <song number="186" text="Prídavok 1937" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vzdycháme a srdcia máme</line>
             <line>smutné pred Tebou, náš Pane,</line>
             <line>a pokiaľ sa Ti tu koríme,</line>
@@ -9281,7 +9283,7 @@
         </verse>
     </song>
     <song number="187" text="Rostock 1531" music="Erfurt 1542">
-        <verse number="">
+        <verse number="1">
             <line>Kriste, Baránku Boží, ktorý</line>
             <line>si zomrel za nás tam na golgotskom kríži,</line>
             <line>poslušnosťou spasil nás! Naše viny si</line>
@@ -9290,7 +9292,7 @@
         </verse>
     </song>
     <song number="188" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, Ježišu, Ty snímaš hriech</line>
             <line>sveta celého, veď ľudskú biedu</line>
             <line>poznáš pozbavuj nás zlého. Ó,</line>
@@ -9300,14 +9302,14 @@
         </verse>
     </song>
     <song number="189" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Buď aj k nám milostivý, obdaruj</line>
             <line>nás vierou, že v Kristovi z milosti</line>
             <line>dávaš spásu v hojnosti: odpustenie hriechov.</line>
         </verse>
     </song>
     <song number="190" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Zmiluj sa, ó, dobrý Bože,</line>
             <line>zmiluj sa nad hriešnymi.</line>
             <line>Nech z nás každý poznať môže</line>
@@ -9319,7 +9321,7 @@
         </verse>
     </song>
     <song number="191" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, veľkosť Tvojho utrpenia</line>
             <line>keď si zas uvedomíme,</line>
             <line>hneď vyznať svoje poblúdenia</line>
@@ -9329,7 +9331,7 @@
         </verse>
     </song>
     <song number="192" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Jedine Kristus Pán je náš kňaz,</line>
             <line>pred Neho vchádzame.</line>
             <line>Len On ťarchu hriechu sníma z nás,</line>
@@ -9340,7 +9342,7 @@
         </verse>
     </song>
     <song number="193" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Kriste, Ty si trpel za nás, aby sme s Tebou žili,</line>
             <line>pozri sa na nás aj teraz, keď sme sa zhromaždili,</line>
             <line>zmiluj sa, daj odpustenie</line>
@@ -9348,7 +9350,7 @@
         </verse>
     </song>
     <song number="194" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Pred Krista poďme, On je Sudca,</line>
             <line>v Ňom nás Boh ospravedlnil.</line>
             <line>A obnovujme svoje srdcia</line>
@@ -9358,7 +9360,7 @@
         </verse>
     </song>
     <song number="195" text="Piesne pobožné 1929" music="">
-        <verse number="">
+        <verse number="1">
             <line>Nech zvučí dnes Hosanna! Nech zvučí dnes</line>
             <line>Hosanna na triumf Krista Pána!</line>
             <line>Poďme v rukách s palmami! Poďme v srdciach s</line>
@@ -9370,7 +9372,7 @@
         </verse>
     </song>
     <song number="196" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, radosť zvesti prorockej:</line>
             <line>Povedzte dcére sionskej,</line>
             <line>ajhľa, tvoj Kráľ k tebe prichádza,</line>
@@ -9382,7 +9384,7 @@
         </verse>
     </song>
     <song number="197" text="Prídavok 1937" music="">
-        <verse number="">
+        <verse number="1">
             <line>V trúchlivý Veľký piatok, v trúchlivý Veľký</line>
             <line>piatok zármutok premáhajme!</line>
             <line>A v tento veľký sviatok, a v tento veľký</line>
@@ -9394,7 +9396,7 @@
         </verse>
     </song>
     <song number="198" text="Prídavok 1937" music="">
-        <verse number="">
+        <verse number="1">
             <line>Zarmútení hľadíme na Teba</line>
             <line>dnes, Kriste, miluješ nás, cítime, hoc umieraš</line>
             <line>iste. Pred Tebou sa koríme, vypočuj</line>
@@ -9403,7 +9405,7 @@
         </verse>
     </song>
     <song number="199" text="Kódex Batthyányho 1550" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vo sviatky veľkonočné, vo sviatky</line>
             <line>veľkonočné chváľme Boha verného,</line>
             <line>veď Syna svojho za nás, veď Syna svojho</line>
@@ -9415,7 +9417,7 @@
         </verse>
     </song>
     <song number="200" text="Text x 13. st." music="Nemecká ľudová melódia z 13. st.">
-        <verse number="">
+        <verse number="1">
             <line>Kristus Pán z mŕtvych vstal, hoci v smrti účasť mal</line>
             <line>Z toho sa my radujme, veselo vyspevujme: Haleluja!</line>
             <line>Bez Jeho vzkriesenia niet hriechov odpustenia.</line>
@@ -9425,7 +9427,7 @@
         </verse>
     </song>
     <song number="201" text="É. Budai" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vo veľkonočné sviatky, vo veľkonočné</line>
             <line>sviatky, kresťania, sa radujme!</line>
             <line>Zo srdca úprimného, zo srdca úprimného</line>
@@ -9437,7 +9439,7 @@
         </verse>
     </song>
     <song number="202" text="Prídavok 1937" music="Prídavok 1937">
-        <verse number="">
+        <verse number="1">
             <line>Haleluja! Haleluja! Vstal z mŕtvych náš</line>
             <line>Vykupiteľ, v nebesiach žije večne.</line>
             <line>Bohu nech je za to chvála, že smrť zlomil</line>
@@ -9447,7 +9449,7 @@
         </verse>
     </song>
     <song number="203" text="M. Hamari" music="">
-        <verse number="">
+        <verse number="1">
             <line>Haleluja! Krista slávme,</line>
             <line>novým životom Ho chváľme,</line>
             <line>lebo smrť, vzkriesenie Jeho</line>
@@ -9460,7 +9462,7 @@
         </verse>
     </song>
     <song number="204" text="Prídavok 1937" music="">
-        <verse number="">
+        <verse number="1">
             <line>Oslávený Kriste náš, ktorý</line>
             <line>v nebesiach bývaš, prijmi naše</line>
             <line>pokánie, srdcia Tebe oddané,</line>
@@ -9469,7 +9471,7 @@
         </verse>
     </song>
     <song number="205" text="Prídavok 1937" music="Debrecín 1774">
-        <verse number="">
+        <verse number="1">
             <line>Pane, si nás milosťou vykúpil,</line>
             <line>na pravicu Otca sám si vstúpil,</line>
             <line>za to Ťa my stále vzývať chceme</line>
@@ -9477,7 +9479,7 @@
         </verse>
     </song>
     <song number="206" text="Kódex Batthyányho 1550" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vo sviatky svätodušné, vo sviatky</line>
             <line>svätodušné chváľme Boha večného,</line>
             <line>ktorý nám z neba zoslal, ktorý nám z neba</line>
@@ -9489,7 +9491,7 @@
         </verse>
     </song>
     <song number="207" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ó, Duchu Svätý, Ty nadchýnaj,</line>
             <line>nám proti zlobe viac sily daj!</line>
             <line>Veď satan zvádza, napadá hneď,</line>
@@ -9498,7 +9500,7 @@
         </verse>
     </song>
     <song number="208" text="J. Lengyel" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vo svätodušné sviatky, vo svätodušné</line>
             <line>sviatky spevom radostným znie chrám,</line>
             <line>lebo Kristus Pán z lásky, lebo Kristus Pán</line>
@@ -9510,7 +9512,7 @@
         </verse>
     </song>
     <song number="209" text="É. Budai" music="">
-        <verse number="">
+        <verse number="1">
             <line>Nový rok nám požehnaj, nový rok nám</line>
             <line>požehnaj z lásky svojej, Bože náš!</line>
             <line>Hojnosťou ho korunuj, hojnosťou ho korunuj,</line>
@@ -10090,7 +10092,7 @@
         </verse>
     </song>
     <song number="228" text="" music="Kluž 1837">
-        <verse number="">
+        <verse number="1">
             <line>Nedostatok trpíme my bez</line>
             <line>pomoci z neba,</line>
             <line>ale nádej, Bože večný, vkladáme</line>
@@ -10100,14 +10102,14 @@
         </verse>
     </song>
     <song number="229" text="Debrecín 1736" music="Debrecín 1778">
-        <verse number="">
+        <verse number="1">
             <line>Otče, Synu a Duchu, skloňže</line>
             <line>sa k nám znova a dopraj nášmu</line>
             <line>sluchu večnej pravdy slová!</line>
         </verse>
     </song>
     <song number="230" text="M. Royová" music="Piesne sionské 1930">
-        <verse number="">
+        <verse number="1">
             <line>Vyuč ma, Hospodine, ceste svojej,</line>
             <line>nech chodím len v pravde Tvojej! Sústreď srdce</line>
             <line>moje, sústreď srdce moje, sústreď</line>
@@ -10115,7 +10117,7 @@
         </verse>
     </song>
     <song number="231" text="Kluž 1837" music="">
-        <verse number="">
+        <verse number="1">
             <line>Bože, udeľ Ducha svojho,</line>
             <line>kým pred Tebou stojíme,</line>
             <line>nech pravdami slova Tvojho</line>
@@ -10127,7 +10129,7 @@
         </verse>
     </song>
     <song number="232" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Prebuď naše zmysly, Bože, ktože to urobiť</line>
             <line>môže? Nech to slovo nám kázané</line>
             <line>v dobrej vôli prijímame! Slúži nám na</line>
@@ -10135,7 +10137,7 @@
         </verse>
     </song>
     <song number="233" text="Debrecín 1590" music="">
-        <verse number="">
+        <verse number="1">
             <line>Daj zvestovať slovo pravé,</line>
             <line>večný Bože náš! Ním pripútaj nás</line>
             <line>k sebe ako k Hlave, daj pokoj a zdravie,</line>
@@ -10143,7 +10145,7 @@
         </verse>
     </song>
     <song number="234" text="Piesne pobožné 1929" music="">
-        <verse number="">
+        <verse number="1">
             <line>Pri svojom ľude, ó Bože, v chráme</line>
             <line>zhromaždenom,</line>
             <line>milosť svoju dokáž znovu v slove</line>
@@ -10153,7 +10155,7 @@
         </verse>
     </song>
     <song number="235" text="M. Luther" music="M. Luther">
-        <verse number="">
+        <verse number="1">
             <line>Zostane navždy slovo Božie,</line>
             <line>a zrušiť ho nikto nemôže.</line>
             <line>Veľký Tvorca zeme s nami je,</line>
@@ -10373,7 +10375,7 @@
         </verse>
     </song>
     <song number="244" text="S. Diószegi" music="">
-        <verse number="">
+        <verse number="1">
             <line>Vďaka Ti buď, Pane, veleba, česť,</line>
             <line>večná sláva!</line>
             <line>Prijmi chválu vďačnú, ktorú Ti dnes</line>
@@ -10383,7 +10385,7 @@
         </verse>
     </song>
     <song number="245" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Posilnení odchádzame, o Slovo zas</line>
             <line>bohatší sme. Kriste Pane, Ty len veď nás,</line>
             <line>nech je s nami vždy Tvoj odkaz,</line>
@@ -10391,7 +10393,7 @@
         </verse>
     </song>
     <song number="246" text="2Kor 13, 13" music="Debrec9n 1774">
-        <verse number="">
+        <verse number="1">
             <line>Nech je milosť nášho Pána Krista,</line>
             <line>Boha Otca nášho láska čistá</line>
             <line>a dar Ducha, posvätenia prameň,</line>
@@ -10399,7 +10401,7 @@
         </verse>
     </song>
     <song number="247" text="J. Opočenský" music="">
-        <verse number="">
+        <verse number="1">
             <line>Bože, vylej požehnanie</line>
             <line>na všetkých nás z výsosti,</line>
             <line>daj, nech Tvoje prikázanie</line>
@@ -10411,7 +10413,7 @@
         </verse>
     </song>
     <song number="248" text="T. Sabovik" music="">
-        <verse number="">
+        <verse number="1">
             <line>Ježiš Kristus cirkev založil,</line>
             <line>povolal tých, ktorých si vyvolil.</line>
             <line>Nariadil im, aby tak žili:</line>
@@ -10421,7 +10423,7 @@
         </verse>
     </song>
     <song number="249" text="Th. Kalenda" music="P. A. Bost">
-        <verse number="">
+        <verse number="1">
             <line>Tvoje požehnanie, dobrý Otče,</line>
             <line>nás cestou žitia sprevádzaj,</line>
             <line>ráč v Kristovi nás posväcovať</line>
@@ -10432,7 +10434,7 @@
         </verse>
     </song>
     <song number="250" text="2Kor 13, 13; 1890" music="Ch. Gregor">
-        <verse number="">
+        <verse number="1">
             <line>Milosť Pána nášho Ježiša Krista</line>
             <line>a láska Božia a účastenstvo</line>
             <line>Ducha Svätého so všetkými nami,</line>
@@ -10440,7 +10442,7 @@
         </verse>
     </song>
     <song number="251" text="Bratské piesne 1971" music="">
-        <verse number="">
+        <verse number="1">
             <line>Otče, ráč nás požehnávať,</line>
             <line>dôverne Ťa vzývame.</line>
             <line>Kriste, ráč sa prihovárať</line>
@@ -16930,7 +16932,7 @@
             <line>Ježiš ma smrťou zachránil.</line>
         </verse>
     </song>
-    <song number="411" text="" music="">
+    <song number="411" text="J. Siracký" music="J. Berka">
         <verse number="1">
             <line>Za mňa si, Pane, krvácal,</line>
             <line>na kríži za mňa pnel,</line>
@@ -16950,7 +16952,7 @@
             <line>za dokonaný boj.</line>
         </verse>
     </song>
-    <song number="412" text="" music="">
+    <song number="412" text="J. Rist" music="Mainz 1628">
         <verse number="1">
             <line>Ó, veľký bôľ nás postihol a</line>
             <line>celým srdcom lkáme. Dieťa Božie</line>
@@ -16981,7 +16983,7 @@
             <line>k Tebe túžbou hnaný.</line>
         </verse>
     </song>
-    <song number="413" text="" music="">
+    <song number="413" text="J. Lengyel" music="">
         <verse number="1">
             <line>Kriste, Ty si ležal v hrobe,</line>
             <line>odňal si moc smrti, zlobe.</line>
@@ -17032,7 +17034,9 @@
             <line>nech ma múdro vždy spravuje</line>
             <line>a v sláve žiť pripravuje!</line>
         </verse>
-        <verse number="6">
+    </song>
+    <song number="414" text="E.L.Budry" music="G.F.Händel">
+        <verse number="1">
             <line>Kristovi sláva,</line>
             <line>ktorý z mŕtvych vstal!</line>
             <line>To je dobrá správa,</line>
@@ -17042,7 +17046,7 @@
             <line>Ref: Kristovi sláva, ktorý z mŕtvych vstal!</line>
             <line>To je dobrá správa, Boh v Ňom spásu dal.</line>
         </verse>
-        <verse number="7">
+        <verse number="2">
             <line>Vzkriesený Kristus</line>
             <line>prichádza aj k nám,</line>
             <line>nový život žiť už</line>
@@ -17054,7 +17058,7 @@
             <line>Ref: Kristovi sláva, ktorý z mŕtvych vstal!</line>
             <line>To je dobrá správa, Boh v Ňom spásu dal.</line>
         </verse>
-        <verse number="8">
+        <verse number="3">
             <line>Ó, Knieža mieru,</line>
             <line>uč nás pevne stáť,</line>
             <line>daj nám istú vieru,</line>
@@ -17067,7 +17071,7 @@
             <line>To je dobrá správa, Boh v Ňom spásu dal.</line>
         </verse>
     </song>
-    <song number="415" text="" music="">
+    <song number="415" text="A. Batizi" music="Debrecín 1774">
         <verse number="1">
             <line>Ježiš Kristus z mŕtvych vstal, keď bol za nás</line>
             <line>život dal, svoju svätú krv vylial,</line>
@@ -17128,7 +17132,7 @@
             <line>milosť iste od Otca svojho!</line>
         </verse>
     </song>
-    <song number="416" text="" music="">
+    <song number="416" text="Varadín 1566" music="Cantus Catholici 1651">
         <verse number="1">
             <line>Kristus Pán</line>
             <line>vstal z mŕtvych</line>
@@ -17185,7 +17189,7 @@
             <line>zachovaj nás! Amen!</line>
         </verse>
     </song>
-    <song number="417" text="" music="">
+    <song number="417" text="K. Motěšický" music="">
         <verse number="1">
             <line>Nastal nám čas preradostný,</line>
             <line>kresťania, plesajme! Prišiel sviatok</line>
@@ -17231,7 +17235,7 @@
             <line>Amen, haleluja!</line>
         </verse>
     </song>
-    <song number="418" text="" music="">
+    <song number="418" text="Ch. Wesley" music="R. Williams">
         <verse number="1">
             <line>Kristus Pán je vzkriesený, halejuja!</line>
             <line>Svet je už zachránený, haleluja!</line>
@@ -17257,7 +17261,7 @@
             <line>Pane Kriste vzkriesený, haleluja!</line>
         </verse>
     </song>
-    <song number="419" text="" music="">
+    <song number="419" text="J. Lengyel" music="">
         <verse number="1">
             <line>Smutné bolo celé stvorenie,</line>
             <line>keď bol Kristus križovaný;</line>
@@ -17299,7 +17303,7 @@
             <line>skvie a len Teba velebí!</line>
         </verse>
     </song>
-    <song number="420" text="" music="">
+    <song number="420" text="I. Bátori" music="">
         <verse number="1">
             <line>Ó, zástupy nebeské i národy</line>
             <line>pozemské, dnes radostne</line>
@@ -17340,7 +17344,7 @@
             <line>veď nás k večnej radosti!</line>
         </verse>
     </song>
-    <song number="421" text="" music="">
+    <song number="421" text="B. Szőnyi" music="">
         <verse number="1">
             <line>Ježiš pre naše spasenie</line>
             <line>umrel, na tretí deň vstal.</line>
@@ -17402,7 +17406,7 @@
             <line>potom nás vzkries, otvor nám raj!</line>
         </verse>
     </song>
-    <song number="422" text="" music="">
+    <song number="422" text="Debrecín 1579" music="Kluž 1751">
         <verse number="1">
             <line>Dnes sa rozpamätajme</line>
             <line>na smrť Pána drahého,</line>
@@ -17460,7 +17464,7 @@
             <line>Pane, zmiluj sa!</line>
         </verse>
     </song>
-    <song number="423" text="" music="">
+    <song number="423" text="Zo 17. st." music="">
         <verse number="1">
             <line>Povstal z mŕtvych Kristus, náš</line>
             <line>Pán, raduj sa, raduj, kto si kresťan!</line>
@@ -17490,7 +17494,7 @@
             <line>Večnú chválu vzdávame Ti, mocný Kráľu!</line>
         </verse>
     </song>
-    <song number="424" text="" music="">
+    <song number="424" text="Žitavský kancionál 1710" music="Weiseho kancionál 1531">
         <verse number="1">
             <line>Vstal z mŕtvych Kristus Spasiteľ,</line>
             <line>ako víťaz z hrobu vyšiel. Teš sa, kresťan,</line>
@@ -17527,7 +17531,7 @@
             <line>v nich Boha Trojjediného! Haleluja!</line>
         </verse>
     </song>
-    <song number="425" text="" music="">
+    <song number="425" text="M. Hamari" music="">
         <verse number="1">
             <line>Pán Kristus z mŕtvych vstal,</line>
             <line>kiež by Mu svet chválu vzdal.</line>
@@ -17564,7 +17568,7 @@
             <line>svoj život s vďačnosťou nes.</line>
         </verse>
     </song>
-    <song number="426" text="" music="">
+    <song number="426" text="M. Royová" music="Slovenský ľudový nápev">
         <verse number="1">
             <line>Už je hrob otvorený,</line>
             <line>ka meň odpečatený!</line>
@@ -17590,7 +17594,7 @@
             <line>Ó, smrť, kde je osteň tvoj?</line>
         </verse>
     </song>
-    <song number="427" text="" music="">
+    <song number="427" text="Varadín 1566" music="Debrecín 1778">
         <verse number="1">
             <line>Kristus vystúpil do nebies</line>
             <line>prosby naše Bohu predniesť,</line>
@@ -17640,7 +17644,7 @@
             <line>vzdávajte, hriešnici!</line>
         </verse>
     </song>
-    <song number="428" text="" music="">
+    <song number="428" text="Á. Pálóczi Horváth" music="">
         <verse number="1">
             <line>Ó, sväté nebo, blaženosti ríša,</line>
             <line>otváraj brány, prichádza najvyššia</line>
@@ -17702,7 +17706,7 @@
             <line>hoci len predsieň ríše nebeskej!</line>
         </verse>
     </song>
-    <song number="429" text="" music="">
+    <song number="429" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Ježiš v oblakoch veleby</line>
             <line>vystúpil do slávy v nebi,</line>
@@ -17744,7 +17748,7 @@
             <line>dávaj nám kalich plný slasti!</line>
         </verse>
     </song>
-    <song number="430" text="" music="">
+    <song number="430" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Kristus Pán na nebo vstúpil,</line>
             <line>keď nás zo smrti vykúpil,</line>
@@ -17782,7 +17786,7 @@
             <line>budeme tiež oslávení!</line>
         </verse>
     </song>
-    <song number="431" text="" music="">
+    <song number="431" text="J. Tranovský" music="">
         <verse number="1">
             <line>Hľa, Pán kraľuje,</line>
             <line>s Otcom jedno je.</line>
@@ -17824,7 +17828,7 @@
             <line>raz nám svitni! Amen.</line>
         </verse>
     </song>
-    <song number="432" text="" music="">
+    <song number="432" text="A. Maťašík" music="">
         <verse number="1">
             <line>Sláva Bohu na nebi,</line>
             <line>cirkev Ho dnes velebí,</line>
@@ -17866,7 +17870,7 @@
             <line>na ten čas, keď opäť prídeš.</line>
         </verse>
     </song>
-    <song number="433" text="" music="">
+    <song number="433" text="K. Kuzmány" music="">
         <verse number="1">
             <line>Mysli na súd, lebo je istý</line>
             <line>súd Boží, čo raz nastane.</line>
@@ -17916,7 +17920,7 @@
             <line>žiť v blahu mieru večného.</line>
         </verse>
     </song>
-    <song number="434" text="" music="">
+    <song number="434" text="J. Tranovský" music="Franusov kancionál 1505">
         <verse number="1">
             <line>Prebuďme sa, kresťania,</line>
             <line>je čas na pokánie,</line>
@@ -17984,7 +17988,7 @@
             <line>daj, i svoje stany!</line>
         </verse>
     </song>
-    <song number="435" text="" music="">
+    <song number="435" text="E. Porter" music="J. Machajdík">
         <verse number="1">
             <line>Pri kalichu utrpenia v trápení a</line>
             <line>žiaľu dňoch nezúfaj a nenariekaj -</line>
@@ -18003,7 +18007,7 @@
             <line>posilňuj ma, pri mne stoj!</line>
         </verse>
     </song>
-    <song number="436" text="" music="">
+    <song number="436" text="Varadín 1566" music="Debrecín 1778">
         <verse number="1">
             <line>Vo sviatok krásny turíčny</line>
             <line>Duch Svätý z neba zostúpil a apoštolov,</line>
@@ -18040,7 +18044,7 @@
             <line>naveky vekov až!</line>
         </verse>
     </song>
-    <song number="437" text="" music="">
+    <song number="437" text="I. Nagy" music="">
         <verse number="1">
             <line>Ó, Ty Duchu Svätý,</line>
             <line>čo si z jasu nebeského</line>
@@ -18077,7 +18081,7 @@
             <line>aká nás čaká vo večnosti!</line>
         </verse>
     </song>
-    <song number="438" text="" music="">
+    <song number="438" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Duchu Svätý, zostúp na nás,</line>
             <line>aby kresťania teraz zas</line>
@@ -18119,7 +18123,7 @@
             <line>a v smrti večným spasením!</line>
         </verse>
     </song>
-    <song number="439" text="" music="">
+    <song number="439" text="Z anglického zdroja" music="D. Iverson">
         <verse number="1">
             <line>Duchu Svätý, príď už, príď, žehnaj ma a veď,</line>
             <line>ohnivými jazykmi dušu, telo vznieť!</line>
@@ -18145,7 +18149,7 @@
             <line>Duchu Svätý, príď už, príď, pomôž zvíťaziť!</line>
         </verse>
     </song>
-    <song number="440" text="" music="">
+    <song number="440" text="K. U. Bosák" music="Franusov kancionál">
         <verse number="1">
             <line>Otče náš, milý Pane, dávaj nám Ducha svojho,</line>
             <line>prosíme, nech sa stane pre Krista,</line>
@@ -18174,7 +18178,7 @@
             <line>vďační Tebe samému.</line>
         </verse>
     </song>
-    <song number="441" text="" music="">
+    <song number="441" text="J. Rybárik" music="">
         <verse number="1">
             <line>Ó, Svätým Duchom naplň nás, Ty,</line>
             <line>veľký Bože, sám, nech vidí aj dnes</line>
@@ -18211,7 +18215,7 @@
             <line>nás do smrti až bráň!</line>
         </verse>
     </song>
-    <song number="442" text="" music="">
+    <song number="442" text="I. Szegedi Kis" music="Debrecín 1774">
         <verse number="1">
             <line>Ó, príď, Duchu Svätý,</line>
             <line>k nám, slovo útechy daj nám,</line>
@@ -18243,7 +18247,7 @@
             <line>a v nebesiach s Tebou byť.</line>
         </verse>
     </song>
-    <song number="443" text="" music="">
+    <song number="443" text="H. Maurus" music="Wittenberg 1524">
         <verse number="1">
             <line>Ó, Svätý Duchu,</line>
             <line>príď už k nám a navštív</line>
@@ -18294,7 +18298,7 @@
             <line>Synovi, Duchu Svätému!</line>
         </verse>
     </song>
-    <song number="444" text="" music="">
+    <song number="444" text="Gy. Szűcz" music="">
         <verse number="1">
             <line>Duchu Svätý,</line>
             <line>Tvoja Božia moc</line>
@@ -18327,7 +18331,7 @@
             <line>hojne sa vrátilo.</line>
         </verse>
     </song>
-    <song number="445" text="" music="">
+    <song number="445" text="M. Luther" music="Debrecín 1774">
         <verse number="1">
             <line>Duchu Svätý, príď, naplň nás</line>
             <line>darmi, ktorých prehojne máš!</line>
@@ -18362,7 +18366,7 @@
             <line>Haleluja, haleluja!</line>
         </verse>
     </song>
-    <song number="446" text="" music="">
+    <song number="446" text="B. M. Červenka" music="Šamotulský kancionál 1561">
         <verse number="1">
             <line>Zavítaj k nám, Duchu Svätý, čo si</line>
             <line>rovnakej podstaty s Otcom, Synom, v srdciac</line>
@@ -18393,7 +18397,7 @@
             <line>boli v nebi oslávení.</line>
         </verse>
     </song>
-    <song number="447" text="" music="">
+    <song number="447" text="B. M. Kunvaldský" music="">
         <verse number="1">
             <line>Zošli na nás, Otče milý,</line>
             <line>Ducha milosti a sily,</line>
@@ -18413,7 +18417,7 @@
             <line>tam, kde večný Tvoj trón stojí.</line>
         </verse>
     </song>
-    <song number="448" text="" music="">
+    <song number="448" text="J. Baštecký" music="">
         <verse number="1">
             <line>Ach, príď, ach, príď,</line>
             <line>Duchu Svätý, v daroch spásy</line>
@@ -18437,7 +18441,7 @@
             <line>vzdávať v nebi neskonalú.</line>
         </verse>
     </song>
-    <song number="449" text="" music="">
+    <song number="449" text="F. Dávid" music="Debrecín 1774">
         <verse number="1">
             <line>Vzdávajme všetci chválu</line>
             <line>nášmu Bohu Otcovi!</line>
@@ -18501,7 +18505,7 @@
             <line>a prijali večnú slávu.</line>
         </verse>
     </song>
-    <song number="450" text="" music="">
+    <song number="450" text="J. S. Stone" music="S. S. Wesley">
         <verse number="1">
             <line>Cirkvi základ jediný je len Kristus, jej</line>
             <line>Pán; slovom, vodou, Presilný, znovuzrodil</line>
@@ -18549,7 +18553,7 @@
             <line>žiť s Tebou večne tam!</line>
         </verse>
     </song>
-    <song number="451" text="" music="">
+    <song number="451" text="" music="Husitský kancionál 1531">
         <verse number="1">
             <line>V zhromaždení tomto vieme:</line>
             <line>v Pánovi sa tešiť smieme, lebo v</line>
@@ -18628,7 +18632,7 @@
             <line>a večne Ťa tam velebí!</line>
         </verse>
     </song>
-    <song number="452" text="" music="">
+    <song number="452" text="M. B. Červenka" music="D. Nettleton">
         <verse number="1">
             <line>Aké je to utešené vo svornosti prebývať!</line>
             <line>Aké je to preblažené so všetkými pokoj</line>
@@ -18677,7 +18681,7 @@
             <line>so všetkými pokoj mať!</line>
         </verse>
     </song>
-    <song number="453" text="" music="">
+    <song number="453" text="H. E. Fosdick" music="J. Hughes">
         <verse number="1">
             <line>Bože večný milostivý,</line>
             <line>cirkvi daj svojho Ducha,</line>
@@ -18724,7 +18728,7 @@
             <line>slúžiť Ti až naveky!</line>
         </verse>
     </song>
-    <song number="454" text="" music="">
+    <song number="454" text="J. E. Schmidt" music="J. A. Freylingshausen">
         <verse number="1">
             <line>Prospievaj, prospievaj, Sion,</line>
             <line>vo svetle jasnom! Jasne skvej sa,</line>
@@ -18779,7 +18783,7 @@
             <line>vytrvaj, vytrvaj!</line>
         </verse>
     </song>
-    <song number="455" text="" music="">
+    <song number="455" text="G. Szegedi" music="Debrecín 1778">
         <verse number="1">
             <line>Ó, Pane Bože, s nami buď, ó, nedaj</line>
             <line>svojmu stádu zahynúť! Mnohí povstávajú</line>
@@ -18822,7 +18826,7 @@
             <line>chválu, česť Ti vzdávame.</line>
         </verse>
     </song>
-    <song number="456" text="" music="">
+    <song number="456" text="M. Altenburg" music="">
         <verse number="1">
             <line>Stádočko malé, nezúfaj, hoc satan,</line>
             <line>zvodca teba aj sa zlostne zničiť snaží!</line>
@@ -18848,7 +18852,7 @@
             <line>a s Tebou kraľovať raz!</line>
         </verse>
     </song>
-    <song number="457" text="" music="">
+    <song number="457" text="J. Pauli" music="Á. Luttenberg Tihanyi">
         <verse number="1">
             <line>Upokoj sa, drahý Sion,</line>
             <line>pozri, žije Pán Boh tvoj!</line>
@@ -18930,7 +18934,7 @@
             <line>odkiaľ ťa nik nevyženie.</line>
         </verse>
     </song>
-    <song number="458" text="" music="">
+    <song number="458" text="L. N. Zinzendorf" music="Bamberg 1732">
         <verse number="1">
             <line>Bratia, sestry, poďme spolu</line>
             <line>v srdci Pána spočinúť,</line>
@@ -18970,7 +18974,7 @@
             <line>že sme Tvoji a Ty náš!</line>
         </verse>
     </song>
-    <song number="459" text="" music="">
+    <song number="459" text="M. Hamari" music="">
         <verse number="1">
             <line>Boh je Otec náš láskavý, spasil svet v svojom</line>
             <line>Synovi. A chce nás svojím Duchom viesť-to</line>
@@ -19031,8 +19035,8 @@
             <line>a splniť svojej viery sľub.</line>
         </verse>
     </song>
-    <song number="460" text="" music="">
-        <verse number="">
+    <song number="460" text="I. Fejes" music="">
+        <verse number="1">
             <line>Milý Otče náš z výsosti,</line>
             <line>skloň sa zo svojej jasnosti,</line>
             <line>veď nás vždy svojím Duchom Svätým,</line>
@@ -19043,7 +19047,7 @@
             <line>láskou bolo dokázané!</line>
         </verse>
     </song>
-    <song number="461" text="" music="">
+    <song number="461" text="M. Fekete" music="">
         <verse number="1">
             <line>Čuj, Otče, naše vyznanie</line>
             <line>aby sme vrúcne pokánie</line>
@@ -19065,7 +19069,7 @@
             <line>nádejou sa pre nás stane.</line>
         </verse>
     </song>
-    <song number="462" text="" music="">
+    <song number="462" text="E. M. Clarkson" music="Ch. Steggal">
         <verse number="1">
             <line>K Synovi človeka a k Bohu ideme,</line>
             <line>ktorý je začiatok a v ktorom</line>
@@ -19105,8 +19109,8 @@
             <line>k Tebe sa vráti, Pane náš!</line>
         </verse>
     </song>
-    <song number="463" text="" music="">
-        <verse number="">
+    <song number="463" text="Piesne pobožné 1929" music="">
+        <verse number="1">
             <line>V Božom mene chrám stavať začíname,</line>
             <line>základy kladieme, múry dvíhame.</line>
             <line>Daj, Pane Bože, aby čím skôr stáli,</line>
@@ -19115,7 +19119,7 @@
             <line>nech v ňom znie pravda Tvojho slova smelo!</line>
         </verse>
     </song>
-    <song number="464" text="" music="">
+    <song number="464" text="J. Varga" music="">
         <verse number="1">
             <line>Chválime Ťa, ó, náš Pane, za lásku Tvoju,</line>
             <line>že nás vedieš Duchom svojím stale k pokoju,</line>
@@ -19141,7 +19145,7 @@
             <line>aby si v ňom bol chválený ľuďmi len Ty sám!</line>
         </verse>
     </song>
-    <song number="465" text="" music="">
+    <song number="465" text="Prídavok 1937" music="">
         <verse number="1">
             <line>Vyvýšený Boh náš naveky</line>
             <line>kraľuje, Jeho veľkosť nebo a zem nám</line>
@@ -19160,7 +19164,7 @@
             <line>nech vďačne s chválou pred Bohom sa všetci sklonia!</line>
         </verse>
     </song>
-    <song number="466" text="" music="">
+    <song number="466" text="M. A. Thomson" music="J. Walch">
         <verse number="1">
             <line>Ó, Sion, povstaň, veď máš úloh veľa -</line>
             <line>zvestovať ľuďom, že Boh svetlo je,</line>
@@ -19207,7 +19211,7 @@
             <line>Vysloboditeľ ide k víťazstvu ťa viesť.</line>
         </verse>
     </song>
-    <song number="467" text="" music="">
+    <song number="467" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Otče náš, ktorý trón svoj v nebi máš</line>
             <line>a naše prosby stále počúvaš,</line>
@@ -19227,7 +19231,7 @@
             <line>svoj podiel máme v nebesiach navždy!</line>
         </verse>
     </song>
-    <song number="468" text="" music="">
+    <song number="468" text="A. Adlof" music="G. F. Root">
         <verse number="1">
             <line>Čuj, ako ťa Ježiš volá:</line>
             <line>"Kto pôjde dnes pracovať?</line>
@@ -19269,7 +19273,7 @@
             <line>Ó, pošli mňa, tuhľa som!</line>
         </verse>
     </song>
-    <song number="469" text="" music="">
+    <song number="469" text="I. Fejes" music="">
         <verse number="1">
             <line>Ó, strážcom daj požehnanie,</line>
             <line>večný Bože náš, sluhov svojich chráň</line>
@@ -19301,7 +19305,7 @@
             <line>sa nám už nestratí, večný Bože, Otče náš!</line>
         </verse>
     </song>
-    <song number="470" text="" music="">
+    <song number="470" text="I. Szakács" music="">
         <verse number="1">
             <line>Bože, Ty sám duchovných správcov</line>
             <line>zborom svojho ľudu dávaš,</line>
@@ -19362,7 +19366,7 @@
             <line>Daj to láska Tvoja!</line>
         </verse>
     </song>
-    <song number="471" text="" music="">
+    <song number="471" text="A. Maťašík" music="">
         <verse number="1">
             <line>Poďme, Kristovi veriaci,</line>
             <line>z Jeho lásky sa tešiaci,</line>
@@ -19397,7 +19401,7 @@
             <line>Naveky Ho chváliť chceme.</line>
         </verse>
     </song>
-    <song number="472" text="" music="">
+    <song number="472" text="A. Maťašík" music="">
         <verse number="1">
             <line>Bože, náš Vysloboditeľu,</line>
             <line>čo slnkom našich hriešnych si duší,</line>
@@ -19431,7 +19435,7 @@
             <line>vieru, nádej a lásku upevňuj!</line>
         </verse>
     </song>
-    <song number="473" text="" music="">
+    <song number="473" text="J. Hus" music="J. Karafiát">
         <verse number="1">
             <line>Veď ja pôjdem bezo strachu, nezmätieš ma,</line>
             <line>sata ne! Mňa môj Ježiš vedie stále</line>
@@ -19476,7 +19480,7 @@
             <line>dielo Pána sa zdarí.</line>
         </verse>
     </song>
-    <song number="474" text="" music="">
+    <song number="474" text="M. Luther" music="M. Luther">
         <verse number="1">
             <line>Hrad prepevný je Pán Boh náš,</line>
             <line>zbroj výborná i sila,</line>
@@ -19521,7 +19525,7 @@
             <line>nebesá nám zostanú!</line>
         </verse>
     </song>
-    <song number="475" text="" music="">
+    <song number="475" text="Piesne cestou života 1873" music="W. B. Bradbury">
         <verse number="1">
             <line>Už sa blížia tie dni blahé, v ktorých</line>
             <line>Zem zaplesá, púšť zakvitne a raj</line>
@@ -19561,7 +19565,7 @@
             <line>víťazstvo je už bližšie!</line>
         </verse>
     </song>
-    <song number="476" text="" music="">
+    <song number="476" text="S. Preiswerk" music="J. M. Haydn">
         <verse number="1">
             <line>Ó, Pane, to je Tvoja vec,</line>
             <line>čo je nám zverená,</line>
@@ -19596,7 +19600,7 @@
             <line>A sveta hlas životom plesá zas!</line>
         </verse>
     </song>
-    <song number="477" text="" music="">
+    <song number="477" text="J. Baštecký" music="Piesne cestou života 1873">
         <verse number="1">
             <line>V kráľovstve Božom svojho Otca mám, na Jeho</line>
             <line>lásku vždy sa spolieham: volá ma z tejto</line>
@@ -19626,7 +19630,7 @@
             <line>korunu z ruky Pána vziať.</line>
         </verse>
     </song>
-    <song number="478" text="" music="">
+    <song number="478" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Tvárou v tvár s Ježišom živým,</line>
             <line>tvárou v tvár, ó, aká slasť! S láskou</line>
@@ -19667,7 +19671,7 @@
             <line>v sláve Božej večnosti.</line>
         </verse>
     </song>
-    <song number="479" text="" music="">
+    <song number="479" text="Piesne duchovné 1877" music="">
         <verse number="1">
             <line>Už blízko je Tvoj deň, keď prídeš,</line>
             <line>Pane, zas a cirkev domov</line>
@@ -19698,7 +19702,7 @@
             <line>veď domov k nebesiam!</line>
         </verse>
     </song>
-    <song number="480" text="" music="">
+    <song number="480" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Ó, vy panny vyvolené,</line>
             <line>družky svadby Kristovej,</line>
@@ -19729,7 +19733,7 @@
             <line>vovedie ťa do neba.</line>
         </verse>
     </song>
-    <song number="481" text="" music="">
+    <song number="481" text="L. B. Kašpar" music="Ľudový nápev z vých. Indie">
         <verse number="1">
             <line>Príbytok prekrásny, kráľovský stan,</line>
             <line>pripravil pre verných v nebesiach Pán.</line>
@@ -19755,7 +19759,7 @@
             <line>otvor mi z milosti svoj večný stan!</line>
         </verse>
     </song>
-    <song number="482" text="" music="">
+    <song number="482" text="G. Adams-Flower" music="L. Mason">
         <verse number="1">
             <line>Ó, Bože, bližšie chcem vždy k Tebe byť,</line>
             <line>keď s krížom poklesnem, Ty ku mne príď,</line>
@@ -19787,7 +19791,7 @@
             <line>na svoju priviň hruď, vždy so mnou buď.</line>
         </verse>
     </song>
-    <song number="483" text="" music="">
+    <song number="483" text="F. S. Bennet" music="F. S. Bennet">
         <verse number="1">
             <line>Krásnu vlasť pripravil pre svoj ľud milý</line>
             <line>náš Spasiteľ na nebi, radosť len vládne</line>
@@ -19821,7 +19825,7 @@
             <line>pripravil pre verných Spasiteľ.</line>
         </verse>
     </song>
-    <song number="484" text="" music="">
+    <song number="484" text="I. D. Sankey" music="C. G. Stebbins">
         <verse number="1">
             <line>Žije môj Spasiteľ, ja viem, a pripravil</line>
             <line>mi už svoj dom; korunu dá mi, diadém</line>
@@ -19866,7 +19870,7 @@
             <line>na mojej hrudi odpočiň!</line>
         </verse>
     </song>
-    <song number="485" text="" music="">
+    <song number="485" text="Ph. Nicolai" music="Ph. Nicolai">
         <verse number="1">
             <line>Vzbuď sa, vzbuď sa, ó, ľud Pána,</line>
             <line>počúvaj hlas z hradieb Siona!</line>
@@ -19903,7 +19907,7 @@
             <line>slávme tu i vo večnosti!</line>
         </verse>
     </song>
-    <song number="486" text="" music="">
+    <song number="486" text="J. Andrášik" music="W. A. Mozart">
         <verse number="1">
             <line>Plesaj, Božia rodina, haleluja, amen!</line>
             <line>Slávna ide hodina, haleluja, amen!</line>
@@ -19951,7 +19955,7 @@
             <line>haleluja, amen!</line>
         </verse>
     </song>
-    <song number="487" text="" music="">
+    <song number="487" text="A. P. Clemens" music="Debrecín 1791">
         <verse number="1">
             <line>Nech prestanú už, ó, kresťania,</line>
             <line>bolestné kviľby, nariekania,</line>
@@ -19989,7 +19993,7 @@
             <line>keď vstanú z mŕtvych všetci ľudia.</line>
         </verse>
     </song>
-    <song number="488" text="" music="">
+    <song number="488" text="Debreceni halloti énekeskönzv 1791" music="">
         <verse number="1">
             <line>Keď tak nečakane príde preukrutná</line>
             <line>smrť, ach, aká býva nežiadaná, smutná!</line>
@@ -20045,7 +20049,7 @@
             <line>Ježišu, príď, veniec oslávenia čakám.</line>
         </verse>
     </song>
-    <song number="489" text="" music="">
+    <song number="489" text="Text z r. 1896" music="Anonzmus 1553">
         <verse number="1">
             <line>Večne mocný Bože na výsosti neba,</line>
             <line>všetku svoju nádej vkladám vždy do Teba,</line>
@@ -20062,7 +20066,7 @@
             <line>keď ma On vzkriesi, vzdám Mu večnú česť.</line>
         </verse>
     </song>
-    <song number="490" text="" music="">
+    <song number="490" text="Debrecín 1698" music="Debrecín 1791">
         <verse number="1">
             <line>Len do Teba nádej vkladám,</line>
             <line>Bože, daj nech neupadám!</line>
@@ -20112,7 +20116,7 @@
             <line>a s anjelmi mohol plesať.</line>
         </verse>
     </song>
-    <song number="491" text="" music="">
+    <song number="491" text="M. Mackay" music="W. B. Bradbury">
         <verse number="1">
             <line>V Pánovi usnúť v sladký sen, v Ňom pokoj</line>
             <line>je a blaho len, keď verní v nebi</line>
@@ -20143,7 +20147,7 @@
             <line>vzbudí v ňom život, slávu zas.</line>
         </verse>
     </song>
-    <song number="492" text="" music="">
+    <song number="492" text="Debrecín 1819" music="">
         <verse number="1">
             <line>Človek sa raz prachom stane,</line>
             <line>lebo je vzatý z prachu;</line>
@@ -20175,7 +20179,7 @@
             <line>večný život dostaneme.</line>
         </verse>
     </song>
-    <song number="493" text="" music="">
+    <song number="493" text="M. G. Pfefferkorn" music="">
         <verse number="1">
             <line>Kto pozná čas môjho skonania!</line>
             <line>Smrť sa blíži, čas sa kráti!</line>
@@ -20240,7 +20244,7 @@
             <line>veď ma do konca šťastného!</line>
         </verse>
     </song>
-    <song number="494" text="" music="">
+    <song number="494" text="J. Tranovský" music="M. Vulpius 1609">
         <verse number="1">
             <line>Kristus Pán je môj život, zo</line>
             <line>smrti však zisk mám; to mi dá</line>
@@ -20295,7 +20299,7 @@
             <line>súc z lásky prijatý.</line>
         </verse>
     </song>
-    <song number="495" text="" music="">
+    <song number="495" text="A. Maťašík" music="">
         <verse number="1">
             <line>Všetko sa pominie, Bože, na tomto</line>
             <line>svete, život náš taký je ako ruža v kvete,</line>
@@ -20321,7 +20325,7 @@
             <line>z Tvojej lásky nájdem raz večné spasenie.</line>
         </verse>
     </song>
-    <song number="496" text="" music="">
+    <song number="496" text="J. Pelíšek" music="">
         <verse number="1">
             <line>Ó, počuj, pútnik, čo v pozemskom hluku</line>
             <line>tie tiché hroby spievajú v súzvuku:</line>
@@ -20353,7 +20357,7 @@
             <line>s Ním zvíťazíme.</line>
         </verse>
     </song>
-    <song number="497" text="" music="">
+    <song number="497" text="L. B. Kašpar" music="W. B. Bradbury">
         <verse number="1">
             <line>Keď žiara slnka, svetlo hviezd hasne</line>
             <line>nám, hasne nám,</line>
@@ -20384,7 +20388,7 @@
             <line>Ježiš sám, Ježiš sám.</line>
         </verse>
     </song>
-    <song number="498" text="" music="">
+    <song number="498" text="L. B. Kašpar" music="">
         <verse number="1">
             <line>Dovidenia v sláve toho kraja,</line>
             <line>kde sa slnko viacej neskrýva,</line>
@@ -20418,7 +20422,7 @@
             <line>do videnia, amen! Do videnia!</line>
         </verse>
     </song>
-    <song number="499" text="" music="">
+    <song number="499" text="A. Maťašík" music="">
         <verse number="1">
             <line>Matku milú si pozval, Pane,</line>
             <line>náhle pred svoju svätú tvár.</line>
@@ -20450,7 +20454,7 @@
             <line>sláviť naveky v radosti.</line>
         </verse>
     </song>
-    <song number="500" text="" music="">
+    <song number="500" text="A. Maťašík" music="">
         <verse number="1">
             <line>Sláva Ti buď, ó, náš Pane,</line>
             <line>za život, čo si nám dal,</line>
@@ -20508,7 +20512,7 @@
             <line>do kráľovstva Tvojej slávy!</line>
         </verse>
     </song>
-    <song number="501" text="" music="">
+    <song number="501" text="A. Maťašík" music="">
         <verse number="1">
             <line>Žalostným srdcom kvílime,</line>
             <line>lebo do rakvy vložíme</line>
@@ -20540,7 +20544,7 @@
             <line>z milosti nám otvor nebo!</line>
         </verse>
     </song>
-    <song number="502" text="" music="">
+    <song number="502" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Bože, utíš tu žiale a kvílenia!</line>
             <line>Cesta k večnosti je cez hrob vedená,</line>
@@ -20554,7 +20558,7 @@
             <line>kto zachoval v Krista pevnú vieru.</line>
         </verse>
     </song>
-    <song number="503" text="" music="">
+    <song number="503" text="T. Olivers" music="Hebrejský nápev">
         <verse number="1">
             <line>Ó, Abrahámov Pán, daj po všetky časy</line>
             <line>nám oslavovať Ťa, veď večná láska si!</line>
@@ -20580,7 +20584,7 @@
             <line>s vyvolenými Mu na poctu zaspievam.</line>
         </verse>
     </song>
-    <song number="504" text="" music="">
+    <song number="504" text="H. F. Lyte" music="Waleský ľudový nápev">
         <verse number="1">
             <line>Beriem, ako žiadaš, kríž svoj,</line>
             <line>pre Teba svet stratil som.</line>
@@ -20622,7 +20626,7 @@
             <line>viera bude videním.</line>
         </verse>
     </song>
-    <song number="505" text="" music="">
+    <song number="505" text="P. Doodridge" music="P. Doodridge">
         <verse number="1">
             <line>Šťastný je ten, kto zbavený</line>
             <line>je hriechov už v Tvojej krvi.</line>
@@ -20689,7 +20693,7 @@
             <line>kto k Nemu je uvedený.</line>
         </verse>
     </song>
-    <song number="506" text="" music="">
+    <song number="506" text="Ph. F. Hiller" music="K. Altdörfer">
         <verse number="1">
             <line>Dostalo sa mi zmilovania</line>
             <line>bez všetkých zásluh, hodností,</line>
@@ -20718,7 +20722,7 @@
             <line>nad Ježišovou milosťou.</line>
         </verse>
     </song>
-    <song number="507" text="" music="">
+    <song number="507" text="I. Losontzi" music="">
         <verse number="1">
             <line>Po Tebe, Bože, túžime a veríme,</line>
             <line>že nás prijmeš na milosť, lebo si</line>
@@ -20750,7 +20754,7 @@
             <line>svojho žitia hľadáme.</line>
         </verse>
     </song>
-    <song number="508" text="" music="">
+    <song number="508" text="N. L. Zinzendorf" music="">
         <verse number="1">
             <line>Kristova krv, spravodlivosť</line>
             <line>sú svadobný môj šat a skvost,</line>
@@ -20806,7 +20810,7 @@
             <line>a ľud svoj z lásky požehnaj!</line>
         </verse>
     </song>
-    <song number="509" text="" music="">
+    <song number="509" text="Piesne sionské 1930" music="W.G.Fischer">
         <verse number="1">
             <line>Chcem v pokore sa denne vnoriť len</line>
             <line>do vôd Božej milosti a počúvať zvesť</line>
@@ -20846,7 +20850,7 @@
             <line>a cesta k nebies otčine.</line>
         </verse>
     </song>
-    <song number="510" text="" music="">
+    <song number="510" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Ach, Bože, počuj moje volanie</line>
             <line>a osvieť mi srdce, ó, môj Pane,</line>
@@ -20896,7 +20900,7 @@
             <line>a Tvoje meno večne oslavoval!</line>
         </verse>
     </song>
-    <song number="511" text="" music="">
+    <song number="511" text="Császárov spevník 1864" music="Debrecín 1774">
         <verse number="1">
             <line>Bože, z milosrdenstva večného</line>
             <line>nežiadaš smrť človeka hriešneho,</line>
@@ -20946,7 +20950,7 @@
             <line>na svoje spasenie ich užívať!</line>
         </verse>
     </song>
-    <song number="512" text="" music="">
+    <song number="512" text="B. Schmolck" music="">
         <verse number="1">
             <line>Prichádzame, Ježišu</line>
             <line>krstom učeníkov činiť!</line>
@@ -20980,7 +20984,7 @@
             <line>ovocie Mu nesme. Amen.</line>
         </verse>
     </song>
-    <song number="513" text="" music="">
+    <song number="513" text="Duchovné piesne 1877" music="">
         <verse number="1">
             <line>Pane, dobrý Priateľ detí, dieťa,</line>
             <line>čo si nám dal, na svätý krst nesieme Ti</line>
@@ -21011,7 +21015,7 @@
             <line>života večného!</line>
         </verse>
     </song>
-    <song number="514" text="" music="">
+    <song number="514" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Ó, Pane, čo rád deti máš,</line>
             <line>pri krste ich sám prijímaš.</line>
@@ -21037,7 +21041,7 @@
             <line>ochraňuješ a žehnáš tiež.</line>
         </verse>
     </song>
-    <song number="515" text="" music="">
+    <song number="515" text="Piesne pobožné 1929" music="Chorálnik J. D. Grimma 1755">
         <verse number="1">
             <line>Vyslyš v nebi, ó, Pane,</line>
             <line>verných prosby, volanie!</line>
@@ -21057,7 +21061,7 @@
             <line>Spasiteľa slávneho!</line>
         </verse>
     </song>
-    <song number="516" text="" music="">
+    <song number="516" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Ježišu, naše spasenie,</line>
             <line>Knieža v nebi oslávené,</line>
@@ -21099,7 +21103,7 @@
             <line>spasením ťa obdaruje.</line>
         </verse>
     </song>
-    <song number="517" text="" music="">
+    <song number="517" text="I. Losontzi" music="">
         <verse number="1">
             <line>Vážme si kríž Pána Krista,</line>
             <line>ktorý za nás podstúpil,</line>
@@ -21191,7 +21195,7 @@
             <line>nech je nám vždy verná pomoc!</line>
         </verse>
     </song>
-    <song number="518" text="" music="">
+    <song number="518" text="J. Lengyel" music="">
         <verse number="1">
             <line>Náš Spasiteľu, vrúcne všetkých voláš</line>
             <line>k svätému stolu, zas nastal tento čas.</line>
@@ -21233,7 +21237,7 @@
             <line>napokon otvor nám svoj večný stan!</line>
         </verse>
     </song>
-    <song number="519" text="" music="">
+    <song number="519" text="G.W.Briggs" music="W.H.Harris">
         <verse number="1">
             <line>Príď, Pane, čo si z mŕtvych vstal, príď k nám,</line>
             <line>lebo je Tvoja táto hostina,</line>
@@ -21259,7 +21263,7 @@
             <line>v lámaní chleba Ťa tu spoznať smel!</line>
         </verse>
     </song>
-    <song number="520" text="" music="">
+    <song number="520" text="A. Adolf" music="">
         <verse number="1">
             <line>Tu pri stole cirkev Tvoja zvestuje, Ježišu,</line>
             <line>že Tvoja smrť nám priniesla záchranu najvyššiu.</line>
@@ -21346,7 +21350,7 @@
             <line>Ó, nemeškaj, Ježišu, nemeškaj!</line>
         </verse>
     </song>
-    <song number="521" text="" music="">
+    <song number="521" text="H. W. Baker" music="">
         <verse number="1">
             <line>Nie som ťa hoden, Pane môj,</line>
             <line>jak riecť mám: Ku mne poď?</line>
@@ -21372,7 +21376,7 @@
             <line>hoc chabé srdce aj!</line>
         </verse>
     </song>
-    <song number="522" text="" music="">
+    <song number="522" text="" music="O. Gibbons">
         <verse number="1">
             <line>Ty, Pane môj, chceš aj tu pri mne stáť,</line>
             <line>keď svätých znamení sa dotýkam.</line>
@@ -21398,7 +21402,7 @@
             <line>priateľskú chvíľu s Tebou, Presvätý!</line>
         </verse>
     </song>
-    <song number="523" text="" music="">
+    <song number="523" text="Új zengedezo mennyei kar" music="Kluž 1837">
         <verse number="1">
             <line>Srdce, spievaj, duša, plesaj,</line>
             <line>obleč viery skvostný šat!</line>
@@ -21442,7 +21446,7 @@
             <line>každý môže načrieť hneď.</line>
         </verse>
     </song>
-    <song number="524" text="" music="">
+    <song number="524" text="I. Losontzi" music="">
         <verse number="1">
             <line>Pane, Tebe chcem vzdávať česť,</line>
             <line>z Tvojej sily len chcem žiť,</line>
@@ -21460,7 +21464,7 @@
             <line>a naveky Ťa ctíme!</line>
         </verse>
     </song>
-    <song number="525" text="" music="">
+    <song number="525" text="" music="Császárov spevník 1864">
         <verse number="1">
             <line>Poďte, lační, žízniví,</line>
             <line>som Otec starostlivý,</line>
@@ -21486,7 +21490,7 @@
             <line>ako znovuzrodený.</line>
         </verse>
     </song>
-    <song number="526" text="" music="">
+    <song number="526" text="L. B. Kašpar" music="C. Ph. Back">
         <verse number="1">
             <line>V noci, keď sa Judáš chystal</line>
             <line>zradiť nášho PánaKrista,</line>
@@ -21518,7 +21522,7 @@
             <line>kým neprídem v svojej sláve!"</line>
         </verse>
     </song>
-    <song number="527" text="" music="">
+    <song number="527" text="C. Marot" music="Ženeva 1562">
         <verse number="1">
             <line>Služobníka svojho,</line>
             <line>môj Pane, už prepusť</line>
@@ -21536,7 +21540,7 @@
             <line>ľudu vykúpeného.</line>
         </verse>
     </song>
-    <song number="528" text="" music="">
+    <song number="528" text="" music="Császárov spevník 1864">
         <verse number="1">
             <line>Ó, Bože, v nebeskom chráme</line>
             <line>chválu, vďaku Ti vzdávame,</line>
@@ -21554,7 +21558,7 @@
             <line>aby sme večný život mali.</line>
         </verse>
     </song>
-    <song number="529" text="" music="">
+    <song number="529" text="J. Szentgörgyi Kemény" music="">
         <verse number="1">
             <line>Pane, v pokoji rozpusť teraz svoj ľud!</line>
             <line>Osvieť obličaj svoj a svetlom nám buď,</line>
@@ -21572,7 +21576,7 @@
             <line>tvár Tvoju svätú vždy pred sebou mali!</line>
         </verse>
     </song>
-    <song number="530" text="" music="">
+    <song number="530" text="" music="J.Keresztesi">
         <verse number="1">
             <line>Zvestujúc smrť Krista Pána,</line>
             <line>nech je Bohu vďaka vzdaná,</line>
@@ -21610,7 +21614,7 @@
             <line>za Ním do konca kráčali!</line>
         </verse>
     </song>
-    <song number="531" text="" music="">
+    <song number="531" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Už od vekov Boh nám hlása: Komu budeš slúžiť, zvoľ!</line>
             <line>Už tam v raji ozýval sa, než človek zvedený bol.</line>
@@ -21668,7 +21672,7 @@
             <line>slúžiť Ti, Hospodine!</line>
         </verse>
     </song>
-    <song number="532" text="" music="">
+    <song number="532" text="W. W. How" music="Waleský nápev">
         <verse number="1">
             <line>Ó, Ježišu, Ty stojíš</line>
             <line>pri zamknutých dverách</line>
@@ -21709,7 +21713,7 @@
             <line>nás svet, smrť, satanáš.</line>
         </verse>
     </song>
-    <song number="533" text="" music="">
+    <song number="533" text="Frohe Botschaft" music="">
         <verse number="1">
             <line>Ó, vzácne slávne spasenie</line>
             <line>dnes ponúka Pán náš.</line>
@@ -21735,7 +21739,7 @@
             <line>nuž, spievaj hymnu chvál!</line>
         </verse>
     </song>
-    <song number="534" text="" music="">
+    <song number="534" text="Piesne pobožné 1929" music="P. H. Cassel">
         <verse number="1">
             <line>Som tuná cudzincom,</line>
             <line>ťažká je moja púť,</line>
@@ -21769,7 +21773,7 @@
             <line>Pán a Kráľ, ó, ľudia, zmierte sa s Bohom!</line>
         </verse>
     </song>
-    <song number="535" text="" music="">
+    <song number="535" text="H. Redern" music="F. Eckhardt">
         <verse number="1">
             <line>Sám Kráľ ťa zve,</line>
             <line>Jeho buď hosť na svadbe Synovej,</line>
@@ -21804,7 +21808,7 @@
             <line>tak poď, neváhaj, rýchlo poď!</line>
         </verse>
     </song>
-    <song number="536" text="" music="">
+    <song number="536" text="A. Adolf" music="J. McGranahan">
         <verse number="1">
             <line>Ó, nechoď svetom sám a sám,</line>
             <line>poď s nami nebies výšinám,</line>
@@ -21839,7 +21843,7 @@
             <line>tam postavil ti blaha dom!</line>
         </verse>
     </song>
-    <song number="537" text="" music="">
+    <song number="537" text="G. F. Root" music="G. F. Root">
         <verse number="1">
             <line>Poď k Ježišovi, poď ešte dnes,</line>
             <line>srdce Mu ako obeť prines!</line>
@@ -21874,7 +21878,7 @@
             <line>v ústrety, Pane, poď!</line>
         </verse>
     </song>
-    <song number="538" text="" music="">
+    <song number="538" text="Énekem az Úr I." music="">
         <verse number="1">
             <line>Vydaj sa úprimne Pánovi!</line>
             <line>Veľkú moc má, spásu ti dá.</line>
@@ -21906,7 +21910,7 @@
             <line>ešte dnes domov sa vráť!</line>
         </verse>
     </song>
-    <song number="539" text="" music="">
+    <song number="539" text="" music="E. Decker">
         <verse number="1">
             <line>Čas mizne, letia hodiny,</line>
             <line>ktože ich zastaví? Tvoj život krátky,</line>
@@ -21955,7 +21959,7 @@
             <line>v tme žiari Kristov kríž.</line>
         </verse>
     </song>
-    <song number="540" text="" music="">
+    <song number="540" text="F. C. Alexander" music="J. Stainer">
         <verse number="1">
             <line>Ježiš volá, hoci hučí more žitia;</line>
             <line>prostred vôd nech ti ten hlas</line>
@@ -21986,7 +21990,7 @@
             <line>Tvojím dieťaťom chcem byť.</line>
         </verse>
     </song>
-    <song number="541" text="" music="">
+    <song number="541" text="J. Montgomery" music="Írsky nápev">
         <verse number="1">
             <line>V pokušeniach, strasti,</line>
             <line>Pane, so mnou buď!</line>
@@ -22028,7 +22032,7 @@
             <line>ta na nebesá!</line>
         </verse>
     </song>
-    <song number="542" text="" music="">
+    <song number="542" text="Ph. Bliss" music="Ph. Bliss">
         <verse number="1">
             <line>Vstaňte bratia, Kristus volá,</line>
             <line>pred nami je boj.</line>
@@ -22085,7 +22089,7 @@
             <line>Kristus, Vodca, Kráľ.</line>
         </verse>
     </song>
-    <song number="543" text="" music="">
+    <song number="543" text="J. Baštecký" music="G. J. Webb">
         <verse number="1">
             <line>Dnes s Kristom proti hriechu choď,</line>
             <line>Boží rytieru!</line>
@@ -22124,7 +22128,7 @@
             <line>dať hrádzu hriechom zlým!</line>
         </verse>
     </song>
-    <song number="544" text="" music="">
+    <song number="544" text="J. Rybárik" music="Ž. Holéczy">
         <verse number="1">
             <line>Rozhorli sám Duchom svojím, Pane,</line>
             <line>naše srdcia hriechom doráňané!</line>
@@ -22156,7 +22160,7 @@
             <line>že si s nami, že sme verní Tvoji!</line>
         </verse>
     </song>
-    <song number="545" text="" music="">
+    <song number="545" text="M. Royová" music="M. Royová">
         <verse number="1">
             <line>Smieť žiť pre Krista, pre Neho mrieť,</line>
             <line>ó, to je blaho, nad ktoré niet,</line>
@@ -22176,7 +22180,7 @@
             <line>tú milosť verným Boh dáva len.</line>
         </verse>
     </song>
-    <song number="546" text="" music="">
+    <song number="546" text="G. Matheson" music="C. W. Martin">
         <verse number="1">
             <line>Len v Tvojom zajatí,</line>
             <line>môj Pane, voľný som.</line>
@@ -22216,7 +22220,7 @@
             <line>a v Tebe spočíva.</line>
         </verse>
     </song>
-    <song number="547" text="" music="">
+    <song number="547" text="J. Stegman" music="M. Vulpius">
         <verse number="1">
             <line>Ostaň s nami, Ježišu,</line>
             <line>láskavý a milý, aby sme sa do</line>
@@ -22253,7 +22257,7 @@
             <line>stále blízki sme Ti!</line>
         </verse>
     </song>
-    <song number="548" text="" music="">
+    <song number="548" text="D. Lamoroux" music="Ch. Urhan">
         <verse number="1">
             <line>Len hovor, Pane môj, čuť moje uši chcú Ťa!</line>
             <line>Hľa, idem, pošli ma, Tvoj byť som hotový.</line>
@@ -22291,7 +22295,7 @@
             <line>aby som Ježiša uzrel, s Ním zvíťazil!</line>
         </verse>
     </song>
-    <song number="549" text="" music="">
+    <song number="549" text="A. B. Warner" music="W. B. Bradbury">
         <verse number="1">
             <line>Môj Pán Ježiš má ma rád,</line>
             <line>v Písme vraví nastokrát.</line>
@@ -22324,7 +22328,7 @@
             <line>v Písme vraví nastokrát.</line>
         </verse>
     </song>
-    <song number="550" text="" music="">
+    <song number="550" text="Piesne pobožné 1929" music="A. Mann">
         <verse number="1">
             <line>Ó, Ježišu môj,</line>
             <line>sľúbil som Ti verne slúžiť.</line>
@@ -22366,7 +22370,7 @@
             <line>riadiť neprestajne!</line>
         </verse>
     </song>
-    <song number="551" text="" music="">
+    <song number="551" text="E. P. Prentiss" music="R. Lowry">
         <verse number="1">
             <line>Kiež Ťa viac milujem, viac lásky len</line>
             <line>daj mi,môj Ježišu, na každý deň:</line>
@@ -22392,7 +22396,7 @@
             <line>poviem Ti, Ježišu: daj lásky viac!</line>
         </verse>
     </song>
-    <song number="552" text="" music="">
+    <song number="552" text="Staročeský text" music="J. M. Haydn">
         <verse number="1">
             <line>Pane Bože, riaď ma sám,</line>
             <line>nech žijem, ako treba,</line>
@@ -22434,7 +22438,7 @@
             <line>vždy Ťa slávim veselý!</line>
         </verse>
     </song>
-    <song number="553" text="" music="">
+    <song number="553" text="A. L. Walker" music="L. Masson">
         <verse number="1">
             <line>Vstaň, počuj, Pán ťa volá,</line>
             <line>kto v hriechoch dosiaľ spíš.</line>
@@ -22476,7 +22480,7 @@
             <line>nájdeš pokoj hneď.</line>
         </verse>
     </song>
-    <song number="554" text="" music="">
+    <song number="554" text="" music="F. R. Havergal">
         <verse number="1">
             <line>Vezmi, Pane, život môj,</line>
             <line>posväť si ho, nech je Tvoj,</line>
@@ -22520,7 +22524,7 @@
             <line>rád a celkom Ti ich dám.</line>
         </verse>
     </song>
-    <song number="555" text="" music="">
+    <song number="555" text="A. F. J. Crosby" music="W. H. Doane">
         <verse number="1">
             <line>Spasiteľu, Pane drahý,</line>
             <line>vypočuj náš hlas!</line>
@@ -22562,7 +22566,7 @@
             <line>pozývaj aj nás!</line>
         </verse>
     </song>
-    <song number="556" text="" music="">
+    <song number="556" text="J. F. Räder" music="H. A. Malan">
         <verse number="1">
             <line>Tvoj kríž, Pane milý, ja som už vzal,</line>
             <line>pomôž v tejto chvíli, aby som obstál!</line>
@@ -22580,7 +22584,7 @@
             <line>z lásky viac daj, Pane, a hriechy zmaž!</line>
         </verse>
     </song>
-    <song number="557" text="" music="">
+    <song number="557" text="M. L. Zinzendorf" music="A. Drese">
         <verse number="1">
             <line>Ježišu, ráč sám cestu raziť nám!</line>
             <line>Ta, kam Tvoja noha kráča,</line>
@@ -22606,7 +22610,7 @@
             <line>kde nám pútnikom otvoríš svoj dom!</line>
         </verse>
     </song>
-    <song number="558" text="" music="">
+    <song number="558" text="L. B. Kašpar" music="K. Royová">
         <verse number="1">
             <line>Ako pastier voď nás, Kriste,</line>
             <line>chceme byť stádo Tvoje;</line>
@@ -22648,7 +22652,7 @@
             <line>že sme Tvoji a Ty náš!</line>
         </verse>
     </song>
-    <song number="559" text="" music="">
+    <song number="559" text="G. Tersteegen" music="J. G. Bastiaans">
         <verse number="1">
             <line>Vpred, bratia, poďme len vpred,</line>
             <line>kým tma zem nekryje,</line>
@@ -22720,7 +22724,7 @@
             <line>so svojou večerou.</line>
         </verse>
     </song>
-    <song number="560" text="" music="">
+    <song number="560" text="Piesne cestou života 1873" music="W. B. Bradbury">
         <verse number="1">
             <line>Ó, pútnici, kam kráčate?</line>
             <line>Prečo zrazu taký chvat?</line>
@@ -22770,7 +22774,7 @@
             <line>ta, do lepších krajov tých!</line>
         </verse>
     </song>
-    <song number="561" text="" music="">
+    <song number="561" text="Piesne pobožné 1929" music="H. A. Rodeheaver">
         <verse number="1">
             <line>Ó, kráčaj so mnou sveta údolím,</line>
             <line>nech nekloním sa, Pane, k cestám zlým!</line>
@@ -22799,7 +22803,7 @@
             <line>Refrén:</line>
         </verse>
     </song>
-    <song number="562" text="" music="">
+    <song number="562" text="J. H. Newman" music="Ch. H. Purday">
         <verse number="1">
             <line>Ó, Svetlo, veď ma hmlami života,</line>
             <line>Ty veď ma sám!</line>
@@ -22825,7 +22829,7 @@
             <line>ó, doveď si ma, doveď do neba!</line>
         </verse>
     </song>
-    <song number="563" text="" music="">
+    <song number="563" text="Grécka pieseň z 5. storočia" music="Demons' psalmes 1579">
         <verse number="1">
             <line>Hľaď na mňa, Ježišu,</line>
             <line>a hriechu ma pozbav</line>
@@ -22857,7 +22861,7 @@
             <line>rannou mi hviezdou buď!</line>
         </verse>
     </song>
-    <song number="564" text="" music="">
+    <song number="564" text="V. Kleych" music="">
         <verse number="1">
             <line>Ježišu, Tvoja dobrota je svetlo</line>
             <line>môjho života: tu iba časný domov mám,</line>
@@ -22888,7 +22892,7 @@
             <line>a ctiť, ó, Bože, preveľký!</line>
         </verse>
     </song>
-    <song number="565" text="" music="">
+    <song number="565" text="J. Hausmann" music="F. Silcher">
         <verse number="1">
             <line>Ó, vezmi ruky moje a veď ma sám</line>
             <line>cez úzkosti a boje až k cieľu tam!</line>
@@ -22918,7 +22922,7 @@
             <line>až k cieľu tam!</line>
         </verse>
     </song>
-    <song number="566" text="" music="">
+    <song number="566" text="Kresťanský kancionál" music="">
         <verse number="1">
             <line>Nech sa mraky na mňa valia,</line>
             <line>nech sa zdá, že kráčam sám,</line>
@@ -22960,7 +22964,7 @@
             <line>Pán môj verný, Ježiš sám.</line>
         </verse>
     </song>
-    <song number="567" text="" music="">
+    <song number="567" text="J. Baštecký" music="">
         <verse number="1">
             <line>S Ježišom chcem v radosti i strasti</line>
             <line>putovať vždy sveta údolím:</line>
@@ -22998,7 +23002,7 @@
             <line>daj mi šťastne uzrieť blaha breh!</line>
         </verse>
     </song>
-    <song number="568" text="" music="">
+    <song number="568" text="K. W. Lengderg" music="">
         <verse number="1">
             <line>Veď ma sám, veď ma sám!</line>
             <line>Veď k vysokým nebesám!</line>
@@ -23028,7 +23032,7 @@
             <line>keď mi otvoríš dom svoj!</line>
         </verse>
     </song>
-    <song number="569" text="" music="">
+    <song number="569" text="W. Williams" music="W. Owen">
         <verse number="1">
             <line>Veď ma, mocný Hospodine,</line>
             <line>púšťou slabý som, Ty Všemohúci,</line>
@@ -23056,7 +23060,7 @@
             <line>spievať budem naveky.</line>
         </verse>
     </song>
-    <song number="570" text="" music="">
+    <song number="570" text="" music="Ch. Gregor">
         <verse number="1">
             <line>Keby som nemal Teba, svojho Pána,</line>
             <line>spásy zdroj v krvi, skrýšu v Tvojich ranách,</line>
@@ -23094,7 +23098,7 @@
             <line>Tvoju česť hlásam.</line>
         </verse>
     </song>
-    <song number="571" text="" music="">
+    <song number="571" text="A. Szenczi Molnár" music="">
         <verse number="1">
             <line>Pozdvihni srdce, otvor uši,</line>
             <line>tvrdošijný Izraelu, a poznaj,</line>
@@ -23150,7 +23154,7 @@
             <line>a Tvoju vôľu činili!</line>
         </verse>
     </song>
-    <song number="572" text="" music="">
+    <song number="572" text="A. Maťašík" music="">
         <verse number="1">
             <line>Bože náš, najvyšší Pane!</line>
             <line>Máme Tvoje prikázanie,</line>
@@ -23200,7 +23204,7 @@
             <line>aby si zostal v nás, my v Tebe!</line>
         </verse>
     </song>
-    <song number="573" text="" music="">
+    <song number="573" text="M. Hamari" music="">
         <verse number="1">
             <line>Nauč nás Bože, prikázania svoje,</line>
             <line>aby sme žili podľa Tvojej vôle!</line>
@@ -23226,7 +23230,7 @@
             <line>a tak svojho Boha oslávime.</line>
         </verse>
     </song>
-    <song number="574" text="" music="">
+    <song number="574" text="J. Victor najst." music="S. Tinódi Lantos">
         <verse number="1">
             <line>"Modlite sa a vrúcne proste Otca!</line>
             <line>Ó, nepohrdni nami, Ty náš Vodca!</line>
@@ -23246,7 +23250,7 @@
             <line>Nech spievame Ti večné haleluja!</line>
         </verse>
     </song>
-    <song number="575" text="" music="">
+    <song number="575" text="M. A. Bachelor" music="Ph. Bliss">
         <verse number="1">
             <line>Zlož, čo srdce tiesni, starosť zanechaj</line>
             <line>a Pánovi v piesni útrapy netaj!</line>
@@ -23266,7 +23270,7 @@
             <line>k Lekárovi duší choď s ním, choď s ním včas!</line>
         </verse>
     </song>
-    <song number="576" text="" music="">
+    <song number="576" text="I. Nagy" music="">
         <verse number="1">
             <line>Ó, Bože najdôstojnejší!</line>
             <line>Otče náš najláskavejší!</line>
@@ -23318,7 +23322,7 @@
             <line>aby sme Ťa večne ctili!</line>
         </verse>
     </song>
-    <song number="577" text="" music="">
+    <song number="577" text="Lipský kancionál 1737" music="Debrecín 1791">
         <verse number="1">
             <line>Šťastný je, kto z celej duše</line>
             <line>Pána Boha prosí slušne,</line>
@@ -23356,7 +23360,7 @@
             <line>milosti sa nám dostane!</line>
         </verse>
     </song>
-    <song number="578" text="" music="">
+    <song number="578" text="J. Seriven" music="">
         <verse number="1">
             <line>Ó, najdrahší priateľ, Ježiš, ktorý nesie hriech, žiaľ</line>
             <line>náš! Ó, tá slasť, keď všetko Bohu v modlitbách ty prinášaš!</line>
@@ -23384,7 +23388,7 @@
             <line>a pokoj v nás obnoví.</line>
         </verse>
     </song>
-    <song number="579" text="" music="">
+    <song number="579" text="M. Luther" music="">
         <verse number="1">
             <line>Ó, Otče náš na nebesiach, máš k nám, deťom,</line>
             <line>láskavý vzťah, tak bratov, sestry tvoríš z nás,</line>
@@ -23472,7 +23476,7 @@
             <line>že si nás ráčil vyslyšať!</line>
         </verse>
     </song>
-    <song number="580" text="" music="">
+    <song number="580" text="P. Corneille" music="Hannover 1648">
         <verse number="1">
             <line>Ozvi sa, Pane môj, nech čujem Tvoje</line>
             <line>slová, volám už oddávna, veď</line>
@@ -23511,7 +23515,7 @@
             <line>nech večný je jej plam, nech večný je jej plam!</line>
         </verse>
     </song>
-    <song number="581" text="" music="">
+    <song number="581" text="J. Baštecký" music="Ch. C. Converse">
         <verse number="1">
             <line>Utiekaj sa, duša moja,</line>
             <line>na modlitbách každý</line>
@@ -23533,7 +23537,7 @@
             <line>všetko to v hojnosti dá.</line>
         </verse>
     </song>
-    <song number="582" text="" music="">
+    <song number="582" text="R. Mascher" music="M. Ramsey">
         <verse number="1">
             <line>Veriť ma uč, Pane, prosiť ma uč!</line>
             <line>Vierou detinskou vždy prosiť ma uč!</line>
@@ -23565,7 +23569,7 @@
             <line>Veriť ma uč!</line>
         </verse>
     </song>
-    <song number="583" text="" music="">
+    <song number="583" text="Cithara Sanctorum 1636" music="">
         <verse number="1">
             <line>Boh je sila moja</line>
             <line>i obrana moja.</line>
@@ -23608,7 +23612,7 @@
             <line>Bože môj!</line>
         </verse>
     </song>
-    <song number="584" text="" music="">
+    <song number="584" text="E. Codner" music="W. B. Bradbury">
         <verse number="1">
             <line>Počuť, Pane, jak dážď z neba</line>
             <line>ovlažuje stvoreia,</line>
@@ -23650,7 +23654,7 @@
             <line>požehnaj a chráň i mňa!</line>
         </verse>
     </song>
-    <song number="585" text="" music="">
+    <song number="585" text="J. Baštecký" music="W. A. Mozart">
         <verse number="1">
             <line>Stvor srdce čisté, Bože, mi</line>
             <line>a du cha priameho,</line>
@@ -23676,7 +23680,7 @@
             <line>nech Ťa uzriem, Otče!</line>
         </verse>
     </song>
-    <song number="586" text="" music="">
+    <song number="586" text="Ch. Elliott" music="">
         <verse number="1">
             <line>Ó, Bože Otče, uč ma sám, keď</line>
             <line>púšťou sveta blúdiac, lkám, jak z hlbín duše</line>
@@ -23707,7 +23711,7 @@
             <line>Buď vôľa Tvoja, len Tvoja!</line>
         </verse>
     </song>
-    <song number="587" text="" music="">
+    <song number="587" text="K. J. Spitta" music="">
         <verse number="1">
             <line>Blažený je dom, kde Ty si hosť, Kriste,</line>
             <line>kde v pokore prijímajú Ťa iste,</line>
@@ -23749,7 +23753,7 @@
             <line>Buď s nami navždy, Bože láskavý!</line>
         </verse>
     </song>
-    <song number="588" text="" music="">
+    <song number="588" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>"Nechajte dietky ísť ku mne,</line>
             <line>vraví Pán, "ja im schystám</line>
@@ -23782,7 +23786,7 @@
             <line>dobrotu a česť.</line>
         </verse>
     </song>
-    <song number="589" text="" music="">
+    <song number="589" text="J. Baštecký" music="I. D. Sankey">
         <verse number="1">
             <line>Blaho tam, kde sľuby</line>
             <line>sväté samo nebo posvätí,</line>
@@ -23814,7 +23818,7 @@
             <line>Boh i vás raz povolá.</line>
         </verse>
     </song>
-    <song number="590" text="" music="">
+    <song number="590" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Čistá vernosť má byť v manželskom stave,</line>
             <line>slúžiac blahu ľudí a Božej sláve;</line>
@@ -23834,7 +23838,7 @@
             <line>vo zväzku, čo doň dnes vstupujeme!</line>
         </verse>
     </song>
-    <song number="591" text="" music="">
+    <song number="591" text="L. B. Kašpar" music="D. Bortnianskij">
         <verse number="1">
             <line>Ó, príďže, príďže, leto Pána,</line>
             <line>ty nám oddávna sľúbené,</line>
@@ -23884,7 +23888,7 @@
             <line>k nám príde leto v Tvojom lone!</line>
         </verse>
     </song>
-    <song number="592" text="" music="">
+    <song number="592" text="A. Adlof" music="J. Nikorowicz">
         <verse number="1">
             <line>Ó, svätý Bože, čuj naše hlasy,</line>
             <line>keď Ťa prosíme za národ svoj!</line>
@@ -23926,7 +23930,7 @@
             <line>jak vykúpený je predraho!</line>
         </verse>
     </song>
-    <song number="593" text="" music="">
+    <song number="593" text="M. Luther" music="Nápev z 13. st.">
         <verse number="1">
             <line>Ó, Kráľu vekov dôstojný,</line>
             <line>ráč dávať nám čas pokojný,</line>
@@ -23942,7 +23946,7 @@
             <line>sa radujeme v spasení!</line>
         </verse>
     </song>
-    <song number="594" text="" music="">
+    <song number="594" text="J. Szentgörgyi" music="">
         <verse number="1">
             <line>Jeden rok zase odchádza</line>
             <line>a k svojmu koncu prichádza</line>
@@ -23994,7 +23998,7 @@
             <line>ozdob ma korunou slávy!</line>
         </verse>
     </song>
-    <song number="595" text="" music="">
+    <song number="595" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Rok už dokonávame,</line>
             <line>Bože všemohúci!</line>
@@ -24065,7 +24069,7 @@
             <line>láskavo nás prijmi!</line>
         </verse>
     </song>
-    <song number="596" text="" music="">
+    <song number="596" text="J. Keresztesi" music="">
         <verse number="1">
             <line>Ó, Bože, Ty v svojej večnosti</line>
             <line>roky nepočítaš</line>
@@ -24118,7 +24122,7 @@
             <line>v nebeskej radosti!</line>
         </verse>
     </song>
-    <song number="597" text="" music="">
+    <song number="597" text="J. Baštecký" music="">
         <verse number="1">
             <line>Z temna noci nový deň zas svitá</line>
             <line>a celému svetu zvestuje: plesaj,</line>
@@ -24162,7 +24166,7 @@
             <line>tam, kde večná radosť plápolá.</line>
         </verse>
     </song>
-    <song number="598" text="" music="">
+    <song number="598" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Nastal nový rok,</line>
             <line>Ty sám riaď náš krok,</line>
@@ -24195,7 +24199,7 @@
             <line>i každý náš krok.</line>
         </verse>
     </song>
-    <song number="599" text="" music="">
+    <song number="599" text="J. Lengyel" music="">
         <verse number="1">
             <line>Božia dobrotivosť dni ku dňom nám</line>
             <line>a slnko s mesiacom ich na časti</line>
@@ -24233,7 +24237,7 @@
             <line>daj, nech spasiteľne umrieme!</line>
         </verse>
     </song>
-    <song number="600" text="" music="">
+    <song number="600" text="Cithara sanctorum 1636" music="">
         <verse number="1">
             <line>Nový rok prišiel k nám zase,</line>
             <line>radujme sa v tomto čase;</line>
@@ -24289,7 +24293,7 @@
             <line>v tomto novom roku!</line>
         </verse>
     </song>
-    <song number="601" text="" music="">
+    <song number="601" text="Spevník G.Huszára 1574" music="Kluž 1751">
         <verse number="1">
             <line>Ó, Ježišu, zornica ranná,</line>
             <line>Tvoja milosť je nám daná</line>
@@ -24321,7 +24325,7 @@
             <line>až naveky vekov! Amen!</line>
         </verse>
     </song>
-    <song number="602" text="" music="">
+    <song number="602" text="Szászárov spevník 1864" music="">
         <verse number="1">
             <line>Ó, Bože, len čo poznávame,</line>
             <line>že slnko sa ukazuje</line>
@@ -24351,7 +24355,7 @@
             <line>v dobrom vždy stáli!</line>
         </verse>
     </song>
-    <song number="603" text="" music="">
+    <song number="603" text="" music="Anonymus 1654">
         <verse number="1">
             <line>Teba, ó, Pane, oslavujem</line>
             <line>srdečnú vďaku vyslovujem</line>
@@ -24387,7 +24391,7 @@
             <line>spasenie mi dať!</line>
         </verse>
     </song>
-    <song number="604" text="" music="">
+    <song number="604" text="J. Kohlrose" music="Kluž 1751">
         <verse number="1">
             <line>Velebím Ťa úprimne,</line>
             <line>ó, Bože, Kráľu večnosti!</line>
@@ -24429,7 +24433,7 @@
             <line>veď ma k večnému pokoju!</line>
         </verse>
     </song>
-    <song number="605" text="" music="">
+    <song number="605" text="Žitavský kancionál 1685" music="">
         <verse number="1">
             <line>Slnce spravodlivosti,</line>
             <line>ó, môj dobrý Pane,</line>
@@ -24481,7 +24485,7 @@
             <line>som v nebi večne Tvoj!</line>
         </verse>
     </song>
-    <song number="606" text="" music="">
+    <song number="606" text="Levoča 1699" music="Debrecín 1778">
         <verse number="1">
             <line>Svätý Bože, Kráľu zeme i neba,</line>
             <line>s celým tvorstvom oslavujeme Teba,</line>
@@ -24513,7 +24517,7 @@
             <line>po smrti nás obdar večnou radosťou!</line>
         </verse>
     </song>
-    <song number="607" text="" music="">
+    <song number="607" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Bože, žiara slnka Tvojho</line>
             <line>znovu sa mi zjavila,</line>
@@ -24565,7 +24569,7 @@
             <line>Ty nás, my Teba poznali.</line>
         </verse>
     </song>
-    <song number="608" text="" music="">
+    <song number="608" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Nočná tma sa už rozišla</line>
             <line>a žiara slnka zas vzišla,</line>
@@ -24617,7 +24621,7 @@
             <line>tu i v nebi s Tebou žili!</line>
         </verse>
     </song>
-    <song number="609" text="" music="">
+    <song number="609" text="J. Lengyel" music="">
         <verse number="1">
             <line>Kto ustanovil noc nad nami</line>
             <line>na odpočívanie?</line>
@@ -24668,7 +24672,7 @@
             <line>na pamäti mali.</line>
         </verse>
     </song>
-    <song number="610" text="" music="">
+    <song number="610" text="Z latinskej hymny zo 7. st." music="Debrecín 1774">
         <verse number="1">
             <line>Kriste, Ty si svetlo i deň,</line>
             <line>zažeň od nás zlý nočný sen!</line>
@@ -24718,7 +24722,7 @@
             <line>a tak nás spas, Kriste! Amen!</line>
         </verse>
     </song>
-    <song number="611" text="" music="">
+    <song number="611" text="Debrecín 1569" music="Nemecký nápev z r. 1507">
         <verse number="1">
             <line>Buď Bohu nášmu od nás večná chvála,</line>
             <line>On svoje dary nám bohato dáva.</line>
@@ -24752,7 +24756,7 @@
             <line>čo vždy nás tešievaš a vodíš. Amen!</line>
         </verse>
     </song>
-    <song number="612" text="" music="">
+    <song number="612" text="P. Gerhardt" music="H. Isaak">
         <verse number="1">
             <line>Noc padá na údolia,</line>
             <line>na lesy, stráne, polia</line>
@@ -24819,7 +24823,7 @@
             <line>nad tebou verne drží stráž.</line>
         </verse>
     </song>
-    <song number="613" text="" music="">
+    <song number="613" text="J. Háló Kovács" music="">
         <verse number="1">
             <line>Ó, chváľme Boha, Ochrancu verného,</line>
             <line>uplynul nám deň života časného,</line>
@@ -24861,7 +24865,7 @@
             <line>a raz púť žitia verne ukončili!</line>
         </verse>
     </song>
-    <song number="614" text="" music="">
+    <song number="614" text="J. Lengyel" music="">
         <verse number="1">
             <line>Nemôžem ešte odpočívať, nie,</line>
             <line>a nepripustím sen na viečka svoje,</line>
@@ -24905,7 +24909,7 @@
             <line>sláviť Ťa budem opäť, môj Pane!</line>
         </verse>
     </song>
-    <song number="615" text="" music="">
+    <song number="615" text="J. Szentgörgyi" music="">
         <verse number="1">
             <line>Hľa, jasné slnko zachádza,</line>
             <line>každý na lôžko odchádza</line>
@@ -24957,7 +24961,7 @@
             <line>otvorilo spásy stánok!</line>
         </verse>
     </song>
-    <song number="616" text="" music="">
+    <song number="616" text="L. B. Kašpar" music="D. Bortnianskij">
         <verse number="1">
             <line>Keď zas večer zvony znejú,</line>
             <line>pripomínaj že ti dnes mnoho dobrého</line>
@@ -24998,7 +25002,7 @@
             <line>duch môj, pred Ním zaplesaj!</line>
         </verse>
     </song>
-    <song number="617" text="" music="">
+    <song number="617" text="J. F. Herzog" music="">
         <verse number="1">
             <line>Hľa, k noci nachýlil sa deň,</line>
             <line>už slnko zachádza</line>
@@ -25054,7 +25058,7 @@
             <line>si mojou nádejou.</line>
         </verse>
     </song>
-    <song number="618" text="" music="">
+    <song number="618" text="Piesne pobožné 1929" music="">
         <verse number="1">
             <line>Ó, Slnce duše,</line>
             <line>Kriste môj, vôkol je tma,</line>
@@ -25093,7 +25097,7 @@
             <line>privítaš nás raz tam v nebi.</line>
         </verse>
     </song>
-    <song number="619" text="" music="">
+    <song number="619" text="Ch. Seriver" music="Partitúra M. Grylusa 1790">
         <verse number="1">
             <line>Nádhera, jas slnka, svetla pominuli,</line>
             <line>zhasol deň, chvíľa odpočinku zlietla,</line>
@@ -25154,7 +25158,7 @@
             <line>po sne príde prebudenie.</line>
         </verse>
     </song>
-    <song number="620" text="" music="">
+    <song number="620" text="F. T. Bastel" music="">
         <verse number="1">
             <line>Pane, daj nám požehnanie,</line>
             <line>prv než nás obkľúči sen,</line>
@@ -25180,7 +25184,7 @@
             <line>zbavená už všetkých mdlôb.</line>
         </verse>
     </song>
-    <song number="621" text="" music="">
+    <song number="621" text="Császárov spevník 1864" music="">
         <verse number="1">
             <line>Ó, Bože, ktorý žiješ večne,</line>
             <line>prijmi slová vďaky srdečné</line>
@@ -25222,7 +25226,7 @@
             <line>pre život na Tvoju slávu!</line>
         </verse>
     </song>
-    <song number="622" text="" music="">
+    <song number="622" text="J. Baštecký" music="L. B. Kašpar">
         <verse number="1">
             <line>Deň za dňom ubieha,</line>
             <line>Pán však vždy pomáha</line>
@@ -25258,7 +25262,7 @@
             <line>nikdy nevyhasne.</line>
         </verse>
     </song>
-    <song number="623" text="" music="">
+    <song number="623" text="J. Baštecký" music="W. H. Monk">
         <verse number="1">
             <line>Zostaň so mnou, veď už prichádza noc,</line>
             <line>ó, nech ma chráni, Pane, Tvoja moc!</line>
@@ -25290,7 +25294,7 @@
             <line>teraz i naveky zostaň so mnou!</line>
         </verse>
     </song>
-    <song number="624" text="" music="">
+    <song number="624" text="J. F. Räder" music="H. A. Malan">
         <verse number="1">
             <line>Dôveru maj v Pána, duša moja,</line>
             <line>zvečera i zrána je pomoc tvoja!</line>
@@ -25308,7 +25312,7 @@
             <line>nuž, vďaku srdečnú prijmi od nás!</line>
         </verse>
     </song>
-    <song number="625" text="" music="">
+    <song number="625" text="J. Baše-E. Antonowicz" music="J. Karafiát">
         <verse number="1">
             <line>Pod ochranou Najvyššieho</line>
             <line>raduj sa, verných plemä,</line>
@@ -25338,7 +25342,7 @@
             <line>nevytrhne podiel tvoj.</line>
         </verse>
     </song>
-    <song number="626" text="" music="">
+    <song number="626" text="Francúzsky zdroj" music="">
         <verse number="1">
             <line>Tvoja pravica, ó, Bože,</line>
             <line>žehnaj ma i pri spaní,</line>
@@ -25375,7 +25379,7 @@
             <line>veď Otcom dobrým si nám.</line>
         </verse>
     </song>
-    <song number="627" text="" music="">
+    <song number="627" text="J. E. Rankin" music="">
         <verse number="1">
             <line>Boh buď s vami, do videnia zas!</line>
             <line>Múdrosť svoju vždy vám dávaj,</line>

@@ -31,12 +31,13 @@ const SearchPage = (props: Props) => {
   const [input, setInput] = useState<string>()
   const [data, setData] = useState<SearchSong[]>()
 
-  const onChangeText = async (text: string) => {
-    setInput(text)
+  const onChangeText = async (rawText: string) => {
+    setInput(rawText)
+    const text = rawText.toLowerCase()
     if (text.length === 0) return setData([]);
     if (text.length > 2) {
-      let foundSongs = songArray.filter(s => s.text.includes(text) || s.music.includes(text) || s.verses.some(v => v.lines.some(s => (s.includes(text)))))
-      let searchSongs = foundSongs.map(s => { return { ...s, tVerse: s.verses.find(v => v.lines.some(s => (s.includes(text)))), searchText: text } }) as SearchSong[]
+      let foundSongs = songArray.filter(s => s.text.toLowerCase().includes(text) || s.number.toString().includes(text) || s.music.toLowerCase().includes(text) || s.verses.some(v => v.lines.some(s => (s.toLowerCase().includes(text)))))
+      let searchSongs = foundSongs.map(s => { return { ...s, tVerse: s.verses.find(v => v.lines.some(s => (s.toLowerCase().includes(text)))), searchText: text } }) as SearchSong[]
       if (searchSongs.length > 0) setData(searchSongs)
       else setData([])
     }
@@ -49,7 +50,7 @@ const SearchPage = (props: Props) => {
         <TextInput style={styles.inputText} placeholder="slovo" value={input} onChangeText={onChangeText}></TextInput>
         <FlatList
           data={data}
-          ListEmptyComponent={<>{input && input?.length > 1 && < Text style={{ marginTop: 100, fontFamily: 'LibreCaslonText_700Bold', color: 'rgb(61, 71, 122)', fontSize: 20 }}>Pieseň sa nenašla</Text>}</>}
+          ListEmptyComponent={<>{input && input?.length >= 1 && < Text style={{ marginTop: 100, textAlign: 'center', fontFamily: 'LibreCaslonText_700Bold', color: 'rgb(61, 71, 122)', fontSize: 20 }}>{input.length < 3 ? "Pre vyhladávanie je nutné zadať aspoň 3 znaky" : "Pieseň sa nenašla"}</Text>}</>}
           renderItem={({ item, index }) =>
             <Pressable key={index} onPress={() => {
               if (context.setSongNumber) {

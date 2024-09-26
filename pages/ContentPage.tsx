@@ -45,7 +45,8 @@ const ContentPage = (props: Props) => {
               if (context.setSongNumber && !item.section) {
                 context.setSongNumber(item.begin)
                 navigation.navigate('Song')
-              } else setSection(item)
+              } else if (section === item) setSection(undefined)
+              else setSection(item)
             }}
             key={index}
           >

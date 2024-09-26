@@ -1,4 +1,4 @@
-import React, { useContext, useMemo, useState } from 'react'
+import React, { useContext, useMemo, useRef, useState } from 'react'
 import { SongProps } from '../types/types'
 import { ScrollView, StyleSheet, Text, View } from 'react-native'
 import Verse from '../components/Verse'
@@ -13,11 +13,12 @@ import {
   LibreCaslonText_400Regular_Italic,
   LibreCaslonText_700Bold,
 } from '@expo-google-fonts/libre-caslon-text';
+import { useKeepAwake } from 'expo-keep-awake'
 
 
 const SongPage = ({ songs }: { songs: SongProps[] }) => {
 
-
+  useKeepAwake();
 
   let [fL] = uF({ IMFellEnglish_400Regular_Italic })
   let [fontsLoaded] = useFonts({
@@ -26,6 +27,7 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
     LibreCaslonText_700Bold,
   });
 
+  const scrollRef = useRef<ScrollView>(null);
 
   const [fontFactor, setFontFactor] = useState<number>(0)
 
@@ -48,8 +50,9 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
   }, [context.songNumber])
 
   const song = useMemo(() => {
+    if (scrollRef.current) scrollRef.current.scrollTo({ y: 0 })
     return songs.find((s) => s.number === context.songNumber) || songs[0]
-  }, [context.songNumber])
+  }, [context.songNumber, scrollRef.current])
 
   //TODO find 143 song
 
@@ -73,10 +76,11 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
     song && (
       <View style={styles.container}>
         <ScrollView
+          ref={scrollRef}
           contentContainerStyle={styles.scrollContainer}
           style={styles.scroll}
         >
-          <Text style={{ fontFamily: 'LibreCaslonText_700Bold', fontSize: 18, textAlign: 'center' }}>{title}</Text>
+
           <View
             style={{
               flex: 1,
@@ -91,29 +95,30 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
             >
               {song.number}
             </Text>
-            <Text style={{ ...styles.music, paddingRight: 16 }}>
+            <Text style={{ ...styles.music, paddingRight: 16, paddingTop: 18 }}>
               {song.music}
             </Text>
           </View>
           {ratio <= 1 ? (
             <>
-              {imageSources[song.number].map((source, i) => {
-                let { height, width } = images[i]
+              <View style={{ marginBottom: 28 }}>
+                {imageSources[song.number].map((source, i) => {
+                  let { height, width } = images[i]
 
-                return (
-                  <Image
-                    style={{
-                      resizeMode: 'contain',
-                      height:
-                        height *
-                        ((Dimensions.get('window').width * ratio) / width),
-                      width: width
-                    }}
-                    key={i}
-                    source={source}
-                  />
-                )
-              })}
+                  return (
+                    <Image
+                      style={{
+                        resizeMode: 'contain',
+                        height:
+                          height *
+                          ((Dimensions.get('window').width * ratio) / width),
+                        width: width
+                      }}
+                      key={i}
+                      source={source}
+                    />
+                  )
+                })}</View>
               <View style={styles.verseContainer}>
                 {song.verses && song.verses.length > 1 ? (
                   song.verses
@@ -137,13 +142,17 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
               )}
             </View>
           )}
-          <Text style={styles.music}>{song.text}</Text>
-        </ScrollView>
+          <View style={{
+            flex: 1, flexDirection: 'row-reverse', width: Dimensions.get("window").width * 0.8,
+          }} ><Text style={styles.music}>{song.text}</Text></View>
+
+          <Text style={{ fontFamily: 'LibreCaslonText_700Bold', fontSize: 18, opacity: 0.4, textAlign: 'center', marginTop: 100 }}>{title}</Text>
+        </ScrollView >
         <BottomMenu
           songNumber={song.number}
           onFontSizeChangeUp={onFontChange}
         />
-      </View>
+      </View >
     )
   )
 }
@@ -160,7 +169,7 @@ const styles = StyleSheet.create({
   },
   verseContainer: {
     flex: 1,
-    padding: 10,
+    marginHorizontal: 20,
     alignItems: 'flex-start'
   },
   scrollContainer: {
@@ -177,9 +186,8 @@ const styles = StyleSheet.create({
     fontFamily: 'LibreCaslonText_700Bold'
   },
   music: {
-    paddingTop: 18,
     fontSize: 16,
-    fontFamily: 'IMFellEnglish_400Regular_Italic'
+    fontFamily: 'IMFellEnglish_400Regular_Italic',
   },
   songPager: {
     marginBottom: 10,

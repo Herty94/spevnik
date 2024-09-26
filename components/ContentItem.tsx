@@ -5,6 +5,7 @@ import {
   LibreCaslonText_400Regular,
   LibreCaslonText_700Bold
 } from '@expo-google-fonts/libre-caslon-text'
+import { FontAwesome5 } from '@expo/vector-icons';
 
 import { ContentType } from '../types/types'
 
@@ -23,25 +24,16 @@ const ContentItem = (props: ContentType & { selected?: boolean, level?: number }
           backgroundColor: props.selected ? 'white' : 'rgb(219, 223, 245)'
         }}
       >
-        <View style={{ flex: 1, flexDirection: 'column' }}>
-          <View style={{ flex: 1, marginBottom: 6 }}>
-            <Text style={styles.text}>{props.name}</Text>
-          </View>
-          <View style={{ backgroundColor: 'black', height: 1 }}></View>
-          <View
-            style={{
-              marginTop: 6,
-              flex: 1,
-              flexDirection: 'row',
-              justifyContent: 'space-between'
-            }}
-          >
-            <Text style={styles.number}>{props.begin}</Text>
-            <Text style={styles.number}>-</Text>
-            <Text style={styles.number}>{props.end}</Text>
-          </View>
+        <View >
+          <Text style={styles.text}>{props.name}</Text>
         </View>
-      </View>
+        {props.section && props.section.length >= 0 && <View style={{ borderRadius: 10 }}><FontAwesome5 name={props.selected ? "angle-up" : "angle-down"} size={20} color="white" /></View>}
+        {/* <View style={{ flex: 1j, flexDirection: "column", borderWidth: 4 }}>
+          <Text style={styles.number}>{props.begin}</Text>
+          <Text style={styles.number}>{props.end}</Text>
+        </View> */}
+
+      </View >
     )
   )
 }
@@ -52,7 +44,10 @@ const styles = StyleSheet.create({
     paddingVertical: 6,
     paddingHorizontal: 8,
     marginBottom: 8,
-    borderRadius: 8
+    borderRadius: 8,
+    flex: 1,
+    justifyContent: 'space-between',
+    flexDirection: 'row'
   },
   text: {
     flexWrap: 'wrap',

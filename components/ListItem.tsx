@@ -24,7 +24,7 @@ const ListItem = (props: SearchSong) => {
         <View style={{ flex: 1, marginLeft: 8 }}>
           {props.tVerse &&
             props.tVerse.lines
-              .filter((l) => l?.includes(props.searchText!))
+              .filter((l) => l?.toLowerCase().includes(props.searchText!))
               ?.map((l, i) => (
                 <Text style={{ flexWrap: 'wrap', fontFamily: 'LibreCaslonText_400Regular', fontSize: 16 }} key={i}>
                   {l}

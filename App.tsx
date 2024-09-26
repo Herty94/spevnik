@@ -53,13 +53,13 @@ export default function App() {
       setSongNumber
     }}>
       <NavigationContainer theme={MyTheme} >
-        <Tab.Navigator screenOptions={({ route }) => ({
+        <Tab.Navigator initialRouteName='Song' screenOptions={({ route }) => ({
           headerShown: false,
           tabBarIcon: ({ focused, color, size }) => {
             let iconName;
 
             if (route.name === 'Song') {
-              iconName = 'itunes-note'
+              iconName = 'book-open'
             } else if (route.name === 'Search') {
               iconName = 'search'
             }
@@ -76,6 +76,7 @@ export default function App() {
           tabBarActiveTintColor: '#f6f6f6',
           tabBarShowLabel: true,
           tabBarInactiveTintColor: 'rgb(173, 181, 220)',
+
         })}>
           <Tab.Screen name="Content" options={{ title: "Obsah" }} component={ContentPageScreen} />
           <Tab.Screen name="Song" options={{ title: "Pieseň" }} component={SongPageScreen} />
