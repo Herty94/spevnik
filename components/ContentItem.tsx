@@ -41,8 +41,8 @@ const ContentItem = (props: ContentType & { selected?: boolean, level?: number }
 const styles = StyleSheet.create({
   container: {
     width: Dimensions.get('window').width * 0.8,
-    paddingVertical: 6,
-    paddingHorizontal: 8,
+    paddingVertical: 12,
+    paddingHorizontal: 10,
     marginBottom: 8,
     borderRadius: 8,
     flex: 1,
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   text: {
     flexWrap: 'wrap',
-    textAlign: 'center',
+    textAlign: 'left',
     fontSize: 16,
     fontFamily: 'LibreCaslonText_700Bold'
   },

@@ -75,7 +75,7 @@ export default function App() {
           },
           tabBarActiveTintColor: '#f6f6f6',
           tabBarShowLabel: true,
-          tabBarInactiveTintColor: 'rgb(173, 181, 220)',
+          tabBarInactiveTintColor: 'rgb(195, 203, 241)',
 
         })}>
           <Tab.Screen name="Content" options={{ title: "Obsah" }} component={ContentPageScreen} />

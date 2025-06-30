@@ -99,8 +99,10 @@ const styles = StyleSheet.create({
   },
   arrowButton: {
     marginHorizontal: 5,
+    padding: 0,
+    height: 48,
+    width: 48,
     borderRadius: 100,
-    width: 'auto',
     backgroundColor: 'transparent'
   }
 })
