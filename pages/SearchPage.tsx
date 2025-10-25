@@ -1,6 +1,6 @@
 import { useNavigation, ParamListBase, NavigationProp } from '@react-navigation/native';
-import React, { useContext, useState } from 'react';
-import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
+import React, { useContext, useRef, useState } from 'react';
+import { Dimensions, FlatList, Keyboard, Pressable, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
 import { AppContext, songArray } from '../utils/Globals';
 import {
   useFonts,
@@ -9,6 +9,7 @@ import {
 } from '@expo-google-fonts/libre-caslon-text';
 import { SearchSong } from '../types/types';
 import ListItem from '../components/ListItem';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 
 
@@ -25,8 +26,21 @@ const SearchPage = (props: Props) => {
 
   const navigation = useNavigation<NavigationProp<ParamListBase>>()
   const context = useContext(AppContext)
+  const inputRef = useRef<TextInput>(null)
 
-
+  React.useEffect(() => {
+    let timer: NodeJS.Timeout
+    const unsubscribe = navigation.addListener('focus', () => {
+      if (inputRef.current) {
+        timer = setTimeout(() => inputRef.current!.focus(), 500);
+      }
+    });
+    // Return the function to unsubscribe from the event so it gets removed on unmount
+    return () => {
+      unsubscribe
+      clearTimeout(timer);
+    }
+  }, [navigation]);
 
   const [input, setInput] = useState<string>()
   const [data, setData] = useState<SearchSong[]>()
@@ -47,7 +61,7 @@ const SearchPage = (props: Props) => {
     <View><TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
       <SafeAreaView style={{ flex: 1, marginTop: 40, justifyContent: 'center', alignItems: 'center' }}>
         <Text style={styles.label}>Hľadaj slovo</Text>
-        <TextInput style={styles.inputText} placeholder="slovo" value={input} returnKeyType='search' onChangeText={onChangeText}></TextInput>
+        <TextInput ref={inputRef} style={styles.inputText} placeholder="slovo" selectTextOnFocus value={input} returnKeyType='search' onChangeText={onChangeText}></TextInput>
         <FlatList
           data={data}
           ListEmptyComponent={<View>{input && input?.length >= 1 && < Text style={{ marginTop: 100, textAlign: 'center', fontFamily: 'LibreCaslonText_700Bold', color: 'rgb(61, 71, 122)', fontSize: 20 }}>{input.length < 3 ? "Pre vyhladávanie je nutné zadať aspoň 3 znaky" : "Pieseň sa nenašla"}</Text>}</View>}

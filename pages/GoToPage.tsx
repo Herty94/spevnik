@@ -1,6 +1,6 @@
-import { useNavigation, ParamListBase, NavigationProp } from '@react-navigation/native';
+import { useNavigation, ParamListBase, NavigationProp, useFocusEffect } from '@react-navigation/native';
 import React, { useContext, useRef, useState } from 'react';
-import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
+import { Dimensions, FlatList, InteractionManager, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
 import { AppContext, LAST_SONG, songArray } from '../utils/Globals';
 import {
   useFonts,
@@ -25,8 +25,9 @@ const GoToPage = (props: Props) => {
 
   const navigation = useNavigation<NavigationProp<ParamListBase>>()
   const [number, onChangeNumber] = React.useState('');
-  const inputRef = useRef<TextInput>(null)
   const context = useContext(AppContext)
+  const inputRef = useRef<TextInput>(null);
+
 
 
   React.useEffect(() => {
