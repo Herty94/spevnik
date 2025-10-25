@@ -1,4 +1,4 @@
-import React, { useContext, useMemo, useRef, useState } from 'react'
+import React, { useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { SongProps } from '../types/types'
 import { ScrollView, StyleSheet, Text, View } from 'react-native'
 import Verse from '../components/Verse'
@@ -14,6 +14,7 @@ import {
   LibreCaslonText_700Bold,
 } from '@expo-google-fonts/libre-caslon-text';
 import { useKeepAwake } from 'expo-keep-awake'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 
 
 const SongPage = ({ songs }: { songs: SongProps[] }) => {
@@ -30,6 +31,16 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
   const scrollRef = useRef<ScrollView>(null);
 
   const [fontFactor, setFontFactor] = useState<number>(0)
+
+  useEffect(() => {
+    AsyncStorage.getItem('fontFactor').then(value => {
+      if (value) setFontFactor(Number(value))
+    })
+  }, [])
+
+  useEffect(() => {
+    AsyncStorage.setItem('fontFactor', fontFactor.toString()).then().catch(err => console.error("Error saving font factor", err));
+  }, [fontFactor])
 
   const context = useContext(AppContext)
 
@@ -100,7 +111,7 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
             </Text>
           </View>
           {ratio <= 1 ? (
-            <>
+            <View style={{ flex: 1, alignItems: 'center' }}>
               <View style={{ marginBottom: 28 }}>
                 {imageSources[song.number].map((source, i) => {
                   let { height, width } = images[i]
@@ -127,10 +138,10 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
                       <Verse key={i} {...v} fontSize={fontFactor} />
                     ))
                 ) : (
-                  <></>
+                  <View></View>
                 )}
               </View>
-            </>
+            </View>
           ) : (
             <View style={styles.verseContainer}>
               {song.verses && song.verses.length > 1 ? (
@@ -141,7 +152,8 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
                 <Verse {...song.verses[0]} fontSize={fontFactor} />
               )}
             </View>
-          )}
+          )
+          }
           <View style={{
             flex: 1, flexDirection: 'row-reverse', width: Dimensions.get("window").width * 0.8,
           }} ><Text style={styles.music}>{song.text}</Text></View>

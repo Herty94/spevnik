@@ -1,6 +1,6 @@
 import { useNavigation, ParamListBase, NavigationProp } from '@react-navigation/native';
 import React, { useContext, useState } from 'react';
-import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback } from 'react-native';
+import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
 import { AppContext, songArray } from '../utils/Globals';
 import {
   useFonts,
@@ -44,13 +44,13 @@ const SearchPage = (props: Props) => {
   }
 
   return fontsLoaded && (
-    <><TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
+    <View><TouchableWithoutFeedback onPress={() => Keyboard.dismiss()}>
       <SafeAreaView style={{ flex: 1, marginTop: 40, justifyContent: 'center', alignItems: 'center' }}>
         <Text style={styles.label}>Hľadaj slovo</Text>
-        <TextInput style={styles.inputText} placeholder="slovo" value={input} onChangeText={onChangeText}></TextInput>
+        <TextInput style={styles.inputText} placeholder="slovo" value={input} returnKeyType='search' onChangeText={onChangeText}></TextInput>
         <FlatList
           data={data}
-          ListEmptyComponent={<>{input && input?.length >= 1 && < Text style={{ marginTop: 100, textAlign: 'center', fontFamily: 'LibreCaslonText_700Bold', color: 'rgb(61, 71, 122)', fontSize: 20 }}>{input.length < 3 ? "Pre vyhladávanie je nutné zadať aspoň 3 znaky" : "Pieseň sa nenašla"}</Text>}</>}
+          ListEmptyComponent={<View>{input && input?.length >= 1 && < Text style={{ marginTop: 100, textAlign: 'center', fontFamily: 'LibreCaslonText_700Bold', color: 'rgb(61, 71, 122)', fontSize: 20 }}>{input.length < 3 ? "Pre vyhladávanie je nutné zadať aspoň 3 znaky" : "Pieseň sa nenašla"}</Text>}</View>}
           renderItem={({ item, index }) =>
             <Pressable key={index} onPress={() => {
               if (context.setSongNumber) {
@@ -62,7 +62,7 @@ const SearchPage = (props: Props) => {
           } />
       </SafeAreaView>
     </TouchableWithoutFeedback >
-    </>
+    </View>
   )
 }
 

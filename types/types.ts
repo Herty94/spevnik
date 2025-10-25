@@ -16,7 +16,7 @@ export type SearchSong = SongProps & {
 
 export type AppContextProps = {
   songNumber: number
-  setSongNumber: React.Dispatch<React.SetStateAction<number>>
+  setSongNumber: (value: number) => void
 }
 
 export type ContentType = {

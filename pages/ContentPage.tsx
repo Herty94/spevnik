@@ -50,7 +50,7 @@ const ContentPage = (props: Props) => {
             }}
             key={index}
           >
-            <>
+            <View>
               <ContentItem {...item} selected={item.name === section?.name} />
               {item.section &&
                 (item.name === section?.name ||
@@ -86,7 +86,7 @@ const ContentPage = (props: Props) => {
                     />
                   </View>
                 )}
-            </>
+            </View>
           </Pressable>
         )}
       />

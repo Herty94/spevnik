@@ -28,8 +28,7 @@ export default function BottomMenu(props: Props) {
         onPress={() => {
           if (context.setSongNumber)
             context.setSongNumber(
-              (current) =>
-                (current = ((LAST_SONG + current - 2) % LAST_SONG) + 1)
+              ((LAST_SONG + props.songNumber - 2) % LAST_SONG) + 1
             )
         }}
         icon={
@@ -49,7 +48,7 @@ export default function BottomMenu(props: Props) {
         onPress={() => {
           if (context.setSongNumber)
             context.setSongNumber(
-              (current) => (current = (current % LAST_SONG) + 1)
+              (props.songNumber % LAST_SONG) + 1
             )
         }}
         icon={
@@ -84,7 +83,7 @@ export default function BottomMenu(props: Props) {
           <Icon size={28} name="plus" color="white" type="font-awesome-5" />
         }
       ></Button>
-    </View>
+    </View >
   )
 }
 const styles = StyleSheet.create({

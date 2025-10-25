@@ -1,6 +1,6 @@
 import { useNavigation, ParamListBase, NavigationProp } from '@react-navigation/native';
 import React, { useContext, useRef, useState } from 'react';
-import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback } from 'react-native';
+import { Dimensions, FlatList, Keyboard, Pressable, SafeAreaView, StyleSheet, Text, TextInput, TouchableWithoutFeedback, View } from 'react-native';
 import { AppContext, LAST_SONG, songArray } from '../utils/Globals';
 import {
   useFonts,
@@ -48,7 +48,7 @@ const GoToPage = (props: Props) => {
 
 
   return fontsLoaded && (
-    <>
+    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text style={styles.label}>Číslo piesne</Text>
       <TextInput
         ref={inputRef}
@@ -58,6 +58,7 @@ const GoToPage = (props: Props) => {
         selectTextOnFocus
         placeholder="000"
         keyboardType="numeric"
+        returnKeyType='go'
         maxLength={3}
         onSubmitEditing={
           () => {
@@ -66,9 +67,9 @@ const GoToPage = (props: Props) => {
           }
         }
       />
-      {Number(number) > LAST_SONG && (<>< Text style={styles.out} >Číslo je mimo rozsah</Text>
-        <Text style={{ color: '#bf341c' }}>posledná pieseň je {LAST_SONG}</Text ></>)}
-    </>
+      {Number(number) > LAST_SONG && (<View>< Text style={styles.out} >Číslo je mimo rozsah</Text>
+        <Text style={{ color: '#bf341c' }}>posledná pieseň je {LAST_SONG}</Text ></View>)}
+    </View>
   )
 }
 

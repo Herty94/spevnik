@@ -6,10 +6,11 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesome5 } from '@expo/vector-icons';
 import { Octicons } from '@expo/vector-icons';
 import SearchPage from './pages/SearchPage';
-import { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { AppContext, songArray } from './utils/Globals';
 import GoToPage from './pages/GoToPage';
 import ContentPage from './pages/ContentPage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 
 const ContentPageScreen = () => {
@@ -44,8 +45,17 @@ const MyTheme = {
 };
 
 export default function App() {
-  const [songNumber, setSongNumber] = useState(1);
+  const [songNumber, _setSongNumber] = useState(1);
 
+  useEffect(() => {
+    AsyncStorage.getItem('songNumber').then(value => { if (value) setSongNumber(Number(value)) })
+  }, [])
+
+  const setSongNumber = (value: React.SetStateAction<number>) => {
+    console.log("Setting song number to", value);
+    _setSongNumber(value);
+    AsyncStorage.setItem('songNumber', value.toString()).then().catch(err => console.error("Error saving song number", err));
+  }
 
   return (
     <AppContext.Provider value={{
