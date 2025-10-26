@@ -12,6 +12,7 @@ import {
   useFonts,
   LibreCaslonText_700Bold
 } from '@expo-google-fonts/libre-caslon-text'
+import { SafeAreaView } from 'react-native-safe-area-context'
 
 type Props = {}
 
@@ -36,7 +37,7 @@ const ContentPage = (props: Props) => {
   }, [context.songNumber])
 
   return (
-    <View style={{ paddingTop: 40 }}>
+    <SafeAreaView style={{ paddingTop: 20 }}>
       <FlatList
         data={contentArray}
         renderItem={({ item, index }) => (
@@ -90,7 +91,7 @@ const ContentPage = (props: Props) => {
           </Pressable>
         )}
       />
-    </View>
+    </SafeAreaView>
   )
 }
 

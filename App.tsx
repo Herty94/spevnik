@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, View } from 'react-native';
+import { KeyboardAvoidingView, Platform, StyleSheet, View } from 'react-native';
 import SongPage from './pages/SongPage';
 import { NavigationContainer, DefaultTheme, ParamListBase } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -11,6 +11,7 @@ import { AppContext, songArray } from './utils/Globals';
 import GoToPage from './pages/GoToPage';
 import ContentPage from './pages/ContentPage';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 
 const ContentPageScreen = () => {
@@ -61,7 +62,10 @@ export default function App() {
     <AppContext.Provider value={{
       songNumber,
       setSongNumber
-    }}>
+    }}><SafeAreaProvider>
+        <KeyboardAvoidingView
+      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+      style={{flex:1}}>
       <NavigationContainer theme={MyTheme} >
         <Tab.Navigator initialRouteName='Song' screenOptions={({ route }) => ({
           headerShown: false,
@@ -95,6 +99,8 @@ export default function App() {
         </Tab.Navigator>
         <StatusBar style="auto" />
       </NavigationContainer >
+      </KeyboardAvoidingView>
+      </SafeAreaProvider>
     </AppContext.Provider >
   );
 }
