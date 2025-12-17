@@ -64,42 +64,42 @@ export default function App() {
       setSongNumber
     }}><SafeAreaProvider>
         <KeyboardAvoidingView
-      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-      style={{flex:1}}>
-      <NavigationContainer theme={MyTheme} >
-        <Tab.Navigator initialRouteName='Song' screenOptions={({ route }) => ({
-          headerShown: false,
-          tabBarIcon: ({ focused, color, size }) => {
-            let iconName;
+          behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+          style={{ flex: 1 }}>
+          <NavigationContainer theme={MyTheme} >
+            <Tab.Navigator initialRouteName='Song' screenOptions={({ route }) => ({
+              headerShown: false,
+              tabBarIcon: ({ focused, color, size }) => {
+                let iconName;
 
-            if (route.name === 'Song') {
-              iconName = 'book-open'
-            } else if (route.name === 'Search') {
-              iconName = 'search'
-            }
-            else if (route.name === 'Content') {
-              iconName = 'list'
-            }
-            else {
-              return <Octicons name='number' size={size} color={color} />
-            }
+                if (route.name === 'Song') {
+                  iconName = 'book-open'
+                } else if (route.name === 'Search') {
+                  iconName = 'search'
+                }
+                else if (route.name === 'Content') {
+                  iconName = 'list'
+                }
+                else {
+                  return <Octicons name='number' size={size} color={color} />
+                }
 
-            // You can return any component that you like here!
-            return <FontAwesome5 name={iconName} size={size} color={color} />
-          },
-          tabBarActiveTintColor: '#f6f6f6',
-          tabBarShowLabel: true,
-          tabBarInactiveTintColor: 'rgb(195, 203, 241)',
+                // You can return any component that you like here!
+                return <FontAwesome5 name={iconName} size={size} color={color} />
+              },
+              tabBarActiveTintColor: '#f6f6f6',
+              tabBarShowLabel: true,
+              tabBarInactiveTintColor: 'rgb(195, 203, 241)',
 
-        })}>
-          <Tab.Screen name="Content" options={{ title: "Obsah" }} component={ContentPageScreen} />
-          <Tab.Screen name="Song" options={{ title: "Pieseň" }} component={SongPageScreen} />
-          <Tab.Screen name="Search" options={{ title: "Hľadaj" }} component={SearchPageScreen} />
-          <Tab.Screen name="Goto" options={{ title: "Číslo" }} component={GotoPageScreen} />
-        </Tab.Navigator>
-        <StatusBar style="auto" />
-      </NavigationContainer >
-      </KeyboardAvoidingView>
+            })}>
+              <Tab.Screen name="Content" options={{ title: "Obsah" }} component={ContentPageScreen} />
+              <Tab.Screen name="Song" options={{ title: "Pieseň" }} component={SongPageScreen} />
+              <Tab.Screen name="Search" options={{ title: "Hľadaj" }} component={SearchPageScreen} />
+              <Tab.Screen name="Goto" options={{ title: "Číslo" }} component={GotoPageScreen} />
+            </Tab.Navigator>
+            <StatusBar style="auto" />
+          </NavigationContainer >
+        </KeyboardAvoidingView>
       </SafeAreaProvider>
     </AppContext.Provider >
   );
