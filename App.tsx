@@ -53,7 +53,6 @@ export default function App() {
   }, [])
 
   const setSongNumber = (value: React.SetStateAction<number>) => {
-    console.log("Setting song number to", value);
     _setSongNumber(value);
     AsyncStorage.setItem('songNumber', value.toString()).then().catch(err => console.error("Error saving song number", err));
   }
