@@ -1,6 +1,8 @@
 import React, { useContext, useEffect, useMemo, useRef, useState } from 'react'
 import { SongProps } from '../types/types'
 import { ScrollView, StyleSheet, Text, View } from 'react-native'
+import { Button } from 'react-native-elements'
+import MaterialIcons from '@expo/vector-icons/MaterialIcons'
 import Verse from '../components/Verse'
 import { imageSources } from '../assets/songs/imageSources'
 import { Dimensions, Image } from 'react-native'
@@ -15,8 +17,12 @@ import {
 } from '@expo-google-fonts/libre-caslon-text';
 import { useKeepAwake } from 'expo-keep-awake'
 import AsyncStorage from '@react-native-async-storage/async-storage'
+import { useAudioPlayer, useAudioPlayerStatus } from 'expo-audio';
+import Constants from 'expo-constants';
 
 
+
+// Use a plain URI for remote audio (do NOT use require() with remote URLs)
 const SongPage = ({ songs }: { songs: SongProps[] }) => {
 
   useKeepAwake();
@@ -60,12 +66,18 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
     }
   }, [context.songNumber])
 
-  const song = useMemo(() => {
-    if (scrollRef.current) scrollRef.current.scrollTo({ y: 0 })
-    return songs.find((s) => s.number === context.songNumber) || songs[0]
-  }, [context.songNumber, scrollRef.current])
+  const song = useMemo(
+    () => songs.find(s => s.number === context.songNumber) ?? songs[0],
+    [context.songNumber, songs]
+  )
 
-  //TODO find 143 song
+  useEffect(() => {
+    scrollRef.current?.scrollTo({ y: 0 })
+  }, [song?.number])
+
+  const audioSource = song
+    ? `https://www.remidia.sk/mp3/${String(song.number).padStart(3, '0')}.mp3`
+    : null
 
   const images = imageSources[song.number].map((im) => {
     let { height, width } = Image.resolveAssetSource(im)
@@ -80,6 +92,9 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
         else return current
       })
   }
+
+  const player = useAudioPlayer(audioSource ?? null)
+  const status = useAudioPlayerStatus(player)
 
   // useEffect(() => { songArray.forEach(s => console.log(s.number)) }, [songArray])
 
@@ -101,18 +116,19 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
               paddingHorizontal: 16
             }}
           >
+
             <Text
               style={{ ...styles.number, fontSize: NUMBER_F_SIZE }}
             >
               {song.number}
             </Text>
-            <Text style={{ ...styles.music, paddingRight: 16, paddingTop: 18 }}>
+            <Text style={{ ...styles.music, paddingRight: 16, paddingTop: 42 }}>
               {song.music}
             </Text>
           </View>
           {ratio <= 1 ? (
             <View style={{ flex: 1, alignItems: 'center' }}>
-              <View style={{ marginBottom: 28 }}>
+              <View style={{ marginBottom: 28 }} >
                 {imageSources[song.number].map((source, i) => {
                   let { height, width } = images[i]
 
@@ -163,6 +179,17 @@ const SongPage = ({ songs }: { songs: SongProps[] }) => {
         <BottomMenu
           songNumber={song.number}
           onFontSizeChangeUp={onFontChange}
+        />
+        <Button
+          onPress={() => {
+            if (status?.playing) player?.pause()
+            else player?.play()
+          }}
+          disabled={!audioSource}
+          containerStyle={styles.fabContainer}
+          buttonStyle={styles.fabButton}
+          disabledStyle={styles.fabDisabled}
+          icon={<MaterialIcons name={status?.playing ? 'pause' : 'play-arrow'} size={28} color="#fff" />}
         />
       </View >
     )
@@ -215,6 +242,33 @@ const styles = StyleSheet.create({
     borderRadius: 100,
     width: 'auto',
     backgroundColor: 'transparent'
+  }
+  ,
+  fabContainer: {
+    position: 'absolute',
+    top: Constants.statusBarHeight,
+    right: 16,
+    width: 52,
+    height: 52,
+    borderRadius: 26,
+    zIndex: 999,
+    elevation: 12,
+  },
+  fabButton: {
+    width: 52,
+    height: 52,
+    borderRadius: 26,
+    backgroundColor: 'rgb(75, 89, 161)',
+    alignItems: 'center',
+    justifyContent: 'center',
+    elevation: 6,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+  },
+  fabDisabled: {
+    opacity: 0.4,
   }
 })
 
